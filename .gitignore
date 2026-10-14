@@ -29,6 +29,8 @@ temp/
 .cache/
 portfolio-v2-audit.zip
 validation-*.png
+test-results/
+playwright-report/
 
 # Hosting and local tool state
 .netlify/

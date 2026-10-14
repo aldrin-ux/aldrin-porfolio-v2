@@ -48,7 +48,7 @@ const current = Astro.url.pathname;
   const backdropButton = header?.querySelector<HTMLButtonElement>(".mobile-backdrop");
   const mobileMenu = header?.querySelector<HTMLElement>("#mobile-menu");
   const mobileLinks = [...(header?.querySelectorAll<HTMLAnchorElement>(".mobile-link") ?? [])];
-  const focusableSelector = "a[href], button:not([disabled])";
+  const focusableSelector = "a[href]:not([tabindex='-1']), button:not([disabled]):not([tabindex='-1'])";
   let previousFocus: Element | null = null;
   let desktopGuard: number | undefined;
 

@@ -7,18 +7,19 @@ import { caseStudies, projects, siteMetadata } from "../../content/site";
 const caseStudy = caseStudies.mortar;
 const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).toString();
 const title = "Mortar Case Study - Aldrin Camacho";
-const description =
-  "Mortar case study by Aldrin Camacho, covering Webflow implementation and CMS setup for an interior-design SaaS platform.";
+const description = caseStudy.seoDescription;
 const jsonLd = [
   {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
-    name: caseStudy.title,
+    name: title,
     headline: caseStudy.heading,
+    about: { "@type": "Thing", name: caseStudy.title },
+    creditText: "Webflow marketing website project developed under Dazlab. Case study by Aldrin Camacho.",
     description,
     url: pageUrl,
     image: new URL(caseStudy.image, Astro.site ?? Astro.url.origin).toString(),
-    creator: {
+    author: {
       "@type": "Person",
       name: siteMetadata.name,
     },

@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "results": [
+    {
+      "file": "dist/index.html",
+      "employmentHistory": "7 confirmed employers and year ranges; no unsupported months"
+    },
+    {
+      "file": "dist/about/index.html",
+      "employmentHistory": "7 confirmed employers and year ranges; no unsupported months"
+    },
+    {
+      "file": "dist/work/dazlab/index.html",
+      "metadata": "article authorship, Dazlab credit and marketing-website scope verified; dates omitted"
+    },
+    {
+      "file": "dist/work/mortar/index.html",
+      "metadata": "article authorship, Dazlab credit and marketing-website scope verified; dates omitted"
+    },
+    {
+      "file": "dist/work/handl/index.html",
+      "metadata": "article authorship, Dazlab credit and marketing-website scope verified; dates omitted"
+    },
+    {
+      "file": "dist/work/tangilla/index.html",
+      "metadata": "article authorship, Dazlab credit and marketing-website scope verified; dates omitted"
+    }
+  ],
+  "unchanged": "All existing style blocks, homepage animation script, public assets, domain/Netlify config and contact handling"
+}

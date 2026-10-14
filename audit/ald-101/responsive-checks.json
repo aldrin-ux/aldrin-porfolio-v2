@@ -1,0 +1,138 @@
+[
+  {
+    "route": "/",
+    "mode": "desktop",
+    "brokenImages": 0,
+    "credit": true,
+    "h1": 1,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/about/",
+    "mode": "desktop",
+    "brokenImages": 0,
+    "credit": true,
+    "h1": 1,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/work/",
+    "mode": "desktop",
+    "brokenImages": 0,
+    "credit": true,
+    "h1": 1,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/work/dazlab/",
+    "mode": "desktop",
+    "brokenImages": 0,
+    "credit": true,
+    "h1": 1,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/work/mortar/",
+    "mode": "desktop",
+    "brokenImages": 0,
+    "credit": true,
+    "h1": 1,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/work/handl/",
+    "mode": "desktop",
+    "brokenImages": 0,
+    "credit": true,
+    "h1": 1,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/work/tangilla/",
+    "mode": "desktop",
+    "brokenImages": 0,
+    "credit": true,
+    "h1": 1,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/contact/",
+    "mode": "desktop",
+    "brokenImages": 0,
+    "credit": false,
+    "h1": 1,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/",
+    "mode": "mobile",
+    "brokenImages": 0,
+    "h1": 1,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/about/",
+    "mode": "mobile",
+    "brokenImages": 0,
+    "h1": 1,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/work/",
+    "mode": "mobile",
+    "brokenImages": 0,
+    "h1": 1,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/work/dazlab/",
+    "mode": "mobile",
+    "brokenImages": 0,
+    "h1": 1,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/work/mortar/",
+    "mode": "mobile",
+    "brokenImages": 0,
+    "h1": 1,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/work/handl/",
+    "mode": "mobile",
+    "brokenImages": 0,
+    "h1": 1,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/work/tangilla/",
+    "mode": "mobile",
+    "brokenImages": 0,
+    "h1": 1,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/contact/",
+    "mode": "mobile",
+    "brokenImages": 0,
+    "h1": 1,
+    "overflow": false,
+    "width": 390
+  }
+]

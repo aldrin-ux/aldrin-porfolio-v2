@@ -7,18 +7,19 @@ import { caseStudies, projects, siteMetadata } from "../../content/site";
 const caseStudy = caseStudies.dazlab;
 const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).toString();
 const title = "Dazlab Case Study - Aldrin Camacho";
-const description =
-  "Dazlab case study by Aldrin Camacho, covering Webflow development, CMS architecture, responsive implementation, and technical SEO foundations.";
+const description = caseStudy.seoDescription;
 const jsonLd = [
   {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
-    name: caseStudy.title,
+    name: title,
     headline: caseStudy.heading,
+    about: { "@type": "Thing", name: caseStudy.title },
+    creditText: "Webflow marketing website project developed under Dazlab. Case study by Aldrin Camacho.",
     description,
     url: pageUrl,
     image: new URL(caseStudy.image, Astro.site ?? Astro.url.origin).toString(),
-    creator: {
+    author: {
       "@type": "Person",
       name: siteMetadata.name,
     },

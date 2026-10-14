@@ -26,10 +26,10 @@ const marqueeTools = [...tools, ...tools];
       <h2 id="tools-heading">Built with<span class="accent">.</span></h2>
     </div>
 
-    <div class="marquee" tabindex="0" aria-label="Tools and technologies used in Aldrin's work">
-      <div class="marquee-track">
+    <div class="marquee" tabindex="0" role="region" aria-label="Tools and technologies used in Aldrin's work">
+      <div class="marquee-track" aria-hidden="true">
         {marqueeTools.map((tool, index) => (
-          <div class="tool-logo" aria-label={index < tools.length ? tool.name : undefined} aria-hidden={index >= tools.length ? "true" : undefined}>
+          <div class="tool-logo">
             {tool.logo ? (
               <img src={tool.logo} alt="" width="32" height="32" loading="lazy" decoding="async" />
             ) : (
@@ -168,7 +168,7 @@ const marqueeTools = [...tools, ...tools];
       animation: none;
     }
 
-    .tool-logo[aria-hidden="true"] {
+    .tool-logo:nth-child(n + 10) {
       display: none;
     }
   }

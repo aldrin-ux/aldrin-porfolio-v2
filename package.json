@@ -13,5 +13,8 @@
   "dependencies": {
     "astro": "^5.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.64.0"
+  }
 }

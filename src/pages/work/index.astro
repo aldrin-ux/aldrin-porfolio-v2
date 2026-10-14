@@ -45,8 +45,8 @@ const jsonLd = [
         eyebrow="01 / Work Archive"
         title="Work that speaks for itself"
         description="A focused archive of Webflow builds, CMS systems, and technical implementation."
+        headingLevel="h1"
       />
-      <h1 class="sr-only">Work Archive</h1>
       <div class="filters" aria-label="Work categories">
         <span>All Work (4)</span>
         <span>SaaS</span>
@@ -59,7 +59,7 @@ const jsonLd = [
   <section class="section section--warm">
     <div class="container">
       <div class="grid-two">
-        {projects.map((project) => <ProjectCard project={project} />)}
+        {projects.map((project) => <ProjectCard project={project} headingLevel="h2" />)}
       </div>
       <div class="archive-cta">
         <p>Want the thinking behind the work?</p>

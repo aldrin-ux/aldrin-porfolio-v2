@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Netlify form definitions</title>
+  </head>
+  <body>
+    <form
+      name="portfolio-inquiry"
+      method="POST"
+      action="/contact/success/"
+      data-netlify="true"
+      netlify-honeypot="bot-field"
+      hidden
+    >
+      <input type="hidden" name="form-name" value="portfolio-inquiry" />
+      <input type="text" name="bot-field" />
+      <input type="radio" name="scope" value="Website Project" />
+      <input type="radio" name="scope" value="Remote Role" />
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <textarea name="message"></textarea>
+    </form>
+  </body>
+</html>

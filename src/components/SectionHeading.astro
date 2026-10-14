@@ -3,16 +3,18 @@ interface Props {
   eyebrow: string;
   title: string;
   description?: string;
+  headingLevel?: "h1" | "h2";
 }
 
-const { eyebrow, title, description } = Astro.props;
+const { eyebrow, title, description, headingLevel = "h2" } = Astro.props;
 const heading = title.trim().replace(/\.+$/, "");
+const HeadingTag = headingLevel;
 ---
 
 <div class:list={["section-heading", { "has-description": description }]}>
   <div>
     <span class="eyebrow">{eyebrow}</span>
-    <h2>{heading}<span class="accent">.</span></h2>
+    <HeadingTag>{heading}<span class="accent">.</span></HeadingTag>
   </div>
   {description && <p>{description}</p>}
 </div>
@@ -29,6 +31,7 @@ const heading = title.trim().replace(/\.+$/, "");
     margin-bottom: clamp(1.35rem, 3vw, 2rem);
   }
 
+  h1,
   h2 {
     margin: 0.25rem 0 0;
     font-size: clamp(2.25rem, 5vw, 2.75rem);
@@ -49,6 +52,7 @@ const heading = title.trim().replace(/\.+$/, "");
       margin-bottom: 1.5rem;
     }
 
+    h1,
     h2 {
       font-size: 1.65rem;
     }

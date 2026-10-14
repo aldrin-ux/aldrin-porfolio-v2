@@ -9,16 +9,18 @@ interface Props {
     image: string;
     alt: string;
   };
+  headingLevel?: "h2" | "h3";
 }
 
-const { project } = Astro.props;
+const { project, headingLevel = "h3" } = Astro.props;
+const HeadingTag = headingLevel;
 ---
 
 <article class="project-card">
   <div class="project-top">
-    <h3>
+    <HeadingTag>
       <a href={project.href}>{project.title}<span class="accent">↗</span></a>
-    </h3>
+    </HeadingTag>
     <div class="project-actions">
       <a class="text-link" href={project.href}>View Case Study ↗</a>
       <a
@@ -72,6 +74,7 @@ const { project } = Astro.props;
     color: var(--muted);
   }
 
+  h2,
   h3 {
     margin: 0;
     font-size: 1.35rem;
@@ -79,6 +82,7 @@ const { project } = Astro.props;
     line-height: 1.2;
   }
 
+  h2 span,
   h3 span {
     margin-left: 0.35rem;
     font-size: 1rem;

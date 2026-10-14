@@ -88,12 +88,17 @@ const missingFacts = study.missingFacts ?? [];
     margin-top: 2rem;
   }
 
+  .hero-grid > * {
+    min-width: 0;
+  }
+
   h1 {
     margin: 0.5rem 0 0;
     font-size: clamp(3rem, 8vw, 5.5rem);
     font-weight: 500;
     letter-spacing: -0.045em;
     line-height: 0.98;
+    overflow-wrap: anywhere;
   }
 
   .hero-grid p {
@@ -188,6 +193,10 @@ const missingFacts = study.missingFacts ?? [];
     .hero-grid {
       grid-template-columns: 1fr;
       gap: 1rem;
+    }
+
+    .eyebrow {
+      overflow-wrap: anywhere;
     }
 
     .meta-grid {

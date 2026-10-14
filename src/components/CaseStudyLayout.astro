@@ -1,4 +1,6 @@
 ---
+import { imageAssets } from "../content/imageAssets";
+
 interface Detail {
   0: string;
   1: string;
@@ -25,6 +27,7 @@ const sections = study.sections.map((section) => ({
   title: section.title.trim().replace(/\.+$/, ""),
 }));
 const missingFacts = study.missingFacts ?? [];
+const image = imageAssets[study.image]?.study;
 ---
 
 <section class="case-hero section">
@@ -49,7 +52,16 @@ const missingFacts = study.missingFacts ?? [];
       Visit Live Website ↗
     </a>
     <figure>
-      <img src={study.image} alt={study.imageAlt ?? `${study.title} production website preview`} />
+      <img
+        src={image?.src ?? study.image}
+        srcset={image?.srcset}
+        sizes="(max-width: 1280px) calc(100vw - 2rem), 1200px"
+        width={image?.width}
+        height={image?.height}
+        alt={study.imageAlt ?? `${study.title} production website preview`}
+        loading="eager"
+        decoding="async"
+      />
     </figure>
   </div>
 </section>

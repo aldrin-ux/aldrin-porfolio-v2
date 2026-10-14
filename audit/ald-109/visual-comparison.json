@@ -1,0 +1,74 @@
+[
+  {
+    "page": "home",
+    "mode": "desktop",
+    "textIdentical": true,
+    "fontIdentical": true,
+    "overflow": false,
+    "headingGeometryIdentical": true,
+    "maxImageGeometryDelta": 0.000049591064453125
+  },
+  {
+    "page": "work",
+    "mode": "desktop",
+    "textIdentical": true,
+    "fontIdentical": true,
+    "overflow": false,
+    "headingGeometryIdentical": true,
+    "maxImageGeometryDelta": 0
+  },
+  {
+    "page": "dazlab",
+    "mode": "desktop",
+    "textIdentical": true,
+    "fontIdentical": true,
+    "overflow": false,
+    "headingGeometryIdentical": true,
+    "maxImageGeometryDelta": 0
+  },
+  {
+    "page": "about",
+    "mode": "desktop",
+    "textIdentical": true,
+    "fontIdentical": true,
+    "overflow": false,
+    "headingGeometryIdentical": true,
+    "maxImageGeometryDelta": 0
+  },
+  {
+    "page": "home",
+    "mode": "mobile",
+    "textIdentical": true,
+    "fontIdentical": true,
+    "overflow": false,
+    "headingGeometryIdentical": true,
+    "maxImageGeometryDelta": 0.0000972747802734375
+  },
+  {
+    "page": "work",
+    "mode": "mobile",
+    "textIdentical": true,
+    "fontIdentical": true,
+    "overflow": false,
+    "headingGeometryIdentical": true,
+    "maxImageGeometryDelta": 0
+  },
+  {
+    "page": "dazlab",
+    "mode": "mobile",
+    "textIdentical": true,
+    "fontIdentical": true,
+    "overflow": false,
+    "headingGeometryIdentical": true,
+    "maxImageGeometryDelta": 0
+  },
+  {
+    "page": "about",
+    "mode": "mobile",
+    "textIdentical": true,
+    "fontIdentical": true,
+    "overflow": false,
+    "headingGeometryIdentical": true,
+    "maxImageGeometryDelta": 0
+  }
+]

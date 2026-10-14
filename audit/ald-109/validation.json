@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checkedImages": 30,
+  "checkedFonts": 13,
+  "routes": 9,
+  "assetRequests": 21,
+  "unchanged": [
+    "Hero animation script",
+    "Reduced-motion rules",
+    "Global CSS and card/case-study style blocks",
+    "Security/CSP and preview noindex headers",
+    "Contact handling",
+    "Professional content and provisional-rights notes"
+  ],
+  "newDependencies": 0,
+  "contactSubmissions": 0
+}

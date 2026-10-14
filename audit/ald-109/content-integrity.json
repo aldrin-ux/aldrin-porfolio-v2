@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "routes": [
+    "index.html",
+    "about/index.html",
+    "work/index.html",
+    "work/dazlab/index.html",
+    "work/mortar/index.html",
+    "work/handl/index.html",
+    "work/tangilla/index.html",
+    "contact/index.html",
+    "contact/success/index.html"
+  ],
+  "checks": [
+    "Visible text unchanged",
+    "Meta tags/title/canonical unchanged",
+    "JSON-LD unchanged"
+  ]
+}

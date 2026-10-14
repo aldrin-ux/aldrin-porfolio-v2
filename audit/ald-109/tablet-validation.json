@@ -1,0 +1,55 @@
+[
+  {
+    "name": "home",
+    "fonts": "loaded",
+    "hero": "hero is-complete",
+    "images": [
+      {
+        "alt": "Aldrin Camacho designer and developer portrait",
+        "ok": true
+      }
+    ],
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "name": "work",
+    "fonts": "loaded",
+    "images": [
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "ok": true
+      },
+      {
+        "alt": "Mortar interior-design SaaS website showcase",
+        "ok": true
+      }
+    ],
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "name": "dazlab",
+    "fonts": "loaded",
+    "images": [
+      {
+        "alt": "Dazlab public marketing website screenshot",
+        "ok": true
+      }
+    ],
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "name": "about",
+    "fonts": "loaded",
+    "images": [
+      {
+        "alt": "Standing studio portrait of Aldrin Camacho",
+        "ok": true
+      }
+    ],
+    "overflow": false,
+    "width": 768
+  }
+]

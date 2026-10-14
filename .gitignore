@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Astro output and cache
+dist/
+.astro/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+local-secrets/
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+Thumbs.db
+tmp/
+temp/
+.cache/
+portfolio-v2-audit.zip
+validation-*.png
+
+# Hosting and local tool state
+.netlify/
+.vercel/
+

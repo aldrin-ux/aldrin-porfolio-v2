@@ -1,0 +1,42 @@
+[
+  {
+    "backdrop": {
+      "h": 0,
+      "w": 0
+    },
+    "expanded": "false",
+    "hidden": true,
+    "label": "initial",
+    "navOpen": false
+  },
+  {
+    "backdrop": {
+      "h": 844,
+      "w": 390
+    },
+    "expanded": "true",
+    "hidden": false,
+    "label": "open",
+    "navOpen": true
+  },
+  {
+    "backdrop": {
+      "h": 0,
+      "w": 0
+    },
+    "expanded": "false",
+    "hidden": true,
+    "label": "after-backdrop",
+    "navOpen": false
+  },
+  {
+    "backdrop": {
+      "h": 0,
+      "w": 0
+    },
+    "expanded": "true",
+    "hidden": false,
+    "label": "after-resize",
+    "navOpen": true
+  }
+]

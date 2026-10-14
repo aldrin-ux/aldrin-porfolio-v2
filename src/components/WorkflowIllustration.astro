@@ -1,0 +1,122 @@
+---
+import { workflow } from "../content/site";
+---
+
+<div class="workflow-grid">
+  {workflow.map((step, index) => (
+    <article>
+      <div class="node">
+        <span>{String(index + 1).padStart(2, "0")}</span>
+      </div>
+      <div>
+        <h3>{step.title}</h3>
+        <p>{step.text}</p>
+      </div>
+    </article>
+  ))}
+</div>
+
+<style>
+  .workflow-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 1rem;
+    position: relative;
+  }
+
+  article {
+    position: relative;
+    display: grid;
+    min-height: 180px;
+    align-content: space-between;
+    border: 1px solid var(--border);
+    border-radius: 0.75rem;
+    background: #fff;
+    padding: 1rem;
+  }
+
+  article:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    top: 28px;
+    right: -1rem;
+    width: 1rem;
+    height: 1px;
+    background: var(--accent);
+  }
+
+  .node {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .node::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    margin-left: 0.7rem;
+    background: color-mix(in srgb, var(--accent), transparent 35%);
+  }
+
+  span {
+    display: inline-grid;
+    width: 28px;
+    height: 28px;
+    place-items: center;
+    border-radius: 0.45rem;
+    background: var(--accent);
+    color: #fff;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.7rem;
+  }
+
+  h3 {
+    margin: 1.4rem 0 0.4rem;
+    font-size: 0.98rem;
+    line-height: 1.25;
+  }
+
+  p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.45;
+  }
+
+  @media (max-width: 980px) {
+    .workflow-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    article:not(:last-child)::after {
+      display: none;
+    }
+  }
+
+  @media (max-width: 560px) {
+    .workflow-grid {
+      grid-template-columns: 1fr;
+    }
+
+    article {
+      grid-template-columns: 44px minmax(0, 1fr);
+      align-content: start;
+      align-items: start;
+      gap: 1rem;
+      min-height: auto;
+    }
+
+    .node {
+      display: block;
+    }
+
+    .node::after {
+      display: none;
+    }
+
+    h3 {
+      margin-top: 0;
+    }
+  }
+</style>

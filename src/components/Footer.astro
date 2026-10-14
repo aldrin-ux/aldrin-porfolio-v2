@@ -1,0 +1,51 @@
+---
+import { navItems } from "../content/site";
+---
+
+<footer class="footer">
+  <div class="container footer-inner">
+    <p>© 2025 Aldrin Camacho. Webflow Developer & Digital Experience Specialist.</p>
+    <nav aria-label="Footer navigation">
+      {navItems.map((item) => <a href={item.href}>{item.label}</a>)}
+    </nav>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--background);
+  }
+
+  .footer-inner {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    border-top: 1px solid var(--border);
+    padding-block: 2rem;
+  }
+
+  p,
+  a {
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+
+  a:hover {
+    color: var(--ink);
+  }
+
+  @media (max-width: 760px) {
+    .footer-inner {
+      align-items: flex-start;
+      flex-direction: column;
+      padding-bottom: 2.75rem;
+    }
+  }
+</style>

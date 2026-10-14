@@ -1,0 +1,23 @@
+[
+  {
+    "expanded": "false",
+    "hidden": true,
+    "innerWidth": 390,
+    "label": "initial",
+    "navOpen": false
+  },
+  {
+    "expanded": "true",
+    "hidden": false,
+    "innerWidth": 390,
+    "label": "open",
+    "navOpen": true
+  },
+  {
+    "expanded": "false",
+    "hidden": true,
+    "innerWidth": 1024,
+    "label": "after-resize-guard",
+    "navOpen": false
+  }
+]

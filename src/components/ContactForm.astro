@@ -1,0 +1,123 @@
+---
+---
+
+<form
+  class="contact-form"
+  name="portfolio-inquiry"
+  method="POST"
+  action="/contact/success/"
+  data-netlify="true"
+  netlify-honeypot="bot-field"
+  aria-describedby="form-note"
+>
+  <input type="hidden" name="form-name" value="portfolio-inquiry" />
+  <p class="bot-field" aria-hidden="true">
+    <label>Do not fill this out if you are human <input name="bot-field" tabindex="-1" autocomplete="off" /></label>
+  </p>
+  <div class="scope">
+    <label>
+      <input type="radio" name="scope" value="Website Project" checked />
+      Website Project
+    </label>
+    <label>
+      <input type="radio" name="scope" value="Remote Role" />
+      Remote Role
+    </label>
+  </div>
+  <label>
+    <span>Your name or studio</span>
+    <input type="text" name="name" placeholder="Your name or studio" required />
+  </label>
+  <label>
+    <span>Business email</span>
+    <input type="email" name="email" placeholder="your@company.com" required />
+  </label>
+  <label>
+    <span>Project details or message</span>
+    <textarea name="message" rows="6" placeholder="Tell me about your project scope, timeline, and goals..." required></textarea>
+  </label>
+  <button class="button" type="submit">Send Inquiry ↗</button>
+  <p id="form-note">Direct communication. No spam or third-party mailing lists.</p>
+</form>
+
+<style>
+  .contact-form {
+    display: grid;
+    gap: 1.2rem;
+    border: 1px solid var(--border);
+    border-radius: 0.85rem;
+    background: #fff;
+    padding: clamp(1.25rem, 4vw, 2.25rem);
+  }
+
+  .scope {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.65rem;
+  }
+
+  .scope label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    border: 1px solid var(--border);
+    border-radius: 0.65rem;
+    padding: 0.85rem;
+    color: var(--ink);
+    font-size: 0.9rem;
+  }
+
+  label {
+    display: grid;
+    gap: 0.45rem;
+  }
+
+  span {
+    color: var(--muted);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  input,
+  textarea {
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: 0.65rem;
+    background: #fff;
+    color: var(--ink);
+    padding: 0.8rem 0.9rem;
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  input:focus,
+  textarea:focus {
+    border-color: var(--ink);
+    outline: 2px solid color-mix(in srgb, var(--accent), transparent 75%);
+  }
+
+  button {
+    width: fit-content;
+  }
+
+  p {
+    margin: 0;
+    color: var(--muted);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.72rem;
+  }
+
+  .bot-field {
+    display: none;
+  }
+
+  @media (max-width: 520px) {
+    .scope {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

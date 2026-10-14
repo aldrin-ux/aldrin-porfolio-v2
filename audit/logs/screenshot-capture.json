@@ -1,0 +1,352 @@
+[
+  {
+    "route": "/",
+    "size": "desktop",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/home-desktop.png",
+    "bytes": 498534,
+    "metrics": {
+      "h1": "designer.",
+      "images": [
+        {
+          "alt": "Aldrin Camacho designer and developer portrait",
+          "complete": true,
+          "naturalHeight": 493,
+          "naturalWidth": 512,
+          "src": "/assets/aldrin-hero.webp"
+        },
+        {
+          "alt": "Dazlab SaaS product studio website showcase",
+          "complete": true,
+          "naturalHeight": 5875,
+          "naturalWidth": 1920,
+          "src": "/assets/dazlab.png"
+        },
+        {
+          "alt": "Mortar healthcare technology website showcase",
+          "complete": true,
+          "naturalHeight": 9388,
+          "naturalWidth": 1920,
+          "src": "/assets/mortar.png"
+        },
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": true,
+          "naturalHeight": 13159,
+          "naturalWidth": 1920,
+          "src": "/assets/handl.png"
+        },
+        {
+          "alt": "Tangilla SaaS marketing website showcase",
+          "complete": true,
+          "naturalHeight": 6907,
+          "naturalWidth": 1920,
+          "src": "/assets/tangilla.png"
+        }
+      ],
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "path": "/",
+      "scrollHeight": 5045,
+      "scrollWidth": 1440,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist"
+    }
+  },
+  {
+    "route": "/work/",
+    "size": "desktop",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/work-desktop.png",
+    "bytes": 208137,
+    "metrics": {
+      "h1": "",
+      "images": [
+        {
+          "alt": "Dazlab SaaS product studio website showcase",
+          "complete": true,
+          "naturalHeight": 5875,
+          "naturalWidth": 1920,
+          "src": "/assets/dazlab.png"
+        },
+        {
+          "alt": "Mortar healthcare technology website showcase",
+          "complete": true,
+          "naturalHeight": 9388,
+          "naturalWidth": 1920,
+          "src": "/assets/mortar.png"
+        },
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": true,
+          "naturalHeight": 13159,
+          "naturalWidth": 1920,
+          "src": "/assets/handl.png"
+        },
+        {
+          "alt": "Tangilla SaaS marketing website showcase",
+          "complete": true,
+          "naturalHeight": 6907,
+          "naturalWidth": 1920,
+          "src": "/assets/tangilla.png"
+        }
+      ],
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "path": "/work/",
+      "scrollHeight": 1960,
+      "scrollWidth": 1440,
+      "title": "Work Archive - Aldrin Camacho"
+    }
+  },
+  {
+    "route": "/work/dazlab/",
+    "size": "desktop",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/dazlab-desktop.png",
+    "bytes": 298774,
+    "metrics": {
+      "h1": "Dazlab - Product Studio Website & CMS Architecture.",
+      "images": [
+        {
+          "alt": "Dazlab production website preview",
+          "complete": true,
+          "naturalHeight": 5875,
+          "naturalWidth": 1920,
+          "src": "/assets/dazlab-case.png"
+        },
+        {
+          "alt": "Mortar healthcare technology website showcase",
+          "complete": true,
+          "naturalHeight": 9388,
+          "naturalWidth": 1920,
+          "src": "/assets/mortar.png"
+        },
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": true,
+          "naturalHeight": 13159,
+          "naturalWidth": 1920,
+          "src": "/assets/handl.png"
+        }
+      ],
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "path": "/work/dazlab/",
+      "scrollHeight": 3176,
+      "scrollWidth": 1440,
+      "title": "Dazlab Case Study - Aldrin Camacho"
+    }
+  },
+  {
+    "route": "/about/",
+    "size": "desktop",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/about-desktop.png",
+    "bytes": 179468,
+    "metrics": {
+      "h1": "Design-minded.\nDevelopment-focused.",
+      "images": [
+        {
+          "alt": "Editorial portrait of Aldrin Camacho",
+          "complete": true,
+          "naturalHeight": 279,
+          "naturalWidth": 512,
+          "src": "/assets/aldrin-about.webp"
+        }
+      ],
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "path": "/about/",
+      "scrollHeight": 2009,
+      "scrollWidth": 1440,
+      "title": "About - Aldrin Camacho"
+    }
+  },
+  {
+    "route": "/contact/",
+    "size": "desktop",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/contact-desktop.png",
+    "bytes": 157518,
+    "metrics": {
+      "h1": "Let's build something better.",
+      "images": [],
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "path": "/contact/",
+      "scrollHeight": 2091,
+      "scrollWidth": 1440,
+      "title": "Contact - Aldrin Camacho"
+    }
+  },
+  {
+    "route": "/",
+    "size": "mobile",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/home-mobile.png",
+    "bytes": 340722,
+    "metrics": {
+      "h1": "designer.",
+      "images": [
+        {
+          "alt": "Aldrin Camacho designer and developer portrait",
+          "complete": true,
+          "naturalHeight": 493,
+          "naturalWidth": 512,
+          "src": "/assets/aldrin-hero.webp"
+        },
+        {
+          "alt": "Dazlab SaaS product studio website showcase",
+          "complete": true,
+          "naturalHeight": 5875,
+          "naturalWidth": 1920,
+          "src": "/assets/dazlab.png"
+        },
+        {
+          "alt": "Mortar healthcare technology website showcase",
+          "complete": true,
+          "naturalHeight": 9388,
+          "naturalWidth": 1920,
+          "src": "/assets/mortar.png"
+        },
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": false,
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "/assets/handl.png"
+        },
+        {
+          "alt": "Tangilla SaaS marketing website showcase",
+          "complete": false,
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "/assets/tangilla.png"
+        }
+      ],
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "path": "/",
+      "scrollHeight": 7458,
+      "scrollWidth": 390,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist"
+    }
+  },
+  {
+    "route": "/work/",
+    "size": "mobile",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/work-mobile.png",
+    "bytes": 124008,
+    "metrics": {
+      "h1": "",
+      "images": [
+        {
+          "alt": "Dazlab SaaS product studio website showcase",
+          "complete": true,
+          "naturalHeight": 5875,
+          "naturalWidth": 1920,
+          "src": "/assets/dazlab.png"
+        },
+        {
+          "alt": "Mortar healthcare technology website showcase",
+          "complete": true,
+          "naturalHeight": 9388,
+          "naturalWidth": 1920,
+          "src": "/assets/mortar.png"
+        },
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": true,
+          "naturalHeight": 13159,
+          "naturalWidth": 1920,
+          "src": "/assets/handl.png"
+        },
+        {
+          "alt": "Tangilla SaaS marketing website showcase",
+          "complete": true,
+          "naturalHeight": 6907,
+          "naturalWidth": 1920,
+          "src": "/assets/tangilla.png"
+        }
+      ],
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "path": "/work/",
+      "scrollHeight": 2572,
+      "scrollWidth": 390,
+      "title": "Work Archive - Aldrin Camacho"
+    }
+  },
+  {
+    "route": "/work/dazlab/",
+    "size": "mobile",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/dazlab-mobile.png",
+    "bytes": 174028,
+    "metrics": {
+      "h1": "Dazlab - Product Studio Website & CMS Architecture.",
+      "images": [
+        {
+          "alt": "Dazlab production website preview",
+          "complete": true,
+          "naturalHeight": 5875,
+          "naturalWidth": 1920,
+          "src": "/assets/dazlab-case.png"
+        },
+        {
+          "alt": "Mortar healthcare technology website showcase",
+          "complete": false,
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "/assets/mortar.png"
+        },
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": false,
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "/assets/handl.png"
+        }
+      ],
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "path": "/work/dazlab/",
+      "scrollHeight": 3838,
+      "scrollWidth": 390,
+      "title": "Dazlab Case Study - Aldrin Camacho"
+    }
+  },
+  {
+    "route": "/about/",
+    "size": "mobile",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/about-mobile.png",
+    "bytes": 127611,
+    "metrics": {
+      "h1": "Design-minded.\nDevelopment-focused.",
+      "images": [
+        {
+          "alt": "Editorial portrait of Aldrin Camacho",
+          "complete": true,
+          "naturalHeight": 279,
+          "naturalWidth": 512,
+          "src": "/assets/aldrin-about.webp"
+        }
+      ],
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "path": "/about/",
+      "scrollHeight": 2547,
+      "scrollWidth": 390,
+      "title": "About - Aldrin Camacho"
+    }
+  },
+  {
+    "route": "/contact/",
+    "size": "mobile",
+    "file": "E:/Desktop/Digitalikha/Digitalikha/Portfolio/portfolio-v2-astro/audit/screenshots/contact-mobile.png",
+    "bytes": 118138,
+    "metrics": {
+      "h1": "Let's build something better.",
+      "images": [],
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "path": "/contact/",
+      "scrollHeight": 2709,
+      "scrollWidth": 390,
+      "title": "Contact - Aldrin Camacho"
+    }
+  }
+]

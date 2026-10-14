@@ -1,0 +1,728 @@
+[
+  {
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "viewport": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "metrics": {
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "scrollHeight": 7403
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\home-mobile-390.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-1.png",
+        "requestedY": 844,
+        "y": 56
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-2.png",
+        "requestedY": 1688,
+        "y": 688
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-3.png",
+        "requestedY": 2532,
+        "y": 900
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-4.png",
+        "requestedY": 3376,
+        "y": 924
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-5.png",
+        "requestedY": 4220,
+        "y": 1845
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-6.png",
+        "requestedY": 5064,
+        "y": 1964
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-7.png",
+        "requestedY": 5908,
+        "y": 3453
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-8.png",
+        "requestedY": 6559,
+        "y": 3455
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-mobile-390-9.png",
+        "requestedY": 6752,
+        "y": 4267
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "viewport": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "metrics": {
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "scrollHeight": 2593
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\work-mobile-390.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-mobile-390-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-mobile-390-1.png",
+        "requestedY": 844,
+        "y": 56
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-mobile-390-2.png",
+        "requestedY": 1688,
+        "y": 756
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-mobile-390-3.png",
+        "requestedY": 1749,
+        "y": 857
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-mobile-390-4.png",
+        "requestedY": 2532,
+        "y": 1042
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "viewport": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "metrics": {
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "scrollHeight": 3973
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\dazlab-mobile-390.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-mobile-390-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-mobile-390-1.png",
+        "requestedY": 844,
+        "y": 56
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-mobile-390-2.png",
+        "requestedY": 1688,
+        "y": 688
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-mobile-390-3.png",
+        "requestedY": 2532,
+        "y": 1463
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-mobile-390-4.png",
+        "requestedY": 3129,
+        "y": 1514
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-mobile-390-5.png",
+        "requestedY": 3376,
+        "y": 1561
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "viewport": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "metrics": {
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "scrollHeight": 2668
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\about-mobile-390.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-mobile-390-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-mobile-390-1.png",
+        "requestedY": 844,
+        "y": 56
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-mobile-390-2.png",
+        "requestedY": 1688,
+        "y": 688
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-mobile-390-3.png",
+        "requestedY": 1824,
+        "y": 1368
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-mobile-390-4.png",
+        "requestedY": 2532,
+        "y": 1780
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "viewport": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "metrics": {
+      "innerHeight": 844,
+      "innerWidth": 390,
+      "scrollHeight": 2786
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\contact-mobile-390.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-mobile-390-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-mobile-390-1.png",
+        "requestedY": 844,
+        "y": 56
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-mobile-390-2.png",
+        "requestedY": 1688,
+        "y": 715
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-mobile-390-3.png",
+        "requestedY": 1942,
+        "y": 1707
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-mobile-390-4.png",
+        "requestedY": 2532,
+        "y": 1942
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "viewport": {
+      "name": "tablet-768",
+      "width": 768,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 768,
+      "scrollHeight": 5787
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\home-tablet-768.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-tablet-768-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-tablet-768-1.png",
+        "requestedY": 900,
+        "y": 183
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-tablet-768-2.png",
+        "requestedY": 1800,
+        "y": 923
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-tablet-768-3.png",
+        "requestedY": 2700,
+        "y": 1854
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-tablet-768-4.png",
+        "requestedY": 3600,
+        "y": 2510
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-tablet-768-5.png",
+        "requestedY": 4500,
+        "y": 3229
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-tablet-768-6.png",
+        "requestedY": 4887,
+        "y": 3978
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-tablet-768-7.png",
+        "requestedY": 5400,
+        "y": 4778
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "viewport": {
+      "name": "tablet-768",
+      "width": 768,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 768,
+      "scrollHeight": 1668
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\work-tablet-768.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-tablet-768-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-tablet-768-1.png",
+        "requestedY": 768,
+        "y": 205
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-tablet-768-2.png",
+        "requestedY": 900,
+        "y": 768
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "viewport": {
+      "name": "tablet-768",
+      "width": 768,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 768,
+      "scrollHeight": 3034
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\dazlab-tablet-768.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-tablet-768-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-tablet-768-1.png",
+        "requestedY": 900,
+        "y": 304
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-tablet-768-2.png",
+        "requestedY": 1800,
+        "y": 823
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-tablet-768-3.png",
+        "requestedY": 2134,
+        "y": 1739
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-tablet-768-4.png",
+        "requestedY": 2700,
+        "y": 2129
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "viewport": {
+      "name": "tablet-768",
+      "width": 768,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 768,
+      "scrollHeight": 2015
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\about-tablet-768.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-tablet-768-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-tablet-768-1.png",
+        "requestedY": 900,
+        "y": 183
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-tablet-768-2.png",
+        "requestedY": 1115,
+        "y": 837
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-tablet-768-3.png",
+        "requestedY": 1800,
+        "y": 1115
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "viewport": {
+      "name": "tablet-768",
+      "width": 768,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 768,
+      "scrollHeight": 2398
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\contact-tablet-768.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-tablet-768-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-tablet-768-1.png",
+        "requestedY": 900,
+        "y": 103
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-tablet-768-2.png",
+        "requestedY": 1498,
+        "y": 761
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-tablet-768-3.png",
+        "requestedY": 1800,
+        "y": 1419
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "viewport": {
+      "name": "desktop-1440",
+      "width": 1440,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "scrollHeight": 5101
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\home-desktop-1440.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-desktop-1440-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-desktop-1440-1.png",
+        "requestedY": 900,
+        "y": 184
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-desktop-1440-2.png",
+        "requestedY": 1800,
+        "y": 797
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-desktop-1440-3.png",
+        "requestedY": 2700,
+        "y": 1328
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-desktop-1440-4.png",
+        "requestedY": 3600,
+        "y": 1414
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-desktop-1440-5.png",
+        "requestedY": 4201,
+        "y": 3345
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\home-desktop-1440-6.png",
+        "requestedY": 4500,
+        "y": 4103
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "viewport": {
+      "name": "desktop-1440",
+      "width": 1440,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "scrollHeight": 1956
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\work-desktop-1440.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-desktop-1440-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-desktop-1440-1.png",
+        "requestedY": 900,
+        "y": 184
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-desktop-1440-2.png",
+        "requestedY": 1056,
+        "y": 797
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\work-desktop-1440-3.png",
+        "requestedY": 1800,
+        "y": 1056
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "viewport": {
+      "name": "desktop-1440",
+      "width": 1440,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "scrollHeight": 3174
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\dazlab-desktop-1440.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-desktop-1440-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-desktop-1440-1.png",
+        "requestedY": 900,
+        "y": 183
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-desktop-1440-2.png",
+        "requestedY": 1800,
+        "y": 776
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-desktop-1440-3.png",
+        "requestedY": 2274,
+        "y": 1504
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\dazlab-desktop-1440-4.png",
+        "requestedY": 2700,
+        "y": 2269
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "viewport": {
+      "name": "desktop-1440",
+      "width": 1440,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "scrollHeight": 2165
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\about-desktop-1440.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-desktop-1440-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-desktop-1440-1.png",
+        "requestedY": 900,
+        "y": 184
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-desktop-1440-2.png",
+        "requestedY": 1265,
+        "y": 806
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\about-desktop-1440-3.png",
+        "requestedY": 1800,
+        "y": 1254
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "viewport": {
+      "name": "desktop-1440",
+      "width": 1440,
+      "height": 900
+    },
+    "metrics": {
+      "innerHeight": 900,
+      "innerWidth": 1440,
+      "scrollHeight": 2091
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\contact-desktop-1440.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-desktop-1440-0.png",
+        "requestedY": 0,
+        "y": 0
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-desktop-1440-1.png",
+        "requestedY": 900,
+        "y": 103
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-desktop-1440-2.png",
+        "requestedY": 1191,
+        "y": 787
+      },
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\slices\\contact-desktop-1440-3.png",
+        "requestedY": 1800,
+        "y": 1179
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "mobile-nav-closed",
+      "path": "/"
+    },
+    "viewport": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "metrics": {
+      "scrollHeight": 844,
+      "innerHeight": 844,
+      "innerWidth": 390
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\mobile-nav-closed-390.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\mobile-nav-closed-390.png",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "route": {
+      "name": "mobile-nav-open",
+      "path": "/"
+    },
+    "viewport": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "metrics": {
+      "scrollHeight": 844,
+      "innerHeight": 844,
+      "innerWidth": 390
+    },
+    "output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\mobile-nav-open-390.png",
+    "slices": [
+      {
+        "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\mobile-nav-open-390.png",
+        "y": 0
+      }
+    ]
+  }
+]

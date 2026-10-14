@@ -1,0 +1,157 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ContactForm from "../components/ContactForm.astro";
+import { siteMetadata } from "../content/site";
+
+const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).toString();
+const title = "Contact - Aldrin Camacho";
+const description =
+  "Contact Aldrin Camacho about Webflow projects, CMS cleanup, ongoing website support, or remote Webflow development roles.";
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  name: title,
+  description,
+  url: pageUrl,
+  inLanguage: siteMetadata.language,
+};
+---
+
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <section class="section contact-hero">
+    <div class="container">
+      <span class="eyebrow">Let's Connect</span>
+      <h1>Let's build something better<span class="accent">.</span></h1>
+      <p>Have a Webflow project, CMS cleanup, or remote role in mind? Send the details and I’ll take a look.</p>
+    </div>
+  </section>
+
+  <section class="section section--warm">
+    <div class="container contact-grid">
+      <aside>
+        <span class="eyebrow">Two ways to work together</span>
+        <article>
+          <h2>Discuss a Website Project<span class="accent">.</span></h2>
+          <p>New marketing site, Figma-to-Webflow build, CMS restructure, or ongoing support for a SaaS product.</p>
+        </article>
+        <article>
+          <h2>Discuss a Remote Role<span class="accent">.</span></h2>
+          <p>Contract or in-house Webflow development with UI/UX, CMS, and technical implementation experience.</p>
+        </article>
+        <a class="text-link" href="https://www.linkedin.com/in/drin-camacho/" rel="noopener noreferrer" target="_blank">Direct verified contact ↗</a>
+      </aside>
+      <ContactForm />
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container working">
+      <h2>What working together looks like<span class="accent">.</span></h2>
+      <div>
+        <article>
+          <h3>Clear Milestones</h3>
+          <p>Clear timelines, staged reviews, and practical checkpoints from kickoff to launch.</p>
+        </article>
+        <article>
+          <h3>Clean Webflow Code</h3>
+          <p>Structured naming, scalable CMS schemas, and lightweight scripts built for speed and handoff.</p>
+        </article>
+        <article>
+          <h3>Direct Communication</h3>
+          <p>Async updates, direct review loops, and clear Figma-to-Webflow handoff.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .contact-hero {
+    padding-top: clamp(3rem, 7vw, 5rem);
+  }
+
+  h1 {
+    max-width: 880px;
+    margin: 0.5rem 0 1rem;
+    font-size: clamp(3.2rem, 8vw, 5.5rem);
+    font-weight: 500;
+    letter-spacing: -0.045em;
+    line-height: 0.98;
+  }
+
+  .contact-hero p {
+    max-width: 680px;
+    color: var(--muted);
+    font-size: 1.1rem;
+  }
+
+  .contact-grid {
+    display: grid;
+    grid-template-columns: minmax(260px, 0.65fr) minmax(320px, 1fr);
+    gap: clamp(2rem, 6vw, 5rem);
+  }
+
+  aside {
+    display: grid;
+    align-content: start;
+    gap: 1.2rem;
+  }
+
+  aside article {
+    border-top: 1px solid var(--border);
+    padding-top: 1rem;
+  }
+
+  h2,
+  h3,
+  p {
+    margin: 0;
+  }
+
+  aside h2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+
+  aside p,
+  .working p {
+    color: var(--muted);
+  }
+
+  .working {
+    display: grid;
+    gap: 2rem;
+  }
+
+  .working > h2 {
+    max-width: 640px;
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.12;
+  }
+
+  .working > div {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .working article {
+    border: 1px solid var(--border);
+    border-radius: 0.75rem;
+    padding: 1.2rem;
+  }
+
+  .working h3 {
+    margin-bottom: 0.7rem;
+  }
+
+  @media (max-width: 800px) {
+    .contact-grid,
+    .working > div {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

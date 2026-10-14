@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CaseStudyLayout from "../../components/CaseStudyLayout.astro";
+import ProjectCard from "../../components/ProjectCard.astro";
+import { caseStudies, projects, siteMetadata } from "../../content/site";
+
+const caseStudy = caseStudies.tangilla;
+const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).toString();
+const title = "Tangilla Case Study - Aldrin Camacho";
+const description =
+  "Tangilla case study by Aldrin Camacho, covering responsive Webflow development for a member-management SaaS platform.";
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    name: caseStudy.title,
+    headline: caseStudy.heading,
+    description,
+    url: pageUrl,
+    image: new URL(caseStudy.image, Astro.site ?? Astro.url.origin).toString(),
+    creator: {
+      "@type": "Person",
+      name: siteMetadata.name,
+    },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: new URL("/", Astro.site ?? Astro.url.origin).toString(),
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Work",
+        item: new URL("/work/", Astro.site ?? Astro.url.origin).toString(),
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: "Tangilla",
+        item: pageUrl,
+      },
+    ],
+  },
+];
+---
+
+<BaseLayout title={title} description={description} image={caseStudy.image} jsonLd={jsonLd}>
+  <CaseStudyLayout study={caseStudy} />
+  <section class="section">
+    <div class="container">
+      <span class="eyebrow">Next Work</span>
+      <h2>More selected projects<span class="accent">.</span></h2>
+      <div class="grid-two">
+        {projects.filter((project) => project.slug !== "tangilla").slice(0, 2).map((project) => <ProjectCard project={project} />)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  h2 {
+    margin: 0.4rem 0 2rem;
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.12;
+  }
+</style>

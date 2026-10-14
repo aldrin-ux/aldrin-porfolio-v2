@@ -1,0 +1,120 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SectionHeading from "../../components/SectionHeading.astro";
+import ProjectCard from "../../components/ProjectCard.astro";
+import { projects, siteMetadata } from "../../content/site";
+
+const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).toString();
+const title = "Selected Work - Aldrin Camacho";
+const description =
+  "Selected Webflow projects by Aldrin Camacho, including SaaS websites, CMS builds, responsive implementation, and technical SEO foundations.";
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: title,
+    description,
+    url: pageUrl,
+    inLanguage: siteMetadata.language,
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: new URL("/", Astro.site ?? Astro.url.origin).toString(),
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Work",
+        item: pageUrl,
+      },
+    ],
+  },
+];
+---
+
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <section class="section archive-hero">
+    <div class="container">
+      <SectionHeading
+        eyebrow="01 / Work Archive"
+        title="Work that speaks for itself"
+        description="A focused archive of Webflow builds, CMS systems, and technical implementation."
+      />
+      <h1 class="sr-only">Work Archive</h1>
+      <div class="filters" aria-label="Work categories">
+        <span>All Work (4)</span>
+        <span>SaaS</span>
+        <span>CMS</span>
+        <span>Responsive</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--warm">
+    <div class="container">
+      <div class="grid-two">
+        {projects.map((project) => <ProjectCard project={project} />)}
+      </div>
+      <div class="archive-cta">
+        <p>Want the thinking behind the work?</p>
+        <a class="button" href="/about/">Read About My Approach ↗</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .archive-hero {
+    padding-bottom: 3rem;
+  }
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+
+  .filters span {
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    color: var(--muted);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.72rem;
+    padding: 0.35rem 0.7rem;
+  }
+
+  .filters span:first-child {
+    background: var(--ink);
+    color: #fff;
+    border-color: var(--ink);
+  }
+
+  .archive-cta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 4rem;
+    border-top: 1px solid var(--border);
+    padding-top: 2rem;
+  }
+
+  .archive-cta p {
+    margin: 0;
+    font-size: 1.4rem;
+    font-weight: 500;
+  }
+
+  @media (max-width: 640px) {
+    .archive-cta {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+  }
+</style>

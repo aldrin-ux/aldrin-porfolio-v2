@@ -1,0 +1,20 @@
+[
+  {
+    "expanded": "false",
+    "hidden": true,
+    "label": "initial",
+    "navOpen": false
+  },
+  {
+    "expanded": "true",
+    "hidden": false,
+    "label": "open",
+    "navOpen": true
+  },
+  {
+    "expanded": "true",
+    "hidden": false,
+    "label": "after-coordinate-outside-click",
+    "navOpen": true
+  }
+]

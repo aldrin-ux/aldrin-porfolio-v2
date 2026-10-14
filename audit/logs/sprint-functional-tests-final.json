@@ -1,0 +1,72 @@
+[
+  {
+    "expanded": "false",
+    "hash": "",
+    "hidden": true,
+    "label": "initial",
+    "navOpen": false,
+    "path": "/"
+  },
+  {
+    "expanded": "true",
+    "hash": "",
+    "hidden": false,
+    "label": "after-open",
+    "navOpen": true,
+    "path": "/"
+  },
+  {
+    "expanded": "false",
+    "hash": "#workflow",
+    "hidden": true,
+    "label": "after-link",
+    "navOpen": false,
+    "path": "/"
+  },
+  {
+    "expanded": "false",
+    "hash": "#workflow",
+    "hidden": true,
+    "label": "after-escape",
+    "navOpen": false,
+    "path": "/"
+  },
+  {
+    "expanded": "false",
+    "hash": "#workflow",
+    "hidden": true,
+    "label": "after-close-button",
+    "navOpen": false,
+    "path": "/"
+  },
+  {
+    "expanded": "true",
+    "hash": "#workflow",
+    "hidden": false,
+    "label": "after-backdrop-click",
+    "navOpen": true,
+    "path": "/"
+  },
+  {
+    "expanded": "true",
+    "hash": "#workflow",
+    "hidden": false,
+    "label": "after-resize-desktop",
+    "navOpen": true,
+    "path": "/"
+  },
+  {
+    "emailLooksValid": false,
+    "emailValue": "<redacted>",
+    "label": "form-invalid",
+    "method": "POST",
+    "netlify": true,
+    "requiredFilled": true
+  },
+  {
+    "emailLooksValid": false,
+    "emailValue": "<redacted>",
+    "label": "form-valid-filled-no-submit",
+    "requiredFilled": true
+  }
+]

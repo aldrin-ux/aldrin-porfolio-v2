@@ -1,0 +1,1789 @@
+[
+  {
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "metrics": {
+      "brokenImages": [
+        {
+          "alt": "Mortar healthcare technology website showcase",
+          "complete": false,
+          "naturalHeight": 9388,
+          "naturalWidth": 1920,
+          "src": "http://127.0.0.1:4322/assets/mortar.png"
+        },
+        {
+          "alt": "Tangilla SaaS marketing website showcase",
+          "complete": false,
+          "naturalHeight": 6907,
+          "naturalWidth": 1920,
+          "src": "http://127.0.0.1:4322/assets/tangilla.png"
+        }
+      ],
+      "buttons": [
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "tag": "A",
+          "text": "View Selected Work ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "tag": "A",
+          "text": "Get in Touch ↗",
+          "type": ""
+        }
+      ],
+      "focusableCount": 35,
+      "focusables": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "name": "",
+          "tag": "A",
+          "text": "Aldrin C.",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "AC",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "name": "",
+          "tag": "A",
+          "text": "Explore design work ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Technical services ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "name": "",
+          "tag": "A",
+          "text": "View Selected Work ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Get in touch ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "name": "",
+          "tag": "A",
+          "text": "Dazlab↗",
+          "type": ""
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Mortar↗",
+          "type": ""
+        },
+        {
+          "href": "https://mortar.design/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Handl↗",
+          "type": ""
+        },
+        {
+          "href": "https://handl.works/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Tangilla↗",
+          "type": ""
+        },
+        {
+          "href": "https://tangilla.com/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Get in Touch ↗",
+          "type": ""
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "name": "",
+          "tag": "A",
+          "text": "LinkedIn ↗",
+          "type": ""
+        }
+      ],
+      "formInfo": {
+        "exists": false
+      },
+      "h1": "designer.",
+      "hasMobileNav": true,
+      "horizontalOverflow": false,
+      "imageCount": 5,
+      "linkCount": 35,
+      "links": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C."
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗"
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Mortar↗"
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Handl↗"
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Tangilla↗"
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗"
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        }
+      ],
+      "path": "/",
+      "scrollHeight": 4632,
+      "scrollWidth": 1087,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewportWidth": 1102
+    },
+    "console": [],
+    "contactValidation": null
+  },
+  {
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "metrics": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "tag": "A",
+          "text": "Read About My Approach ↗",
+          "type": ""
+        }
+      ],
+      "focusableCount": 30,
+      "focusables": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "name": "",
+          "tag": "A",
+          "text": "Aldrin C.",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "AC",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "name": "",
+          "tag": "A",
+          "text": "Dazlab↗",
+          "type": ""
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Mortar↗",
+          "type": ""
+        },
+        {
+          "href": "https://mortar.design/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Handl↗",
+          "type": ""
+        },
+        {
+          "href": "https://handl.works/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Tangilla↗",
+          "type": ""
+        },
+        {
+          "href": "https://tangilla.com/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "Read About My Approach ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        }
+      ],
+      "formInfo": {
+        "exists": false
+      },
+      "h1": null,
+      "hasMobileNav": true,
+      "horizontalOverflow": false,
+      "imageCount": 4,
+      "linkCount": 30,
+      "links": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C."
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗"
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Mortar↗"
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Handl↗"
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Tangilla↗"
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        }
+      ],
+      "path": "/work/",
+      "scrollHeight": 1776,
+      "scrollWidth": 1087,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewportWidth": 1102
+    },
+    "console": [],
+    "contactValidation": null
+  },
+  {
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "metrics": {
+      "brokenImages": [
+        {
+          "alt": "Mortar healthcare technology website showcase",
+          "complete": false,
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "http://127.0.0.1:4322/assets/mortar.png"
+        },
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": false,
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "http://127.0.0.1:4322/assets/handl.png"
+        }
+      ],
+      "buttons": [],
+      "focusableCount": 24,
+      "focusables": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "name": "",
+          "tag": "A",
+          "text": "Aldrin C.",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "AC",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "← Back to Selected Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Mortar↗",
+          "type": ""
+        },
+        {
+          "href": "https://mortar.design/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Handl↗",
+          "type": ""
+        },
+        {
+          "href": "https://handl.works/",
+          "name": "",
+          "tag": "A",
+          "text": "View Project ↗",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        }
+      ],
+      "formInfo": {
+        "exists": false
+      },
+      "h1": "Dazlab - Product Studio Website & CMS Architecture.",
+      "hasMobileNav": true,
+      "horizontalOverflow": false,
+      "imageCount": 3,
+      "linkCount": 24,
+      "links": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C."
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Mortar↗"
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Handl↗"
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        }
+      ],
+      "path": "/work/dazlab/",
+      "scrollHeight": 3110,
+      "scrollWidth": 1087,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewportWidth": 1102
+    },
+    "console": [],
+    "contactValidation": null
+  },
+  {
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "metrics": {
+      "brokenImages": [],
+      "buttons": [],
+      "focusableCount": 17,
+      "focusables": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "name": "",
+          "tag": "A",
+          "text": "Aldrin C.",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "AC",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        }
+      ],
+      "formInfo": {
+        "exists": false
+      },
+      "h1": "Design-minded.Development-focused.",
+      "hasMobileNav": true,
+      "horizontalOverflow": false,
+      "imageCount": 1,
+      "linkCount": 17,
+      "links": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C."
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        }
+      ],
+      "path": "/about/",
+      "scrollHeight": 1827,
+      "scrollWidth": 1087,
+      "title": "About - Aldrin Camacho",
+      "viewportWidth": 1102
+    },
+    "console": [],
+    "contactValidation": null
+  },
+  {
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "metrics": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Send Inquiry ↗",
+          "type": "submit"
+        }
+      ],
+      "focusableCount": 24,
+      "focusables": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "name": "",
+          "tag": "A",
+          "text": "Aldrin C.",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "AC",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "name": "",
+          "tag": "A",
+          "text": "Direct verified contact ↗",
+          "type": ""
+        },
+        {
+          "href": "",
+          "name": "scope",
+          "tag": "INPUT",
+          "text": "scope",
+          "type": "radio"
+        },
+        {
+          "href": "",
+          "name": "scope",
+          "tag": "INPUT",
+          "text": "scope",
+          "type": "radio"
+        },
+        {
+          "href": "",
+          "name": "name",
+          "tag": "INPUT",
+          "text": "name",
+          "type": "text"
+        },
+        {
+          "href": "",
+          "name": "email",
+          "tag": "INPUT",
+          "text": "email",
+          "type": "email"
+        },
+        {
+          "href": "",
+          "name": "message",
+          "tag": "TEXTAREA",
+          "text": "message",
+          "type": ""
+        },
+        {
+          "href": "",
+          "name": "",
+          "tag": "BUTTON",
+          "text": "Send Inquiry ↗",
+          "type": "submit"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "name": "",
+          "tag": "A",
+          "text": "Work",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "name": "",
+          "tag": "A",
+          "text": "Workflow",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "name": "",
+          "tag": "A",
+          "text": "Services",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "name": "",
+          "tag": "A",
+          "text": "About",
+          "type": ""
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "name": "",
+          "tag": "A",
+          "text": "Contact",
+          "type": ""
+        }
+      ],
+      "formInfo": {
+        "action": "",
+        "exists": true,
+        "formFields": [
+          {
+            "name": "scope",
+            "placeholder": "",
+            "required": false,
+            "tag": "INPUT",
+            "type": "radio",
+            "value": "Website Project"
+          },
+          {
+            "name": "scope",
+            "placeholder": "",
+            "required": false,
+            "tag": "INPUT",
+            "type": "radio",
+            "value": "Remote Role"
+          },
+          {
+            "name": "name",
+            "placeholder": "Your name or studio",
+            "required": true,
+            "tag": "INPUT",
+            "type": "text",
+            "value": ""
+          },
+          {
+            "name": "email",
+            "placeholder": "your@company.com",
+            "required": true,
+            "tag": "INPUT",
+            "type": "email",
+            "value": ""
+          },
+          {
+            "name": "message",
+            "placeholder": "Tell me about your project scope, timeline, and goals...",
+            "required": true,
+            "tag": "TEXTAREA",
+            "type": null,
+            "value": ""
+          }
+        ],
+        "method": "",
+        "requiredFields": [
+          {
+            "name": "name",
+            "placeholder": "Your name or studio",
+            "required": true,
+            "tag": "INPUT",
+            "type": "text",
+            "value": ""
+          },
+          {
+            "name": "email",
+            "placeholder": "your@company.com",
+            "required": true,
+            "tag": "INPUT",
+            "type": "email",
+            "value": ""
+          },
+          {
+            "name": "message",
+            "placeholder": "Tell me about your project scope, timeline, and goals...",
+            "required": true,
+            "tag": "TEXTAREA",
+            "type": null,
+            "value": ""
+          }
+        ]
+      },
+      "h1": "Let's build something better.",
+      "hasMobileNav": true,
+      "horizontalOverflow": false,
+      "imageCount": 0,
+      "linkCount": 18,
+      "links": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C."
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗"
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow"
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services"
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About"
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact"
+        }
+      ],
+      "path": "/contact/",
+      "scrollHeight": 1969,
+      "scrollWidth": 1087,
+      "title": "Contact - Aldrin Camacho",
+      "viewportWidth": 1102
+    },
+    "console": [],
+    "contactValidation": {
+      "exists": true,
+      "hasEmailType": true,
+      "nativeConstraintsPresent": true,
+      "requiredEmptyOnLoad": [
+        "name",
+        "email",
+        "message"
+      ],
+      "submitButtonText": "Send Inquiry ↗"
+    }
+  }
+]

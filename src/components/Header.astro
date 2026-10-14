@@ -1,0 +1,313 @@
+---
+import { navItems } from "../content/site";
+
+const current = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="/">Aldrin C.</a>
+    <nav class="desktop-nav" aria-label="Primary navigation">
+      {navItems.map((item) => (
+        <a class:list={{ active: current === item.href, navlink: true }} href={item.href}>{item.label}</a>
+      ))}
+    </nav>
+    <button
+      class="menu-button"
+      type="button"
+      aria-label="Open navigation menu"
+      aria-controls="mobile-menu"
+      aria-expanded="false"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <a class="avatar" href="/about/" aria-label="About Aldrin">AC</a>
+  </div>
+  <div class="mobile-menu" id="mobile-menu" hidden>
+    <button class="mobile-backdrop" type="button" aria-label="Close navigation menu" tabindex="-1"></button>
+    <div class="mobile-menu__panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div class="mobile-menu__top">
+        <span>Aldrin C.</span>
+        <button class="menu-close" type="button" aria-label="Close navigation menu">Close</button>
+      </div>
+      <nav aria-label="Mobile navigation">
+        {navItems.map((item) => (
+          <a class:list={{ active: current === item.href, "mobile-link": true }} href={item.href}>{item.label}</a>
+        ))}
+      </nav>
+    </div>
+  </div>
+</header>
+
+<script>
+  const header = document.querySelector(".site-header");
+  const menuButton = header?.querySelector<HTMLButtonElement>(".menu-button");
+  const closeButton = header?.querySelector<HTMLButtonElement>(".menu-close");
+  const backdropButton = header?.querySelector<HTMLButtonElement>(".mobile-backdrop");
+  const mobileMenu = header?.querySelector<HTMLElement>("#mobile-menu");
+  const mobileLinks = [...(header?.querySelectorAll<HTMLAnchorElement>(".mobile-link") ?? [])];
+  const focusableSelector = "a[href], button:not([disabled])";
+  let previousFocus: Element | null = null;
+  let desktopGuard: number | undefined;
+
+  const setMenu = (open: boolean) => {
+    if (!menuButton || !mobileMenu) return;
+    menuButton.setAttribute("aria-expanded", String(open));
+    menuButton.setAttribute("aria-label", open ? "Close navigation menu" : "Open navigation menu");
+    mobileMenu.hidden = !open;
+    document.documentElement.classList.toggle("nav-open", open);
+
+    if (open) {
+      previousFocus = document.activeElement;
+      const firstFocusable = mobileMenu.querySelector<HTMLElement>(focusableSelector);
+      firstFocusable?.focus();
+      desktopGuard = window.setInterval(() => {
+        if (window.innerWidth > 760) setMenu(false);
+      }, 150);
+    } else if (previousFocus instanceof HTMLElement) {
+      if (desktopGuard) window.clearInterval(desktopGuard);
+      desktopGuard = undefined;
+      previousFocus.focus();
+      previousFocus = null;
+    } else {
+      if (desktopGuard) window.clearInterval(desktopGuard);
+      desktopGuard = undefined;
+    }
+  };
+
+  menuButton?.addEventListener("click", () => {
+    const isOpen = menuButton.getAttribute("aria-expanded") === "true";
+    setMenu(!isOpen);
+  });
+
+  closeButton?.addEventListener("click", () => setMenu(false));
+  backdropButton?.addEventListener("click", () => setMenu(false));
+
+  mobileLinks.forEach((link) => {
+    link.addEventListener("click", () => setMenu(false));
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (!mobileMenu || mobileMenu.hidden) return;
+
+    if (event.key === "Escape") {
+      setMenu(false);
+      return;
+    }
+
+    if (event.key !== "Tab") return;
+    const focusables = [...mobileMenu.querySelectorAll<HTMLElement>(focusableSelector)];
+    if (focusables.length === 0) return;
+    const first = focusables[0];
+    const last = focusables[focusables.length - 1];
+
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    }
+  });
+
+  const desktopQuery = window.matchMedia("(min-width: 761px)");
+  const closeOnDesktop = () => {
+    if (desktopQuery.matches) setMenu(false);
+  };
+
+  desktopQuery.addEventListener("change", closeOnDesktop);
+  window.addEventListener("resize", closeOnDesktop);
+</script>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: color-mix(in srgb, var(--background), transparent 10%);
+    border-bottom: 1px solid var(--border);
+    backdrop-filter: blur(18px);
+  }
+
+  .header-inner {
+    display: flex;
+    min-height: 72px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+
+  .brand {
+    color: var(--ink);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  .desktop-nav {
+    display: flex;
+    align-items: center;
+    gap: clamp(1rem, 2vw, 2rem);
+    color: var(--muted);
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+
+  .navlink {
+    transition: color 180ms ease;
+  }
+
+  .navlink:hover,
+  .navlink.active {
+    color: var(--ink);
+  }
+
+  .avatar {
+    display: grid;
+    width: 32px;
+    height: 32px;
+    place-items: center;
+    border-radius: 50%;
+    background: var(--ink);
+    color: #fff;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.72rem;
+  }
+
+  .menu-button,
+  .mobile-menu {
+    display: none;
+  }
+
+  :global(html.nav-open),
+  :global(html.nav-open body) {
+    overflow: hidden;
+  }
+
+  @media (min-width: 761px) {
+    :global(html.nav-open),
+    :global(html.nav-open body) {
+      overflow: auto;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .header-inner {
+      min-height: 56px;
+    }
+
+    .desktop-nav {
+      display: none;
+    }
+
+    .avatar {
+      display: none;
+    }
+
+    .menu-button {
+      display: inline-grid;
+      width: 44px;
+      height: 44px;
+      place-items: center;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--ink);
+      cursor: pointer;
+    }
+
+    .menu-button span {
+      display: block;
+      width: 18px;
+      height: 1.5px;
+      border-radius: 999px;
+      background: currentColor;
+    }
+
+    .menu-button span + span {
+      margin-top: -9px;
+    }
+
+    .mobile-menu:not([hidden]) {
+      display: block;
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: color-mix(in srgb, var(--ink), transparent 62%);
+      padding: 0.75rem;
+    }
+
+    .mobile-backdrop {
+      position: fixed;
+      inset: 0;
+      width: 100vw;
+      height: 100vh;
+      border: 0;
+      background: transparent;
+      cursor: pointer;
+    }
+
+    .mobile-menu__panel {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      gap: 1.5rem;
+      border: 1px solid var(--border);
+      border-radius: 0.85rem;
+      background: color-mix(in srgb, var(--background), transparent 2%);
+      box-shadow: 0 24px 80px rgba(20, 20, 20, 0.16);
+      padding: 1rem;
+    }
+
+    .mobile-menu__top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      min-height: 40px;
+      color: var(--ink);
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+
+    .menu-close {
+      min-height: 40px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--muted);
+      padding: 0 0.9rem;
+      cursor: pointer;
+      font-size: 0.82rem;
+    }
+
+    .mobile-menu nav {
+      display: grid;
+      gap: 0.35rem;
+    }
+
+    .mobile-link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 52px;
+      border-radius: 0.65rem;
+      color: var(--ink);
+      padding-inline: 0.9rem;
+      font-size: 1.05rem;
+      font-weight: 500;
+    }
+
+    .mobile-link::after {
+      content: "↗";
+      color: var(--accent);
+      font-size: 0.9rem;
+    }
+
+    .mobile-link:hover,
+    .mobile-link.active {
+      background: var(--surface);
+    }
+  }
+</style>

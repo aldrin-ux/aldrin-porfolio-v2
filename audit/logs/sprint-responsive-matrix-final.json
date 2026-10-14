@@ -1,0 +1,1271 @@
+[
+  {
+    "width": 320,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": false,
+          "loading": "lazy",
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "http://127.0.0.1:4322/assets/handl.png"
+        },
+        {
+          "alt": "Tangilla SaaS marketing website showcase",
+          "complete": false,
+          "loading": "lazy",
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "http://127.0.0.1:4322/assets/tangilla.png"
+        }
+      ],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 5,
+      "ogTitle": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "overflow": false,
+      "path": "/",
+      "scrollWidth": 305,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 320
+    }
+  },
+  {
+    "width": 320,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/work/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 4,
+      "ogTitle": "Work Archive - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/",
+      "scrollWidth": 305,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 320
+    }
+  },
+  {
+    "width": 320,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/work/dazlab/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 3,
+      "ogTitle": "Dazlab Case Study - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollWidth": 305,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 320
+    }
+  },
+  {
+    "width": 320,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/about/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 1,
+      "ogTitle": "About - Aldrin Camacho",
+      "overflow": false,
+      "path": "/about/",
+      "scrollWidth": 305,
+      "title": "About - Aldrin Camacho",
+      "viewport": 320
+    }
+  },
+  {
+    "width": 320,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        },
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "canonical": "https://example.com/contact/",
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "h1Count": 1,
+      "imageCount": 0,
+      "ogTitle": "Contact - Aldrin Camacho",
+      "overflow": false,
+      "path": "/contact/",
+      "scrollWidth": 305,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 320
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 5,
+      "ogTitle": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "overflow": false,
+      "path": "/",
+      "scrollWidth": 360,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 375
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/work/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 4,
+      "ogTitle": "Work Archive - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/",
+      "scrollWidth": 360,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 375
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/work/dazlab/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 3,
+      "ogTitle": "Dazlab Case Study - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollWidth": 360,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 375
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/about/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 1,
+      "ogTitle": "About - Aldrin Camacho",
+      "overflow": false,
+      "path": "/about/",
+      "scrollWidth": 360,
+      "title": "About - Aldrin Camacho",
+      "viewport": 375
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        },
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "canonical": "https://example.com/contact/",
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "h1Count": 1,
+      "imageCount": 0,
+      "ogTitle": "Contact - Aldrin Camacho",
+      "overflow": false,
+      "path": "/contact/",
+      "scrollWidth": 360,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 375
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 5,
+      "ogTitle": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "overflow": false,
+      "path": "/",
+      "scrollWidth": 375,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 390
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/work/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 4,
+      "ogTitle": "Work Archive - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/",
+      "scrollWidth": 375,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 390
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/work/dazlab/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 3,
+      "ogTitle": "Dazlab Case Study - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollWidth": 375,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 390
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/about/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 1,
+      "ogTitle": "About - Aldrin Camacho",
+      "overflow": false,
+      "path": "/about/",
+      "scrollWidth": 375,
+      "title": "About - Aldrin Camacho",
+      "viewport": 390
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        },
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "canonical": "https://example.com/contact/",
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "h1Count": 1,
+      "imageCount": 0,
+      "ogTitle": "Contact - Aldrin Camacho",
+      "overflow": false,
+      "path": "/contact/",
+      "scrollWidth": 375,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 390
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 5,
+      "ogTitle": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "overflow": false,
+      "path": "/",
+      "scrollWidth": 415,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 430
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/work/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 4,
+      "ogTitle": "Work Archive - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/",
+      "scrollWidth": 415,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 430
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/work/dazlab/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 3,
+      "ogTitle": "Dazlab Case Study - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollWidth": 415,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 430
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "canonical": "https://example.com/about/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 1,
+      "ogTitle": "About - Aldrin Camacho",
+      "overflow": false,
+      "path": "/about/",
+      "scrollWidth": 415,
+      "title": "About - Aldrin Camacho",
+      "viewport": 430
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        },
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "canonical": "https://example.com/contact/",
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "h1Count": 1,
+      "imageCount": 0,
+      "ogTitle": "Contact - Aldrin Camacho",
+      "overflow": false,
+      "path": "/contact/",
+      "scrollWidth": 415,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 430
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 5,
+      "ogTitle": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "overflow": false,
+      "path": "/",
+      "scrollWidth": 753,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 768
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/work/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 4,
+      "ogTitle": "Work Archive - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/",
+      "scrollWidth": 753,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 768
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/work/dazlab/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 3,
+      "ogTitle": "Dazlab Case Study - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollWidth": 753,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 768
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/about/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 1,
+      "ogTitle": "About - Aldrin Camacho",
+      "overflow": false,
+      "path": "/about/",
+      "scrollWidth": 753,
+      "title": "About - Aldrin Camacho",
+      "viewport": 768
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "canonical": "https://example.com/contact/",
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "h1Count": 1,
+      "imageCount": 0,
+      "ogTitle": "Contact - Aldrin Camacho",
+      "overflow": false,
+      "path": "/contact/",
+      "scrollWidth": 753,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 768
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 5,
+      "ogTitle": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "overflow": false,
+      "path": "/",
+      "scrollWidth": 1009,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 1024
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/work/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 4,
+      "ogTitle": "Work Archive - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/",
+      "scrollWidth": 1009,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 1024
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/work/dazlab/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 3,
+      "ogTitle": "Dazlab Case Study - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollWidth": 1009,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 1024
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/about/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 1,
+      "ogTitle": "About - Aldrin Camacho",
+      "overflow": false,
+      "path": "/about/",
+      "scrollWidth": 1009,
+      "title": "About - Aldrin Camacho",
+      "viewport": 1024
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "canonical": "https://example.com/contact/",
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "h1Count": 1,
+      "imageCount": 0,
+      "ogTitle": "Contact - Aldrin Camacho",
+      "overflow": false,
+      "path": "/contact/",
+      "scrollWidth": 1009,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 1024
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 5,
+      "ogTitle": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "overflow": false,
+      "path": "/",
+      "scrollWidth": 1425,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 1440
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/work/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 4,
+      "ogTitle": "Work Archive - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/",
+      "scrollWidth": 1425,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 1440
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/work/dazlab/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 3,
+      "ogTitle": "Dazlab Case Study - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollWidth": 1425,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 1440
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/about/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 1,
+      "ogTitle": "About - Aldrin Camacho",
+      "overflow": false,
+      "path": "/about/",
+      "scrollWidth": 1425,
+      "title": "About - Aldrin Camacho",
+      "viewport": 1440
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "canonical": "https://example.com/contact/",
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "h1Count": 1,
+      "imageCount": 0,
+      "ogTitle": "Contact - Aldrin Camacho",
+      "overflow": false,
+      "path": "/contact/",
+      "scrollWidth": 1425,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 1440
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 5,
+      "ogTitle": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "overflow": false,
+      "path": "/",
+      "scrollWidth": 1905,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 1920
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/work/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 4,
+      "ogTitle": "Work Archive - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/",
+      "scrollWidth": 1905,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 1920
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/work/dazlab/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 3,
+      "ogTitle": "Dazlab Case Study - Aldrin Camacho",
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollWidth": 1905,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 1920
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [],
+      "canonical": "https://example.com/about/",
+      "form": null,
+      "h1Count": 1,
+      "imageCount": 1,
+      "ogTitle": "About - Aldrin Camacho",
+      "overflow": false,
+      "path": "/about/",
+      "scrollWidth": 1905,
+      "title": "About - Aldrin Camacho",
+      "viewport": 1920
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "buttons": [
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "canonical": "https://example.com/contact/",
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "h1Count": 1,
+      "imageCount": 0,
+      "ogTitle": "Contact - Aldrin Camacho",
+      "overflow": false,
+      "path": "/contact/",
+      "scrollWidth": 1905,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 1920
+    }
+  }
+]

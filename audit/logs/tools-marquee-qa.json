@@ -1,0 +1,573 @@
+{
+  "generatedAt": "2026-10-13T09:43:38.051Z",
+  "qaResults": [
+    {
+      "width": 320,
+      "logs": [],
+      "data": {
+        "animationDuration": "40s",
+        "animationName": "marquee-scroll",
+        "animationTiming": "linear",
+        "duplicateHidden": true,
+        "eyebrow": "TOOLS / TECHNOLOGIES",
+        "h2": "The tools behind my work.",
+        "hasFocusPauseRule": false,
+        "hasHoverPauseRule": false,
+        "hasReducedMotionRule": false,
+        "images": [
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          }
+        ],
+        "innerWidth": 320,
+        "label": "Design · Development · Automation",
+        "orderOk": true,
+        "overflow": false,
+        "rect": {
+          "height": 299,
+          "top": 1060,
+          "width": 305
+        },
+        "scrollWidth": 305,
+        "totalCount": 18,
+        "unique": [
+          "Figma",
+          "Webflow",
+          "Claude",
+          "OpenAI Codex",
+          "ChatGPT",
+          "Make",
+          "n8n",
+          "Relume",
+          "Client-First"
+        ],
+        "uniqueCount": 9,
+        "workTop": 1359
+      }
+    },
+    {
+      "width": 390,
+      "logs": [],
+      "data": {
+        "animationDuration": "40s",
+        "animationName": "marquee-scroll",
+        "animationTiming": "linear",
+        "duplicateHidden": true,
+        "eyebrow": "TOOLS / TECHNOLOGIES",
+        "h2": "The tools behind my work.",
+        "hasFocusPauseRule": false,
+        "hasHoverPauseRule": false,
+        "hasReducedMotionRule": false,
+        "images": [
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          }
+        ],
+        "innerWidth": 390,
+        "label": "Design · Development · Automation",
+        "orderOk": true,
+        "overflow": false,
+        "rect": {
+          "height": 299,
+          "top": 1101,
+          "width": 375
+        },
+        "scrollWidth": 375,
+        "totalCount": 18,
+        "unique": [
+          "Figma",
+          "Webflow",
+          "Claude",
+          "OpenAI Codex",
+          "ChatGPT",
+          "Make",
+          "n8n",
+          "Relume",
+          "Client-First"
+        ],
+        "uniqueCount": 9,
+        "workTop": 1400
+      }
+    },
+    {
+      "width": 768,
+      "logs": [],
+      "data": {
+        "animationDuration": "40s",
+        "animationName": "marquee-scroll",
+        "animationTiming": "linear",
+        "duplicateHidden": true,
+        "eyebrow": "TOOLS / TECHNOLOGIES",
+        "h2": "The tools behind my work.",
+        "hasFocusPauseRule": false,
+        "hasHoverPauseRule": false,
+        "hasReducedMotionRule": false,
+        "images": [
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 24,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          }
+        ],
+        "innerWidth": 768,
+        "label": "Design · Development · Automation",
+        "orderOk": true,
+        "overflow": false,
+        "rect": {
+          "height": 353,
+          "top": 1265,
+          "width": 753
+        },
+        "scrollWidth": 753,
+        "totalCount": 18,
+        "unique": [
+          "Figma",
+          "Webflow",
+          "Claude",
+          "OpenAI Codex",
+          "ChatGPT",
+          "Make",
+          "n8n",
+          "Relume",
+          "Client-First"
+        ],
+        "uniqueCount": 9,
+        "workTop": 1618
+      }
+    },
+    {
+      "width": 1024,
+      "logs": [],
+      "data": {
+        "animationDuration": "40s",
+        "animationName": "marquee-scroll",
+        "animationTiming": "linear",
+        "duplicateHidden": true,
+        "eyebrow": "TOOLS / TECHNOLOGIES",
+        "h2": "The tools behind my work.",
+        "hasFocusPauseRule": false,
+        "hasHoverPauseRule": false,
+        "hasReducedMotionRule": false,
+        "images": [
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 31,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          }
+        ],
+        "innerWidth": 1024,
+        "label": "Design · Development · Automation",
+        "orderOk": true,
+        "overflow": false,
+        "rect": {
+          "height": 387,
+          "top": 680,
+          "width": 1009
+        },
+        "scrollWidth": 1009,
+        "totalCount": 18,
+        "unique": [
+          "Figma",
+          "Webflow",
+          "Claude",
+          "OpenAI Codex",
+          "ChatGPT",
+          "Make",
+          "n8n",
+          "Relume",
+          "Client-First"
+        ],
+        "uniqueCount": 9,
+        "workTop": 1067
+      }
+    },
+    {
+      "width": 1440,
+      "logs": [],
+      "data": {
+        "animationDuration": "40s",
+        "animationName": "marquee-scroll",
+        "animationTiming": "linear",
+        "duplicateHidden": true,
+        "eyebrow": "TOOLS / TECHNOLOGIES",
+        "h2": "The tools behind my work.",
+        "hasFocusPauseRule": false,
+        "hasHoverPauseRule": false,
+        "hasReducedMotionRule": false,
+        "images": [
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/figma.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/webflow.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/claude.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/make.svg"
+          },
+          {
+            "complete": true,
+            "height": 32,
+            "naturalHeight": 150,
+            "naturalWidth": 150,
+            "src": "/assets/tools/n8n.svg"
+          }
+        ],
+        "innerWidth": 1440,
+        "label": "Design · Development · Automation",
+        "orderOk": true,
+        "overflow": false,
+        "rect": {
+          "height": 380,
+          "top": 791,
+          "width": 1425
+        },
+        "scrollWidth": 1425,
+        "totalCount": 18,
+        "unique": [
+          "Figma",
+          "Webflow",
+          "Claude",
+          "OpenAI Codex",
+          "ChatGPT",
+          "Make",
+          "n8n",
+          "Relume",
+          "Client-First"
+        ],
+        "uniqueCount": 9,
+        "workTop": 1171
+      }
+    }
+  ],
+  "pause": {
+    "beforeFocus": "running",
+    "afterFocus": {
+      "activeClass": "marquee",
+      "activeLabel": "Tools and technologies used in Aldrin's work",
+      "state": "paused"
+    },
+    "hoverVerifiedByCssRule": false
+  },
+  "screenshots": [
+    "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\tools-marquee-screenshots\\home-tools-desktop-1440.png",
+    "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\tools-marquee-screenshots\\home-tools-mobile-390.png"
+  ]
+}

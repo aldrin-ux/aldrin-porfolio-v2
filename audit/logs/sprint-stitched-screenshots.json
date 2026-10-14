@@ -1,0 +1,104 @@
+[
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\home-mobile-390.png",
+    "Mode": "stitched",
+    "Width": 375,
+    "Height": 7403
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\work-mobile-390.png",
+    "Mode": "stitched",
+    "Width": 375,
+    "Height": 2593
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\dazlab-mobile-390.png",
+    "Mode": "stitched",
+    "Width": 375,
+    "Height": 3973
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\about-mobile-390.png",
+    "Mode": "stitched",
+    "Width": 375,
+    "Height": 2668
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\contact-mobile-390.png",
+    "Mode": "stitched",
+    "Width": 375,
+    "Height": 2786
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\home-tablet-768.png",
+    "Mode": "stitched",
+    "Width": 753,
+    "Height": 5787
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\work-tablet-768.png",
+    "Mode": "stitched",
+    "Width": 753,
+    "Height": 1668
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\dazlab-tablet-768.png",
+    "Mode": "stitched",
+    "Width": 753,
+    "Height": 3034
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\about-tablet-768.png",
+    "Mode": "stitched",
+    "Width": 753,
+    "Height": 2015
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\contact-tablet-768.png",
+    "Mode": "stitched",
+    "Width": 753,
+    "Height": 2398
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\home-desktop-1440.png",
+    "Mode": "stitched",
+    "Width": 1425,
+    "Height": 5101
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\work-desktop-1440.png",
+    "Mode": "stitched",
+    "Width": 1425,
+    "Height": 1956
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\dazlab-desktop-1440.png",
+    "Mode": "stitched",
+    "Width": 1425,
+    "Height": 3174
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\about-desktop-1440.png",
+    "Mode": "stitched",
+    "Width": 1425,
+    "Height": 2165
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\contact-desktop-1440.png",
+    "Mode": "stitched",
+    "Width": 1425,
+    "Height": 2091
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\mobile-nav-closed-390.png",
+    "Mode": "single",
+    "Width": 390,
+    "Height": 844
+  },
+  {
+    "Output": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\responsive-screenshots\\mobile-nav-open-390.png",
+    "Mode": "single",
+    "Width": 390,
+    "Height": 844
+  }
+]

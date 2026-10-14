@@ -1,0 +1,141 @@
+---
+interface Props {
+  project: {
+    title: string;
+    href: string;
+    externalUrl: string;
+    tags: string[];
+    summary: string;
+    image: string;
+    alt: string;
+  };
+}
+
+const { project } = Astro.props;
+---
+
+<article class="project-card">
+  <div class="project-top">
+    <h3>
+      <a href={project.href}>{project.title}<span class="accent">↗</span></a>
+    </h3>
+    <div class="project-actions">
+      <a class="text-link" href={project.href}>View Case Study ↗</a>
+      <a
+        class="text-link text-link--muted"
+        href={project.externalUrl}
+        rel="noopener noreferrer"
+        target="_blank"
+        aria-label={`Visit ${project.title} live website`}
+      >
+        Visit Live Website ↗
+      </a>
+    </div>
+  </div>
+  <div class="tags">
+    {project.tags.map((tag) => <span>{tag}</span>)}
+  </div>
+  <p>{project.summary}</p>
+  <a class="image-frame" href={project.href} aria-label={`${project.title} case study`}>
+    <img src={project.image} alt={project.alt} loading="lazy" />
+  </a>
+</article>
+
+<style>
+  .project-card {
+    display: grid;
+    min-height: 100%;
+    grid-template-rows: auto auto auto 1fr;
+    gap: 1rem;
+    border: 1px solid var(--border);
+    border-radius: 0.75rem;
+    background: #fff;
+    padding: 1.25rem;
+  }
+
+  .project-top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .project-actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 0.5rem 0.9rem;
+    text-align: right;
+  }
+
+  .text-link--muted {
+    color: var(--muted);
+  }
+
+  h3 {
+    margin: 0;
+    font-size: 1.35rem;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+  h3 span {
+    margin-left: 0.35rem;
+    font-size: 1rem;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .tags span {
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    color: var(--muted);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.68rem;
+    padding: 0.2rem 0.48rem;
+  }
+
+  p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.9rem;
+    line-height: 1.55;
+  }
+
+  .image-frame {
+    align-self: end;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    border-radius: 0.6rem;
+    background: var(--surface-soft);
+    aspect-ratio: 16 / 10;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    transition: transform 500ms ease;
+  }
+
+  .project-card:hover img {
+    transform: scale(1.025);
+  }
+
+  @media (max-width: 640px) {
+    .project-top {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .project-actions {
+      justify-content: flex-start;
+      text-align: left;
+    }
+  }
+</style>

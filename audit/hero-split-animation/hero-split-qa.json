@@ -1,0 +1,500 @@
+{
+  "generatedAt": "2026-10-13T11:57:16.149Z",
+  "qa": [
+    {
+      "width": 320,
+      "height": 844,
+      "initial": {
+        "className": "hero is-running",
+        "heroHeight": 713,
+        "overflow": false,
+        "panels": 2,
+        "portraitTransform": "matrix(0.86, 0, 0, 0.86, 0, 0)",
+        "support": [
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00"
+        ],
+        "viewportHeight": 720
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 42,
+            "left": 16,
+            "top": 159,
+            "width": 273
+          },
+          {
+            "height": 42,
+            "left": 16,
+            "top": 655,
+            "width": 273
+          }
+        ],
+        "heroHeight": 976,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "slash": 0,
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 844
+      },
+      "consoleMessages": []
+    },
+    {
+      "width": 375,
+      "height": 844,
+      "initial": {
+        "className": "hero is-complete",
+        "heroHeight": 1003,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 844
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 42,
+            "left": 16,
+            "top": 159,
+            "width": 328
+          },
+          {
+            "height": 42,
+            "left": 16,
+            "top": 682,
+            "width": 328
+          }
+        ],
+        "heroHeight": 1003,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "slash": 0,
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 844
+      },
+      "consoleMessages": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "initial": {
+        "className": "hero is-complete",
+        "heroHeight": 1017,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 844
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 42,
+            "left": 16,
+            "top": 159,
+            "width": 343
+          },
+          {
+            "height": 42,
+            "left": 16,
+            "top": 696,
+            "width": 343
+          }
+        ],
+        "heroHeight": 1017,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "slash": 0,
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 844
+      },
+      "consoleMessages": []
+    },
+    {
+      "width": 430,
+      "height": 844,
+      "initial": {
+        "className": "hero is-complete",
+        "heroHeight": 1056,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 844
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 42,
+            "left": 16,
+            "top": 159,
+            "width": 383
+          },
+          {
+            "height": 42,
+            "left": 16,
+            "top": 735,
+            "width": 383
+          }
+        ],
+        "heroHeight": 1056,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "slash": 0,
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 844
+      },
+      "consoleMessages": []
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "initial": {
+        "className": "hero is-complete",
+        "heroHeight": 1166,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 900
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 48,
+            "left": 23,
+            "top": 169,
+            "width": 707
+          },
+          {
+            "height": 48,
+            "left": 23,
+            "top": 895,
+            "width": 707
+          }
+        ],
+        "heroHeight": 1166,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "none",
+        "slash": 0,
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 900
+      },
+      "consoleMessages": []
+    },
+    {
+      "width": 1024,
+      "height": 900,
+      "initial": {
+        "className": "hero is-running",
+        "heroHeight": 828,
+        "overflow": false,
+        "panels": 2,
+        "portraitTransform": "matrix(0.86, 0, 0, 0.86, 0, 0)",
+        "support": [
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00"
+        ],
+        "viewportHeight": 900
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 61,
+            "left": 31,
+            "top": 367,
+            "width": 260
+          },
+          {
+            "height": 61,
+            "left": 719,
+            "top": 367,
+            "width": 260
+          }
+        ],
+        "heroHeight": 828,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+        "slash": 0,
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 900
+      },
+      "consoleMessages": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "initial": {
+        "className": "hero is-running",
+        "heroHeight": 828,
+        "overflow": false,
+        "panels": 2,
+        "portraitTransform": "matrix(0.86, 0, 0, 0.86, 0, 0)",
+        "support": [
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00"
+        ],
+        "viewportHeight": 900
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 62,
+            "left": 113,
+            "top": 375,
+            "width": 331
+          },
+          {
+            "height": 62,
+            "left": 981,
+            "top": 362,
+            "width": 331
+          }
+        ],
+        "heroHeight": 828,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+        "slash": 0,
+        "support": [
+          "visible:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00"
+        ],
+        "viewportHeight": 900
+      },
+      "consoleMessages": []
+    },
+    {
+      "width": 1920,
+      "height": 900,
+      "initial": {
+        "className": "hero is-running",
+        "heroHeight": 828,
+        "overflow": false,
+        "panels": 2,
+        "portraitTransform": "matrix(0.86, 0, 0, 0.86, 0, 0)",
+        "support": [
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00",
+          "hidden:0.00"
+        ],
+        "viewportHeight": 900
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 62,
+            "left": 353,
+            "top": 375,
+            "width": 331
+          },
+          {
+            "height": 62,
+            "left": 1221,
+            "top": 362,
+            "width": 331
+          }
+        ],
+        "heroHeight": 828,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+        "slash": 0,
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 900
+      },
+      "consoleMessages": []
+    },
+    {
+      "width": 1440,
+      "height": 620,
+      "initial": {
+        "className": "hero is-complete",
+        "heroHeight": 718,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 620
+      },
+      "final": {
+        "className": "hero is-complete",
+        "ctaHref": "#work",
+        "designerText": "designer.",
+        "developerText": "developer.",
+        "headingRects": [
+          {
+            "height": 62,
+            "left": 113,
+            "top": 320,
+            "width": 331
+          },
+          {
+            "height": 62,
+            "left": 981,
+            "top": 307,
+            "width": 331
+          }
+        ],
+        "heroHeight": 718,
+        "overflow": false,
+        "panels": 0,
+        "portraitTransform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+        "slash": 0,
+        "support": [
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00",
+          "visible:1.00"
+        ],
+        "viewportHeight": 620
+      },
+      "consoleMessages": []
+    }
+  ]
+}

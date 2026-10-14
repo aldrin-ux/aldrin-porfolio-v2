@@ -1,0 +1,56 @@
+---
+interface Props {
+  eyebrow: string;
+  title: string;
+  description?: string;
+}
+
+const { eyebrow, title, description } = Astro.props;
+const heading = title.trim().replace(/\.+$/, "");
+---
+
+<div class:list={["section-heading", { "has-description": description }]}>
+  <div>
+    <span class="eyebrow">{eyebrow}</span>
+    <h2>{heading}<span class="accent">.</span></h2>
+  </div>
+  {description && <p>{description}</p>}
+</div>
+
+<style>
+  .section-heading {
+    display: grid;
+    max-width: 760px;
+    gap: 0.85rem;
+    margin-bottom: clamp(1.75rem, 4vw, 3rem);
+  }
+
+  .section-heading:not(.has-description) {
+    margin-bottom: clamp(1.35rem, 3vw, 2rem);
+  }
+
+  h2 {
+    margin: 0.25rem 0 0;
+    font-size: clamp(2.25rem, 5vw, 2.75rem);
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.12;
+  }
+
+  p {
+    margin: 0;
+    color: var(--muted);
+    max-width: 620px;
+  }
+
+  @media (max-width: 760px) {
+    .section-heading {
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+
+    h2 {
+      font-size: 1.65rem;
+    }
+  }
+</style>

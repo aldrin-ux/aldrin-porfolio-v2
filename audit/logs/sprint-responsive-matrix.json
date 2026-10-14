@@ -1,0 +1,7095 @@
+[
+  {
+    "width": 320,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [
+        {
+          "alt": "Handl agency operations SaaS website showcase",
+          "complete": false,
+          "loading": "lazy",
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "http://127.0.0.1:4322/assets/handl.png"
+        },
+        {
+          "alt": "Tangilla SaaS marketing website showcase",
+          "complete": false,
+          "loading": "lazy",
+          "naturalHeight": 0,
+          "naturalWidth": 0,
+          "src": "http://127.0.0.1:4322/assets/tangilla.png"
+        }
+      ],
+      "clientWidth": 305,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "designer."
+        },
+        {
+          "tag": "H2",
+          "text": "developer."
+        },
+        {
+          "tag": "H2",
+          "text": "Selected Work."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        },
+        {
+          "tag": "H2",
+          "text": "What I Do."
+        },
+        {
+          "tag": "H3",
+          "text": "Webflow Development"
+        },
+        {
+          "tag": "H3",
+          "text": "CMS & Structured SEO"
+        },
+        {
+          "tag": "H3",
+          "text": "Design-to-Dev Execution"
+        },
+        {
+          "tag": "H3",
+          "text": "Integrations & Optimization"
+        },
+        {
+          "tag": "H2",
+          "text": "From Idea to Live Website."
+        },
+        {
+          "tag": "H3",
+          "text": "Discover & Plan"
+        },
+        {
+          "tag": "H3",
+          "text": "Design & Structure"
+        },
+        {
+          "tag": "H3",
+          "text": "Build in Webflow"
+        },
+        {
+          "tag": "H3",
+          "text": "Refine with AI"
+        },
+        {
+          "tag": "H3",
+          "text": "Test & Launch"
+        },
+        {
+          "tag": "H2",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        },
+        {
+          "tag": "H2",
+          "text": "Let's build something better."
+        }
+      ],
+      "imageCount": 5,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/",
+      "scrollHeight": 7804,
+      "scrollWidth": 305,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 320,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 305,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "Work that speaks for itself."
+        },
+        {
+          "tag": "H1",
+          "text": "Work Archive"
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        }
+      ],
+      "imageCount": 4,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/",
+      "scrollHeight": 2633,
+      "scrollWidth": 305,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 320,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 305,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Dazlab - Product Studio Website & CMS Architecture."
+        },
+        {
+          "tag": "H2",
+          "text": "Context."
+        },
+        {
+          "tag": "H2",
+          "text": "Implementation."
+        },
+        {
+          "tag": "H2",
+          "text": "Result."
+        },
+        {
+          "tag": "H2",
+          "text": "More selected projects."
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        }
+      ],
+      "imageCount": 3,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollHeight": 4256,
+      "scrollWidth": 305,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 320,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 305,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        }
+      ],
+      "imageCount": 1,
+      "mainExists": true,
+      "overflow": true,
+      "path": "/about/",
+      "scrollHeight": 2903,
+      "scrollWidth": 355,
+      "title": "About - Aldrin Camacho",
+      "viewport": 320,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 305,
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let's build something better."
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Website Project"
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Remote Role"
+        },
+        {
+          "tag": "H2",
+          "text": "What working together looks like."
+        },
+        {
+          "tag": "H3",
+          "text": "Clear Milestones"
+        },
+        {
+          "tag": "H3",
+          "text": "Clean Webflow Code"
+        },
+        {
+          "tag": "H3",
+          "text": "Direct Communication"
+        }
+      ],
+      "imageCount": 0,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/contact/",
+      "scrollHeight": 3048,
+      "scrollWidth": 305,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 320,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        },
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 360,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "designer."
+        },
+        {
+          "tag": "H2",
+          "text": "developer."
+        },
+        {
+          "tag": "H2",
+          "text": "Selected Work."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        },
+        {
+          "tag": "H2",
+          "text": "What I Do."
+        },
+        {
+          "tag": "H3",
+          "text": "Webflow Development"
+        },
+        {
+          "tag": "H3",
+          "text": "CMS & Structured SEO"
+        },
+        {
+          "tag": "H3",
+          "text": "Design-to-Dev Execution"
+        },
+        {
+          "tag": "H3",
+          "text": "Integrations & Optimization"
+        },
+        {
+          "tag": "H2",
+          "text": "From Idea to Live Website."
+        },
+        {
+          "tag": "H3",
+          "text": "Discover & Plan"
+        },
+        {
+          "tag": "H3",
+          "text": "Design & Structure"
+        },
+        {
+          "tag": "H3",
+          "text": "Build in Webflow"
+        },
+        {
+          "tag": "H3",
+          "text": "Refine with AI"
+        },
+        {
+          "tag": "H3",
+          "text": "Test & Launch"
+        },
+        {
+          "tag": "H2",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        },
+        {
+          "tag": "H2",
+          "text": "Let's build something better."
+        }
+      ],
+      "imageCount": 5,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/",
+      "scrollHeight": 7473,
+      "scrollWidth": 360,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 375,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 360,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "Work that speaks for itself."
+        },
+        {
+          "tag": "H1",
+          "text": "Work Archive"
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        }
+      ],
+      "imageCount": 4,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/",
+      "scrollHeight": 2588,
+      "scrollWidth": 360,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 375,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 360,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Dazlab - Product Studio Website & CMS Architecture."
+        },
+        {
+          "tag": "H2",
+          "text": "Context."
+        },
+        {
+          "tag": "H2",
+          "text": "Implementation."
+        },
+        {
+          "tag": "H2",
+          "text": "Result."
+        },
+        {
+          "tag": "H2",
+          "text": "More selected projects."
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        }
+      ],
+      "imageCount": 3,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollHeight": 4039,
+      "scrollWidth": 360,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 375,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 360,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        }
+      ],
+      "imageCount": 1,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/about/",
+      "scrollHeight": 2684,
+      "scrollWidth": 360,
+      "title": "About - Aldrin Camacho",
+      "viewport": 375,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 375,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 360,
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let's build something better."
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Website Project"
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Remote Role"
+        },
+        {
+          "tag": "H2",
+          "text": "What working together looks like."
+        },
+        {
+          "tag": "H3",
+          "text": "Clear Milestones"
+        },
+        {
+          "tag": "H3",
+          "text": "Clean Webflow Code"
+        },
+        {
+          "tag": "H3",
+          "text": "Direct Communication"
+        }
+      ],
+      "imageCount": 0,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/contact/",
+      "scrollHeight": 2811,
+      "scrollWidth": 360,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 375,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        },
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 375,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "designer."
+        },
+        {
+          "tag": "H2",
+          "text": "developer."
+        },
+        {
+          "tag": "H2",
+          "text": "Selected Work."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        },
+        {
+          "tag": "H2",
+          "text": "What I Do."
+        },
+        {
+          "tag": "H3",
+          "text": "Webflow Development"
+        },
+        {
+          "tag": "H3",
+          "text": "CMS & Structured SEO"
+        },
+        {
+          "tag": "H3",
+          "text": "Design-to-Dev Execution"
+        },
+        {
+          "tag": "H3",
+          "text": "Integrations & Optimization"
+        },
+        {
+          "tag": "H2",
+          "text": "From Idea to Live Website."
+        },
+        {
+          "tag": "H3",
+          "text": "Discover & Plan"
+        },
+        {
+          "tag": "H3",
+          "text": "Design & Structure"
+        },
+        {
+          "tag": "H3",
+          "text": "Build in Webflow"
+        },
+        {
+          "tag": "H3",
+          "text": "Refine with AI"
+        },
+        {
+          "tag": "H3",
+          "text": "Test & Launch"
+        },
+        {
+          "tag": "H2",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        },
+        {
+          "tag": "H2",
+          "text": "Let's build something better."
+        }
+      ],
+      "imageCount": 5,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/",
+      "scrollHeight": 7403,
+      "scrollWidth": 375,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 390,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 375,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "Work that speaks for itself."
+        },
+        {
+          "tag": "H1",
+          "text": "Work Archive"
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        }
+      ],
+      "imageCount": 4,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/",
+      "scrollHeight": 2593,
+      "scrollWidth": 375,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 390,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 375,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Dazlab - Product Studio Website & CMS Architecture."
+        },
+        {
+          "tag": "H2",
+          "text": "Context."
+        },
+        {
+          "tag": "H2",
+          "text": "Implementation."
+        },
+        {
+          "tag": "H2",
+          "text": "Result."
+        },
+        {
+          "tag": "H2",
+          "text": "More selected projects."
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        }
+      ],
+      "imageCount": 3,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollHeight": 3973,
+      "scrollWidth": 375,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 390,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 375,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        }
+      ],
+      "imageCount": 1,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/about/",
+      "scrollHeight": 2668,
+      "scrollWidth": 375,
+      "title": "About - Aldrin Camacho",
+      "viewport": 390,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 375,
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let's build something better."
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Website Project"
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Remote Role"
+        },
+        {
+          "tag": "H2",
+          "text": "What working together looks like."
+        },
+        {
+          "tag": "H3",
+          "text": "Clear Milestones"
+        },
+        {
+          "tag": "H3",
+          "text": "Clean Webflow Code"
+        },
+        {
+          "tag": "H3",
+          "text": "Direct Communication"
+        }
+      ],
+      "imageCount": 0,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/contact/",
+      "scrollHeight": 2786,
+      "scrollWidth": 375,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 390,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        },
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 415,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "designer."
+        },
+        {
+          "tag": "H2",
+          "text": "developer."
+        },
+        {
+          "tag": "H2",
+          "text": "Selected Work."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        },
+        {
+          "tag": "H2",
+          "text": "What I Do."
+        },
+        {
+          "tag": "H3",
+          "text": "Webflow Development"
+        },
+        {
+          "tag": "H3",
+          "text": "CMS & Structured SEO"
+        },
+        {
+          "tag": "H3",
+          "text": "Design-to-Dev Execution"
+        },
+        {
+          "tag": "H3",
+          "text": "Integrations & Optimization"
+        },
+        {
+          "tag": "H2",
+          "text": "From Idea to Live Website."
+        },
+        {
+          "tag": "H3",
+          "text": "Discover & Plan"
+        },
+        {
+          "tag": "H3",
+          "text": "Design & Structure"
+        },
+        {
+          "tag": "H3",
+          "text": "Build in Webflow"
+        },
+        {
+          "tag": "H3",
+          "text": "Refine with AI"
+        },
+        {
+          "tag": "H3",
+          "text": "Test & Launch"
+        },
+        {
+          "tag": "H2",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        },
+        {
+          "tag": "H2",
+          "text": "Let's build something better."
+        }
+      ],
+      "imageCount": 5,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/",
+      "scrollHeight": 7365,
+      "scrollWidth": 415,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 430,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 415,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "Work that speaks for itself."
+        },
+        {
+          "tag": "H1",
+          "text": "Work Archive"
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        }
+      ],
+      "imageCount": 4,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/",
+      "scrollHeight": 2590,
+      "scrollWidth": 415,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 430,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 415,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Dazlab - Product Studio Website & CMS Architecture."
+        },
+        {
+          "tag": "H2",
+          "text": "Context."
+        },
+        {
+          "tag": "H2",
+          "text": "Implementation."
+        },
+        {
+          "tag": "H2",
+          "text": "Result."
+        },
+        {
+          "tag": "H2",
+          "text": "More selected projects."
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        }
+      ],
+      "imageCount": 3,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollHeight": 3912,
+      "scrollWidth": 415,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 430,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 415,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        }
+      ],
+      "imageCount": 1,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/about/",
+      "scrollHeight": 2621,
+      "scrollWidth": 415,
+      "title": "About - Aldrin Camacho",
+      "viewport": 430,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 430,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 415,
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let's build something better."
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Website Project"
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Remote Role"
+        },
+        {
+          "tag": "H2",
+          "text": "What working together looks like."
+        },
+        {
+          "tag": "H3",
+          "text": "Clear Milestones"
+        },
+        {
+          "tag": "H3",
+          "text": "Clean Webflow Code"
+        },
+        {
+          "tag": "H3",
+          "text": "Direct Communication"
+        }
+      ],
+      "imageCount": 0,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/contact/",
+      "scrollHeight": 2709,
+      "scrollWidth": 415,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 430,
+      "visibleButtons": [
+        {
+          "ariaControls": "mobile-menu",
+          "ariaExpanded": "false",
+          "text": ""
+        },
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 753,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "designer."
+        },
+        {
+          "tag": "H2",
+          "text": "developer."
+        },
+        {
+          "tag": "H2",
+          "text": "Selected Work."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        },
+        {
+          "tag": "H2",
+          "text": "What I Do."
+        },
+        {
+          "tag": "H3",
+          "text": "Webflow Development"
+        },
+        {
+          "tag": "H3",
+          "text": "CMS & Structured SEO"
+        },
+        {
+          "tag": "H3",
+          "text": "Design-to-Dev Execution"
+        },
+        {
+          "tag": "H3",
+          "text": "Integrations & Optimization"
+        },
+        {
+          "tag": "H2",
+          "text": "From Idea to Live Website."
+        },
+        {
+          "tag": "H3",
+          "text": "Discover & Plan"
+        },
+        {
+          "tag": "H3",
+          "text": "Design & Structure"
+        },
+        {
+          "tag": "H3",
+          "text": "Build in Webflow"
+        },
+        {
+          "tag": "H3",
+          "text": "Refine with AI"
+        },
+        {
+          "tag": "H3",
+          "text": "Test & Launch"
+        },
+        {
+          "tag": "H2",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        },
+        {
+          "tag": "H2",
+          "text": "Let's build something better."
+        }
+      ],
+      "imageCount": 5,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/",
+      "scrollHeight": 5787,
+      "scrollWidth": 753,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 768,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 753,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "Work that speaks for itself."
+        },
+        {
+          "tag": "H1",
+          "text": "Work Archive"
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        }
+      ],
+      "imageCount": 4,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/",
+      "scrollHeight": 1668,
+      "scrollWidth": 753,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 768,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 753,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Dazlab - Product Studio Website & CMS Architecture."
+        },
+        {
+          "tag": "H2",
+          "text": "Context."
+        },
+        {
+          "tag": "H2",
+          "text": "Implementation."
+        },
+        {
+          "tag": "H2",
+          "text": "Result."
+        },
+        {
+          "tag": "H2",
+          "text": "More selected projects."
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        }
+      ],
+      "imageCount": 3,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollHeight": 3034,
+      "scrollWidth": 753,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 768,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 753,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        }
+      ],
+      "imageCount": 1,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/about/",
+      "scrollHeight": 2015,
+      "scrollWidth": 753,
+      "title": "About - Aldrin Camacho",
+      "viewport": 768,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 768,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 753,
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let's build something better."
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Website Project"
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Remote Role"
+        },
+        {
+          "tag": "H2",
+          "text": "What working together looks like."
+        },
+        {
+          "tag": "H3",
+          "text": "Clear Milestones"
+        },
+        {
+          "tag": "H3",
+          "text": "Clean Webflow Code"
+        },
+        {
+          "tag": "H3",
+          "text": "Direct Communication"
+        }
+      ],
+      "imageCount": 0,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/contact/",
+      "scrollHeight": 2398,
+      "scrollWidth": 753,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 768,
+      "visibleButtons": [
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1009,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "designer."
+        },
+        {
+          "tag": "H2",
+          "text": "developer."
+        },
+        {
+          "tag": "H2",
+          "text": "Selected Work."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        },
+        {
+          "tag": "H2",
+          "text": "What I Do."
+        },
+        {
+          "tag": "H3",
+          "text": "Webflow Development"
+        },
+        {
+          "tag": "H3",
+          "text": "CMS & Structured SEO"
+        },
+        {
+          "tag": "H3",
+          "text": "Design-to-Dev Execution"
+        },
+        {
+          "tag": "H3",
+          "text": "Integrations & Optimization"
+        },
+        {
+          "tag": "H2",
+          "text": "From Idea to Live Website."
+        },
+        {
+          "tag": "H3",
+          "text": "Discover & Plan"
+        },
+        {
+          "tag": "H3",
+          "text": "Design & Structure"
+        },
+        {
+          "tag": "H3",
+          "text": "Build in Webflow"
+        },
+        {
+          "tag": "H3",
+          "text": "Refine with AI"
+        },
+        {
+          "tag": "H3",
+          "text": "Test & Launch"
+        },
+        {
+          "tag": "H2",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        },
+        {
+          "tag": "H2",
+          "text": "Let's build something better."
+        }
+      ],
+      "imageCount": 5,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/",
+      "scrollHeight": 4661,
+      "scrollWidth": 1009,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 1024,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1009,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "Work that speaks for itself."
+        },
+        {
+          "tag": "H1",
+          "text": "Work Archive"
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        }
+      ],
+      "imageCount": 4,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/",
+      "scrollHeight": 1775,
+      "scrollWidth": 1009,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 1024,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1009,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Dazlab - Product Studio Website & CMS Architecture."
+        },
+        {
+          "tag": "H2",
+          "text": "Context."
+        },
+        {
+          "tag": "H2",
+          "text": "Implementation."
+        },
+        {
+          "tag": "H2",
+          "text": "Result."
+        },
+        {
+          "tag": "H2",
+          "text": "More selected projects."
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        }
+      ],
+      "imageCount": 3,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollHeight": 3115,
+      "scrollWidth": 1009,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 1024,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1009,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        }
+      ],
+      "imageCount": 1,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/about/",
+      "scrollHeight": 1899,
+      "scrollWidth": 1009,
+      "title": "About - Aldrin Camacho",
+      "viewport": 1024,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1024,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1009,
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let's build something better."
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Website Project"
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Remote Role"
+        },
+        {
+          "tag": "H2",
+          "text": "What working together looks like."
+        },
+        {
+          "tag": "H3",
+          "text": "Clear Milestones"
+        },
+        {
+          "tag": "H3",
+          "text": "Clean Webflow Code"
+        },
+        {
+          "tag": "H3",
+          "text": "Direct Communication"
+        }
+      ],
+      "imageCount": 0,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/contact/",
+      "scrollHeight": 1946,
+      "scrollWidth": 1009,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 1024,
+      "visibleButtons": [
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1425,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "designer."
+        },
+        {
+          "tag": "H2",
+          "text": "developer."
+        },
+        {
+          "tag": "H2",
+          "text": "Selected Work."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        },
+        {
+          "tag": "H2",
+          "text": "What I Do."
+        },
+        {
+          "tag": "H3",
+          "text": "Webflow Development"
+        },
+        {
+          "tag": "H3",
+          "text": "CMS & Structured SEO"
+        },
+        {
+          "tag": "H3",
+          "text": "Design-to-Dev Execution"
+        },
+        {
+          "tag": "H3",
+          "text": "Integrations & Optimization"
+        },
+        {
+          "tag": "H2",
+          "text": "From Idea to Live Website."
+        },
+        {
+          "tag": "H3",
+          "text": "Discover & Plan"
+        },
+        {
+          "tag": "H3",
+          "text": "Design & Structure"
+        },
+        {
+          "tag": "H3",
+          "text": "Build in Webflow"
+        },
+        {
+          "tag": "H3",
+          "text": "Refine with AI"
+        },
+        {
+          "tag": "H3",
+          "text": "Test & Launch"
+        },
+        {
+          "tag": "H2",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        },
+        {
+          "tag": "H2",
+          "text": "Let's build something better."
+        }
+      ],
+      "imageCount": 5,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/",
+      "scrollHeight": 5101,
+      "scrollWidth": 1425,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 1440,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1425,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "Work that speaks for itself."
+        },
+        {
+          "tag": "H1",
+          "text": "Work Archive"
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        }
+      ],
+      "imageCount": 4,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/",
+      "scrollHeight": 1956,
+      "scrollWidth": 1425,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 1440,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1425,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Dazlab - Product Studio Website & CMS Architecture."
+        },
+        {
+          "tag": "H2",
+          "text": "Context."
+        },
+        {
+          "tag": "H2",
+          "text": "Implementation."
+        },
+        {
+          "tag": "H2",
+          "text": "Result."
+        },
+        {
+          "tag": "H2",
+          "text": "More selected projects."
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        }
+      ],
+      "imageCount": 3,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollHeight": 3174,
+      "scrollWidth": 1425,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 1440,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1425,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        }
+      ],
+      "imageCount": 1,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/about/",
+      "scrollHeight": 2165,
+      "scrollWidth": 1425,
+      "title": "About - Aldrin Camacho",
+      "viewport": 1440,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1440,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1425,
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let's build something better."
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Website Project"
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Remote Role"
+        },
+        {
+          "tag": "H2",
+          "text": "What working together looks like."
+        },
+        {
+          "tag": "H3",
+          "text": "Clear Milestones"
+        },
+        {
+          "tag": "H3",
+          "text": "Clean Webflow Code"
+        },
+        {
+          "tag": "H3",
+          "text": "Direct Communication"
+        }
+      ],
+      "imageCount": 0,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/contact/",
+      "scrollHeight": 2091,
+      "scrollWidth": 1425,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 1440,
+      "visibleButtons": [
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "home",
+      "path": "/"
+    },
+    "url": "http://127.0.0.1:4322/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1905,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "designer."
+        },
+        {
+          "tag": "H2",
+          "text": "developer."
+        },
+        {
+          "tag": "H2",
+          "text": "Selected Work."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        },
+        {
+          "tag": "H2",
+          "text": "What I Do."
+        },
+        {
+          "tag": "H3",
+          "text": "Webflow Development"
+        },
+        {
+          "tag": "H3",
+          "text": "CMS & Structured SEO"
+        },
+        {
+          "tag": "H3",
+          "text": "Design-to-Dev Execution"
+        },
+        {
+          "tag": "H3",
+          "text": "Integrations & Optimization"
+        },
+        {
+          "tag": "H2",
+          "text": "From Idea to Live Website."
+        },
+        {
+          "tag": "H3",
+          "text": "Discover & Plan"
+        },
+        {
+          "tag": "H3",
+          "text": "Design & Structure"
+        },
+        {
+          "tag": "H3",
+          "text": "Build in Webflow"
+        },
+        {
+          "tag": "H3",
+          "text": "Refine with AI"
+        },
+        {
+          "tag": "H3",
+          "text": "Test & Launch"
+        },
+        {
+          "tag": "H2",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        },
+        {
+          "tag": "H2",
+          "text": "Let's build something better."
+        }
+      ],
+      "imageCount": 5,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/",
+      "scrollHeight": 5101,
+      "scrollWidth": 1905,
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "viewport": 1920,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "Explore design work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Technical services ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#work",
+          "target": "",
+          "text": "View Selected Work ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in touch ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Get in Touch ↗",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "LinkedIn ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "work",
+      "path": "/work/"
+    },
+    "url": "http://127.0.0.1:4322/work/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1905,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "Work that speaks for itself."
+        },
+        {
+          "tag": "H1",
+          "text": "Work Archive"
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Tangilla↗"
+        }
+      ],
+      "imageCount": 4,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/",
+      "scrollHeight": 1956,
+      "scrollWidth": 1905,
+      "title": "Work Archive - Aldrin Camacho",
+      "viewport": 1920,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "Dazlab↗",
+          "visible": true
+        },
+        {
+          "href": "https://dazlab.digital/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/dazlab/",
+          "target": "",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "Tangilla↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://tangilla.com/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "Read About My Approach ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "dazlab",
+      "path": "/work/dazlab/"
+    },
+    "url": "http://127.0.0.1:4322/work/dazlab/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1905,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Dazlab - Product Studio Website & CMS Architecture."
+        },
+        {
+          "tag": "H2",
+          "text": "Context."
+        },
+        {
+          "tag": "H2",
+          "text": "Implementation."
+        },
+        {
+          "tag": "H2",
+          "text": "Result."
+        },
+        {
+          "tag": "H2",
+          "text": "More selected projects."
+        },
+        {
+          "tag": "H3",
+          "text": "Mortar↗"
+        },
+        {
+          "tag": "H3",
+          "text": "Handl↗"
+        }
+      ],
+      "imageCount": 3,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/work/dazlab/",
+      "scrollHeight": 3174,
+      "scrollWidth": 1905,
+      "title": "Dazlab Case Study - Aldrin Camacho",
+      "viewport": 1920,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "← Back to Selected Work",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "Mortar↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://mortar.design/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "Handl↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "View Project ↗",
+          "visible": true
+        },
+        {
+          "href": "https://handl.works/",
+          "target": "_blank",
+          "text": "",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "about",
+      "path": "/about/"
+    },
+    "url": "http://127.0.0.1:4322/about/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1905,
+      "form": null,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Design-minded.Development-focused."
+        },
+        {
+          "tag": "H2",
+          "text": "Where I've Worked."
+        },
+        {
+          "tag": "H3",
+          "text": "Dazlab"
+        },
+        {
+          "tag": "H3",
+          "text": "B+ Studio"
+        },
+        {
+          "tag": "H3",
+          "text": "MCFLY Industries"
+        },
+        {
+          "tag": "H3",
+          "text": "Earlier UI/UX & Product Roles"
+        }
+      ],
+      "imageCount": 1,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/about/",
+      "scrollHeight": 2165,
+      "scrollWidth": 1905,
+      "title": "About - Aldrin Camacho",
+      "viewport": 1920,
+      "visibleButtons": [],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  },
+  {
+    "width": 1920,
+    "route": {
+      "name": "contact",
+      "path": "/contact/"
+    },
+    "url": "http://127.0.0.1:4322/contact/",
+    "logs": [],
+    "data": {
+      "brokenImages": [],
+      "clientWidth": 1905,
+      "form": {
+        "honeypot": "bot-field",
+        "method": "POST",
+        "netlify": true,
+        "required": [
+          {
+            "name": "name",
+            "tag": "INPUT",
+            "type": "text"
+          },
+          {
+            "name": "email",
+            "tag": "INPUT",
+            "type": "email"
+          },
+          {
+            "name": "message",
+            "tag": "TEXTAREA",
+            "type": null
+          }
+        ]
+      },
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let's build something better."
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Website Project"
+        },
+        {
+          "tag": "H2",
+          "text": "Discuss a Remote Role"
+        },
+        {
+          "tag": "H2",
+          "text": "What working together looks like."
+        },
+        {
+          "tag": "H3",
+          "text": "Clear Milestones"
+        },
+        {
+          "tag": "H3",
+          "text": "Clean Webflow Code"
+        },
+        {
+          "tag": "H3",
+          "text": "Direct Communication"
+        }
+      ],
+      "imageCount": 0,
+      "mainExists": true,
+      "overflow": false,
+      "path": "/contact/",
+      "scrollHeight": 2091,
+      "scrollWidth": 1905,
+      "title": "Contact - Aldrin Camacho",
+      "viewport": 1920,
+      "visibleButtons": [
+        {
+          "ariaControls": null,
+          "ariaExpanded": null,
+          "text": "Send Inquiry ↗"
+        }
+      ],
+      "visibleLinks": [
+        {
+          "href": "http://127.0.0.1:4322/",
+          "target": "",
+          "text": "Aldrin C.",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "AC",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/in/drin-camacho/",
+          "target": "_blank",
+          "text": "Direct verified contact ↗",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/work/",
+          "target": "",
+          "text": "Work",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#workflow",
+          "target": "",
+          "text": "Workflow",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/#expertise",
+          "target": "",
+          "text": "Services",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/about/",
+          "target": "",
+          "text": "About",
+          "visible": true
+        },
+        {
+          "href": "http://127.0.0.1:4322/contact/",
+          "target": "",
+          "text": "Contact",
+          "visible": true
+        }
+      ]
+    }
+  }
+]

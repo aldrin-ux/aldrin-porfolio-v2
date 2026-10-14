@@ -1,0 +1,55 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const title = "Message Sent - Aldrin Camacho";
+const description = "Confirmation page for portfolio inquiry submissions.";
+---
+
+<BaseLayout title={title} description={description} noindex>
+  <section class="section success">
+    <div class="container">
+      <span class="eyebrow">Message Sent</span>
+      <h1>Thanks for reaching out<span class="accent">.</span></h1>
+      <p>Your inquiry has been submitted. I will review the details and follow up through the email you provided.</p>
+      <div>
+        <a class="button" href="/work/">View Work</a>
+        <a class="text-link" href="/">Return Home</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .success .container {
+    max-width: 780px;
+  }
+
+  h1 {
+    margin: 0.5rem 0 1rem;
+    font-size: clamp(3.2rem, 8vw, 5.5rem);
+    font-weight: 500;
+    letter-spacing: -0.045em;
+    line-height: 0.98;
+  }
+
+  p {
+    max-width: 620px;
+    margin: 0 0 2rem;
+    color: var(--muted);
+    font-size: 1.1rem;
+  }
+
+  .success div div {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+  }
+
+  @media (max-width: 560px) {
+    .success div div {
+      align-items: stretch;
+      flex-direction: column;
+    }
+  }
+</style>
+

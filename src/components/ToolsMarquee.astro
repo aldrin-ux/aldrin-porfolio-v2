@@ -1,0 +1,196 @@
+---
+type Tool = {
+  name: string;
+  logo?: string;
+  wordmark?: string;
+};
+
+const tools: Tool[] = [
+  { name: "Figma", logo: "/assets/tools/figma.svg" },
+  { name: "Webflow", logo: "/assets/tools/webflow.svg" },
+  { name: "Claude", logo: "/assets/tools/claude.svg" },
+  { name: "OpenAI Codex", wordmark: "OpenAI Codex" },
+  { name: "ChatGPT", wordmark: "ChatGPT" },
+  { name: "Make", logo: "/assets/tools/make.svg" },
+  { name: "n8n", logo: "/assets/tools/n8n.svg" },
+  { name: "Relume", wordmark: "Relume" },
+  { name: "Client-First", wordmark: "Client-First" },
+];
+
+const marqueeTools = [...tools, ...tools];
+---
+
+<section class="tools-section" aria-labelledby="tools-heading">
+  <div class="container tools-inner">
+    <div class="tools-copy">
+      <h2 id="tools-heading">Built with<span class="accent">.</span></h2>
+    </div>
+
+    <div class="marquee" tabindex="0" aria-label="Tools and technologies used in Aldrin's work">
+      <div class="marquee-track">
+        {marqueeTools.map((tool, index) => (
+          <div class="tool-logo" aria-label={index < tools.length ? tool.name : undefined} aria-hidden={index >= tools.length ? "true" : undefined}>
+            {tool.logo ? (
+              <img src={tool.logo} alt="" width="32" height="32" loading="lazy" decoding="async" />
+            ) : (
+              <span class="wordmark">{tool.wordmark}</span>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .tools-section {
+    overflow: hidden;
+    border-bottom: 1px solid color-mix(in srgb, var(--border), transparent 35%);
+    background: var(--background);
+    padding-block: clamp(2.75rem, 4vw, 3.75rem);
+  }
+
+  .tools-inner {
+    display: grid;
+    gap: clamp(1.25rem, 3vw, 2rem);
+  }
+
+  .tools-copy {
+    max-width: 760px;
+    text-align: left;
+  }
+
+  h2 {
+    max-width: none;
+    margin: 0;
+    color: var(--ink);
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 1.12;
+  }
+
+  .marquee {
+    --logo-gap: clamp(2.25rem, 5vw, 4.5rem);
+    --fade-size: clamp(2rem, 8vw, 5rem);
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+    min-width: 0;
+    -webkit-mask-image: linear-gradient(
+      90deg,
+      transparent 0,
+      #000 var(--fade-size),
+      #000 calc(100% - var(--fade-size)),
+      transparent 100%
+    );
+    mask-image: linear-gradient(
+      90deg,
+      transparent 0,
+      #000 var(--fade-size),
+      #000 calc(100% - var(--fade-size)),
+      transparent 100%
+    );
+  }
+
+  .marquee:focus-visible {
+    border-radius: 0.75rem;
+    outline: 2px solid var(--accent);
+    outline-offset: 8px;
+  }
+
+  .marquee-track {
+    display: flex;
+    width: max-content;
+    min-width: max-content;
+    align-items: center;
+    gap: var(--logo-gap);
+    animation: marquee-scroll 40s linear infinite;
+    will-change: transform;
+  }
+
+  .marquee:hover .marquee-track,
+  .marquee:focus .marquee-track,
+  .marquee:focus-within .marquee-track {
+    animation-play-state: paused;
+  }
+
+  .tool-logo {
+    display: inline-flex;
+    flex: 0 0 auto;
+    min-height: 48px;
+    align-items: center;
+    justify-content: center;
+    color: var(--ink);
+  }
+
+  img {
+    width: auto;
+    height: clamp(24px, 2.4vw, 30px);
+  }
+
+  .wordmark {
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+    color: var(--ink);
+    font-size: clamp(0.98rem, 1.7vw, 1.08rem);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  @keyframes marquee-scroll {
+    from {
+      transform: translate3d(0, 0, 0);
+    }
+
+    to {
+      transform: translate3d(calc(-50% - (var(--logo-gap) / 2)), 0, 0);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .marquee {
+      overflow: visible;
+      -webkit-mask-image: none;
+      mask-image: none;
+    }
+
+    .marquee-track {
+      display: flex;
+      width: 100%;
+      min-width: 0;
+      flex-wrap: wrap;
+      justify-content: center;
+      animation: none;
+    }
+
+    .tool-logo[aria-hidden="true"] {
+      display: none;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .tools-copy {
+      max-width: 100%;
+    }
+  }
+
+  @media (max-width: 430px) {
+    .tools-section {
+      padding-block: 2.5rem;
+    }
+
+    .marquee {
+      --logo-gap: 2rem;
+      --fade-size: 1.5rem;
+    }
+
+    .tool-logo {
+      min-height: 44px;
+    }
+  }
+</style>

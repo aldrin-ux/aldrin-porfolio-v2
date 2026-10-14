@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-10-13T10:05:42.038Z",
+  "desktop": {
+    "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\tools-marquee-screenshots\\tools-marquee-refined-desktop-1440.png",
+    "metrics": {
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "headingAlign": "left",
+      "subtitleAlign": "left",
+      "headingClipped": false,
+      "workAfterSection": true
+    }
+  },
+  "mobile": {
+    "file": "E:\\Desktop\\Digitalikha\\Digitalikha\\Portfolio\\portfolio-v2-astro\\audit\\tools-marquee-screenshots\\tools-marquee-refined-mobile-390.png",
+    "metrics": {
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "overflow": false,
+      "headingAlign": "left",
+      "subtitleAlign": "left",
+      "headingClipped": false,
+      "workAfterSection": true
+    }
+  }
+}

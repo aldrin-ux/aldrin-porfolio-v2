@@ -1,0 +1,5428 @@
+{
+  "units": {
+    "FCP": "ms",
+    "LCP": "ms",
+    "CLS": "unitless",
+    "TBT": "ms",
+    "SpeedIndex": "ms",
+    "transfer": "bytes",
+    "imageBytes": "bytes",
+    "scriptBytes": "bytes",
+    "fontBytes": "bytes"
+  },
+  "comparisons": [
+    {
+      "page": "home",
+      "mode": "mobile",
+      "before": {
+        "n": 2,
+        "median": {
+          "score": 77.5,
+          "FCP": 2626.95295,
+          "LCP": 5982.537224999998,
+          "CLS": 0.005134750845364374,
+          "TBT": 0,
+          "SpeedIndex": 2672.2550920005006,
+          "transfer": 19376783,
+          "imageBytes": 19284226,
+          "scriptBytes": 0,
+          "fontBytes": 79833
+        },
+        "range": {
+          "score": [
+            72,
+            83
+          ],
+          "FCP": [
+            2615.97745,
+            2637.9284500000003
+          ],
+          "LCP": [
+            4073.7168500000007,
+            7891.357599999995
+          ],
+          "CLS": [
+            0.005134750845364374,
+            0.005134750845364374
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            2615.97745,
+            2728.532734001001
+          ],
+          "transfer": [
+            19376783,
+            19376783
+          ],
+          "imageBytes": [
+            19284226,
+            19284226
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            79833,
+            79833
+          ]
+        }
+      },
+      "final": {
+        "n": 2,
+        "median": {
+          "score": 99,
+          "FCP": 914.9345000000001,
+          "LCP": 2189.4213125,
+          "CLS": 0.005134750845364374,
+          "TBT": 29.834024999999997,
+          "SpeedIndex": 914.9345000000001,
+          "transfer": 287063,
+          "imageBytes": 194484,
+          "scriptBytes": 0,
+          "fontBytes": 80126
+        },
+        "range": {
+          "score": [
+            99,
+            99
+          ],
+          "FCP": [
+            910.6639,
+            919.2051
+          ],
+          "LCP": [
+            2188.3298750000004,
+            2190.51275
+          ],
+          "CLS": [
+            0.005134750845364374,
+            0.005134750845364374
+          ],
+          "TBT": [
+            26.668049999999994,
+            33
+          ],
+          "SpeedIndex": [
+            910.6639,
+            919.2051
+          ],
+          "transfer": [
+            287063,
+            287063
+          ],
+          "imageBytes": [
+            194484,
+            194484
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            80126,
+            80126
+          ]
+        }
+      }
+    },
+    {
+      "page": "home",
+      "mode": "desktop",
+      "before": {
+        "n": 2,
+        "median": {
+          "score": 98,
+          "FCP": 725.934475,
+          "LCP": 906.7966999999999,
+          "CLS": 0.0007684438797665958,
+          "TBT": 0,
+          "SpeedIndex": 1219.4758786685154,
+          "transfer": 19378055,
+          "imageBytes": 19285498,
+          "scriptBytes": 0,
+          "fontBytes": 79833
+        },
+        "range": {
+          "score": [
+            98,
+            98
+          ],
+          "FCP": [
+            705.95475,
+            745.9141999999999
+          ],
+          "LCP": [
+            905.5704999999998,
+            908.0228999999998
+          ],
+          "CLS": [
+            0.0007684438797665958,
+            0.0007684438797665958
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            1169.4918142522042,
+            1269.4599430848266
+          ],
+          "transfer": [
+            19378055,
+            19378055
+          ],
+          "imageBytes": [
+            19285498,
+            19285498
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            79833,
+            79833
+          ]
+        }
+      },
+      "final": {
+        "n": 2,
+        "median": {
+          "score": 100,
+          "FCP": 336.2744,
+          "LCP": 470.84959999999995,
+          "CLS": 0.0007684438797665958,
+          "TBT": 0,
+          "SpeedIndex": 860.6667963328728,
+          "transfer": 288335,
+          "imageBytes": 195756,
+          "scriptBytes": 0,
+          "fontBytes": 80126
+        },
+        "range": {
+          "score": [
+            100,
+            100
+          ],
+          "FCP": [
+            330.88355,
+            341.66524999999996
+          ],
+          "LCP": [
+            467.25569999999993,
+            474.4435
+          ],
+          "CLS": [
+            0.0007684438797665958,
+            0.0007684438797665958
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            856.2202480814665,
+            865.1133445842789
+          ],
+          "transfer": [
+            288335,
+            288335
+          ],
+          "imageBytes": [
+            195756,
+            195756
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            80126,
+            80126
+          ]
+        }
+      }
+    },
+    {
+      "page": "work",
+      "mode": "mobile",
+      "before": {
+        "n": 2,
+        "median": {
+          "score": 82,
+          "FCP": 2006.38625,
+          "LCP": 30131.96466250004,
+          "CLS": 0.02183042980847944,
+          "TBT": 0,
+          "SpeedIndex": 2098.98753699802,
+          "transfer": 18985236,
+          "imageBytes": 18897913,
+          "scriptBytes": 0,
+          "fontBytes": 79833
+        },
+        "range": {
+          "score": [
+            75,
+            89
+          ],
+          "FCP": [
+            1400.46115,
+            2612.31135
+          ],
+          "LCP": [
+            3137.31135,
+            57126.61797500008
+          ],
+          "CLS": [
+            0.02183042980847944,
+            0.02183042980847944
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            1400.46115,
+            2797.5139239960395
+          ],
+          "transfer": [
+            18985236,
+            18985236
+          ],
+          "imageBytes": [
+            18897913,
+            18897913
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            79833,
+            79833
+          ]
+        }
+      },
+      "final": {
+        "n": 2,
+        "median": {
+          "score": 100,
+          "FCP": 1283.4009,
+          "LCP": 1733.4009,
+          "CLS": 0.022412633335609788,
+          "TBT": 0,
+          "SpeedIndex": 1283.4009,
+          "transfer": 219231,
+          "imageBytes": 131968,
+          "scriptBytes": 0,
+          "fontBytes": 80126
+        },
+        "range": {
+          "score": [
+            100,
+            100
+          ],
+          "FCP": [
+            1208.85615,
+            1357.9456500000001
+          ],
+          "LCP": [
+            1732.9456500000001,
+            1733.85615
+          ],
+          "CLS": [
+            0.022412633335609788,
+            0.022412633335609788
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            1208.85615,
+            1357.9456500000001
+          ],
+          "transfer": [
+            219231,
+            219231
+          ],
+          "imageBytes": [
+            131968,
+            131968
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            80126,
+            80126
+          ]
+        }
+      }
+    },
+    {
+      "page": "work",
+      "mode": "desktop",
+      "before": {
+        "n": 2,
+        "median": {
+          "score": 75,
+          "FCP": 707.36965,
+          "LCP": 11381.122649999998,
+          "CLS": 0.001419034454227816,
+          "TBT": 0,
+          "SpeedIndex": 707.36965,
+          "transfer": 18985236,
+          "imageBytes": 18897913,
+          "scriptBytes": 0,
+          "fontBytes": 79833
+        },
+        "range": {
+          "score": [
+            75,
+            75
+          ],
+          "FCP": [
+            702.9286999999999,
+            711.8106
+          ],
+          "LCP": [
+            11363.290399999954,
+            11398.954900000039
+          ],
+          "CLS": [
+            0.001419034454227816,
+            0.001419034454227816
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            702.9286999999999,
+            711.8106
+          ],
+          "transfer": [
+            18985236,
+            18985236
+          ],
+          "imageBytes": [
+            18897913,
+            18897913
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            79833,
+            79833
+          ]
+        }
+      },
+      "final": {
+        "n": 2,
+        "median": {
+          "score": 100,
+          "FCP": 330.1256,
+          "LCP": 390.1256,
+          "CLS": 0.001419034454227816,
+          "TBT": 0,
+          "SpeedIndex": 330.1256,
+          "transfer": 219231,
+          "imageBytes": 131968,
+          "scriptBytes": 0,
+          "fontBytes": 80126
+        },
+        "range": {
+          "score": [
+            100,
+            100
+          ],
+          "FCP": [
+            327.04925000000003,
+            333.20195
+          ],
+          "LCP": [
+            387.04925000000003,
+            393.20195
+          ],
+          "CLS": [
+            0.001419034454227816,
+            0.001419034454227816
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            327.04925000000003,
+            333.20195
+          ],
+          "transfer": [
+            219231,
+            219231
+          ],
+          "imageBytes": [
+            131968,
+            131968
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            80126,
+            80126
+          ]
+        }
+      }
+    },
+    {
+      "page": "dazlab",
+      "mode": "mobile",
+      "before": {
+        "n": 2,
+        "median": {
+          "score": 71,
+          "FCP": 2627.0273500000003,
+          "LCP": 44476.2946999998,
+          "CLS": 0,
+          "TBT": 0,
+          "SpeedIndex": 2714.9159559989744,
+          "transfer": 13594742,
+          "imageBytes": 13506788,
+          "scriptBytes": 0,
+          "fontBytes": 79833
+        },
+        "range": {
+          "score": [
+            71,
+            71
+          ],
+          "FCP": [
+            2610.47515,
+            2643.5795500000004
+          ],
+          "LCP": [
+            44454.88379999976,
+            44497.70559999984
+          ],
+          "CLS": [
+            0,
+            0
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            2714.813727993561,
+            2715.018184004388
+          ],
+          "transfer": [
+            13594742,
+            13594742
+          ],
+          "imageBytes": [
+            13506788,
+            13506788
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            79833,
+            79833
+          ]
+        }
+      },
+      "final": {
+        "n": 2,
+        "median": {
+          "score": 96,
+          "FCP": 1359.152025,
+          "LCP": 2706.10135,
+          "CLS": 0,
+          "TBT": 0,
+          "SpeedIndex": 1359.152025,
+          "transfer": 357980,
+          "imageBytes": 270086,
+          "scriptBytes": 0,
+          "fontBytes": 80126
+        },
+        "range": {
+          "score": [
+            96,
+            96
+          ],
+          "FCP": [
+            1357.5519,
+            1360.7521500000003
+          ],
+          "LCP": [
+            2705.0346,
+            2707.1681
+          ],
+          "CLS": [
+            0,
+            0
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            1357.5519,
+            1360.7521500000003
+          ],
+          "transfer": [
+            357980,
+            357980
+          ],
+          "imageBytes": [
+            270086,
+            270086
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            80126,
+            80126
+          ]
+        }
+      }
+    },
+    {
+      "page": "dazlab",
+      "mode": "desktop",
+      "before": {
+        "n": 2,
+        "median": {
+          "score": 75,
+          "FCP": 708.12335,
+          "LCP": 7337.9310625,
+          "CLS": 0.0009230893548973416,
+          "TBT": 0,
+          "SpeedIndex": 708.12335,
+          "transfer": 13594742,
+          "imageBytes": 13506788,
+          "scriptBytes": 0,
+          "fontBytes": 79833
+        },
+        "range": {
+          "score": [
+            75,
+            75
+          ],
+          "FCP": [
+            700.84885,
+            715.39785
+          ],
+          "LCP": [
+            7109.314050000001,
+            7566.548075
+          ],
+          "CLS": [
+            0.0009230893548973416,
+            0.0009230893548973416
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            700.84885,
+            715.39785
+          ],
+          "transfer": [
+            13594742,
+            13594742
+          ],
+          "imageBytes": [
+            13506788,
+            13506788
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            79833,
+            79833
+          ]
+        }
+      },
+      "final": {
+        "n": 2,
+        "median": {
+          "score": 100,
+          "FCP": 327.50165,
+          "LCP": 705.0011,
+          "CLS": 0.0009230893548973416,
+          "TBT": 0,
+          "SpeedIndex": 327.50165,
+          "transfer": 532352,
+          "imageBytes": 444458,
+          "scriptBytes": 0,
+          "fontBytes": 80126
+        },
+        "range": {
+          "score": [
+            100,
+            100
+          ],
+          "FCP": [
+            326.28815,
+            328.71515
+          ],
+          "LCP": [
+            704.1921,
+            705.8100999999999
+          ],
+          "CLS": [
+            0.0009230893548973416,
+            0.0009230893548973416
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            326.28815,
+            328.71515
+          ],
+          "transfer": [
+            532352,
+            532352
+          ],
+          "imageBytes": [
+            444458,
+            444458
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            80126,
+            80126
+          ]
+        }
+      }
+    },
+    {
+      "page": "about",
+      "mode": "mobile",
+      "before": {
+        "n": 2,
+        "median": {
+          "score": 94,
+          "FCP": 2001.516275,
+          "LCP": 2605.631775,
+          "CLS": 0.05375384521872729,
+          "TBT": 0,
+          "SpeedIndex": 2067.007939001658,
+          "transfer": 124628,
+          "imageBytes": 37391,
+          "scriptBytes": 0,
+          "fontBytes": 79833
+        },
+        "range": {
+          "score": [
+            92,
+            96
+          ],
+          "FCP": [
+            1396.26825,
+            2606.7643
+          ],
+          "LCP": [
+            2604.49925,
+            2606.7643
+          ],
+          "CLS": [
+            0.05375384521872729,
+            0.05375384521872729
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            1396.26825,
+            2737.747628003316
+          ],
+          "transfer": [
+            124628,
+            124628
+          ],
+          "imageBytes": [
+            37391,
+            37391
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            79833,
+            79833
+          ]
+        }
+      },
+      "final": {
+        "n": 2,
+        "median": {
+          "score": 99,
+          "FCP": 1357.2997500000001,
+          "LCP": 1432.2997500000001,
+          "CLS": 0.05375384521872729,
+          "TBT": 0,
+          "SpeedIndex": 1357.2997500000001,
+          "transfer": 124242,
+          "imageBytes": 37391,
+          "scriptBytes": 0,
+          "fontBytes": 80126
+        },
+        "range": {
+          "score": [
+            99,
+            99
+          ],
+          "FCP": [
+            1356.1873500000002,
+            1358.4121499999999
+          ],
+          "LCP": [
+            1431.1873500000002,
+            1433.4121499999999
+          ],
+          "CLS": [
+            0.05375384521872729,
+            0.05375384521872729
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            1356.1873500000002,
+            1358.4121499999999
+          ],
+          "transfer": [
+            124242,
+            124242
+          ],
+          "imageBytes": [
+            37391,
+            37391
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            80126,
+            80126
+          ]
+        }
+      }
+    },
+    {
+      "page": "about",
+      "mode": "desktop",
+      "before": {
+        "n": 2,
+        "median": {
+          "score": 99,
+          "FCP": 699.6139249999999,
+          "LCP": 699.6139249999999,
+          "CLS": 0.008702829030052383,
+          "TBT": 0,
+          "SpeedIndex": 699.6139249999999,
+          "transfer": 112430,
+          "imageBytes": 25193,
+          "scriptBytes": 0,
+          "fontBytes": 79833
+        },
+        "range": {
+          "score": [
+            99,
+            99
+          ],
+          "FCP": [
+            699.3848499999999,
+            699.843
+          ],
+          "LCP": [
+            699.3848499999999,
+            699.843
+          ],
+          "CLS": [
+            0.008697669275018706,
+            0.008707988785086059
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            699.3848499999999,
+            699.843
+          ],
+          "transfer": [
+            112430,
+            112430
+          ],
+          "imageBytes": [
+            25193,
+            25193
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            79833,
+            79833
+          ]
+        }
+      },
+      "final": {
+        "n": 2,
+        "median": {
+          "score": 100,
+          "FCP": 334.931825,
+          "LCP": 334.931825,
+          "CLS": 0.008707988785086059,
+          "TBT": 0,
+          "SpeedIndex": 334.931825,
+          "transfer": 112044,
+          "imageBytes": 25193,
+          "scriptBytes": 0,
+          "fontBytes": 80126
+        },
+        "range": {
+          "score": [
+            100,
+            100
+          ],
+          "FCP": [
+            326.6909,
+            343.17275
+          ],
+          "LCP": [
+            326.6909,
+            343.17275
+          ],
+          "CLS": [
+            0.008707988785086059,
+            0.008707988785086059
+          ],
+          "TBT": [
+            0,
+            0
+          ],
+          "SpeedIndex": [
+            326.6909,
+            343.17275
+          ],
+          "transfer": [
+            112044,
+            112044
+          ],
+          "imageBytes": [
+            25193,
+            25193
+          ],
+          "scriptBytes": [
+            0,
+            0
+          ],
+          "fontBytes": [
+            80126,
+            80126
+          ]
+        }
+      }
+    }
+  ],
+  "samples": [
+    {
+      "stage": "live",
+      "page": "home",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T16:59:41.196Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1784.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 64,
+        "FCP": 3125.8864999999996,
+        "LCP": 5017.106999999999,
+        "CLS": 0,
+        "TBT": 430,
+        "SpeedIndex": 3472.5131388790487,
+        "transfer": 19412683,
+        "imageBytes": 19294731,
+        "scriptBytes": 10192,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/index.D-6txv6D.css",
+            "totalBytes": 2373
+          },
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/about.D7W_at0Z.css",
+            "totalBytes": 1741
+          },
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 796
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "live",
+      "page": "home",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T17:01:08.955Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1700.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 90,
+        "FCP": 1136.0029999999997,
+        "LCP": 1406.1209999999996,
+        "CLS": 0.0007684438797665958,
+        "TBT": 1,
+        "SpeedIndex": 1928.342822834739,
+        "transfer": 19413937,
+        "imageBytes": 19296030,
+        "scriptBytes": 10311,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/index.D-6txv6D.css",
+            "totalBytes": 2358
+          },
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/about.D7W_at0Z.css",
+            "totalBytes": 1802
+          },
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 251
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "live",
+      "page": "work",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T17:01:28.123Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1643.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 60,
+        "FCP": 3153.1989999999996,
+        "LCP": 25218.12150000001,
+        "CLS": 0.02183042980847944,
+        "TBT": 199,
+        "SpeedIndex": 7059.719925458507,
+        "transfer": 19021023,
+        "imageBytes": 18908061,
+        "scriptBytes": 10206,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/about.D7W_at0Z.css",
+            "totalBytes": 1805
+          },
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 796
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "live",
+      "page": "work",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T17:01:45.788Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1665.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 68,
+        "FCP": 1097.038,
+        "LCP": 8580.111000000004,
+        "CLS": 0.000870677580588214,
+        "TBT": 0,
+        "SpeedIndex": 2383.3017564475226,
+        "transfer": 19021027,
+        "imageBytes": 18908012,
+        "scriptBytes": 10213,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/about.D7W_at0Z.css",
+            "totalBytes": 1844
+          },
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 246
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "live",
+      "page": "dazlab",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T17:02:04.691Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1711.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 83,
+        "FCP": 2874.4759999999997,
+        "LCP": 2874.4759999999997,
+        "CLS": 0.002812795355234896,
+        "TBT": 110.5,
+        "SpeedIndex": 7161.9707229904325,
+        "transfer": 13627670,
+        "imageBytes": 13514106,
+        "scriptBytes": 10192,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 798
+          },
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/about.D7W_at0Z.css",
+            "totalBytes": 1774
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "live",
+      "page": "dazlab",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T17:02:24.760Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1578.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 69,
+        "FCP": 1077.0739999999998,
+        "LCP": 4487.787999999999,
+        "CLS": 0.1115483484515978,
+        "TBT": 0,
+        "SpeedIndex": 2055.6938654138858,
+        "transfer": 13627654,
+        "imageBytes": 13514015,
+        "scriptBytes": 10206,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/about.D7W_at0Z.css",
+            "totalBytes": 1867
+          },
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 248
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "live",
+      "page": "about",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T17:02:45.225Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1683,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 91,
+        "FCP": 2755.2075,
+        "LCP": 2755.2075,
+        "CLS": 0.002812795355234896,
+        "TBT": 0,
+        "SpeedIndex": 2755.2075,
+        "transfer": 139897,
+        "imageBytes": 37393,
+        "scriptBytes": 10206,
+        "fontBytes": 69488
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1509,
+            "wastedMs": 800
+          },
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/about.D7W_at0Z.css",
+            "totalBytes": 1774
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "live",
+      "page": "about",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T17:03:02.670Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1825.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 98,
+        "FCP": 884.7339999999999,
+        "LCP": 884.7339999999999,
+        "CLS": 0.00973458403955781,
+        "TBT": 0,
+        "SpeedIndex": 884.7339999999999,
+        "transfer": 138098,
+        "imageBytes": 25146,
+        "scriptBytes": 10286,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 253
+          },
+          {
+            "url": "https://aldrin-camacho.netlify.app/_astro/about.D7W_at0Z.css",
+            "totalBytes": 1835
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before",
+      "page": "home",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T17:04:55.974Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1596.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 83,
+        "FCP": 2615.97745,
+        "LCP": 4073.7168500000007,
+        "CLS": 0.005134750845364374,
+        "TBT": 0,
+        "SpeedIndex": 2615.97745,
+        "transfer": 19376783,
+        "imageBytes": 19284226,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 797
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/index.D-6txv6D.css",
+            "totalBytes": 2626,
+            "wastedMs": 310
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 160
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before",
+      "page": "home",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T17:05:14.340Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1614,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 98,
+        "FCP": 705.95475,
+        "LCP": 905.5704999999998,
+        "CLS": 0.0007684438797665958,
+        "TBT": 0,
+        "SpeedIndex": 1169.4918142522042,
+        "transfer": 19378055,
+        "imageBytes": 19285498,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 245
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/index.D-6txv6D.css",
+            "totalBytes": 2626,
+            "wastedMs": 91
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 51
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before",
+      "page": "work",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T17:05:31.466Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1889.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 89,
+        "FCP": 2612.31135,
+        "LCP": 3137.31135,
+        "CLS": 0.02183042980847944,
+        "TBT": 0,
+        "SpeedIndex": 2797.5139239960395,
+        "transfer": 18985236,
+        "imageBytes": 18897913,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 795
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 156
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before",
+      "page": "work",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T17:05:48.619Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1973,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 75,
+        "FCP": 702.9286999999999,
+        "LCP": 11398.954900000039,
+        "CLS": 0.001419034454227816,
+        "TBT": 0,
+        "SpeedIndex": 702.9286999999999,
+        "transfer": 18985236,
+        "imageBytes": 18897913,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 244
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 50
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before",
+      "page": "dazlab",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T17:06:05.027Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1661,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 71,
+        "FCP": 2610.47515,
+        "LCP": 44454.88379999976,
+        "CLS": 0,
+        "TBT": 0,
+        "SpeedIndex": 2714.813727993561,
+        "transfer": 13594742,
+        "imageBytes": 13506788,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 798
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 155
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before",
+      "page": "dazlab",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T17:06:22.401Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1825.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 75,
+        "FCP": 700.84885,
+        "LCP": 7109.314050000001,
+        "CLS": 0.0009230893548973416,
+        "TBT": 0,
+        "SpeedIndex": 700.84885,
+        "transfer": 13594742,
+        "imageBytes": 13506788,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 247
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before",
+      "page": "about",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T17:06:39.169Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1669.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 92,
+        "FCP": 2606.7643,
+        "LCP": 2606.7643,
+        "CLS": 0.05375384521872729,
+        "TBT": 0,
+        "SpeedIndex": 2737.747628003316,
+        "transfer": 124628,
+        "imageBytes": 37391,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 796
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 153
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before",
+      "page": "about",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T17:06:57.188Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1738.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 99,
+        "FCP": 699.843,
+        "LCP": 699.843,
+        "CLS": 0.008707988785086059,
+        "TBT": 0,
+        "SpeedIndex": 699.843,
+        "transfer": 112430,
+        "imageBytes": 25193,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 246
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before-repeat",
+      "page": "home",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T17:18:11.082Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1676,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 72,
+        "FCP": 2637.9284500000003,
+        "LCP": 7891.357599999995,
+        "CLS": 0.005134750845364374,
+        "TBT": 0,
+        "SpeedIndex": 2728.532734001001,
+        "transfer": 19376783,
+        "imageBytes": 19284226,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 794
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/index.D-6txv6D.css",
+            "totalBytes": 2626,
+            "wastedMs": 337
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 187
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before-repeat",
+      "page": "home",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:34:55.456Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2218.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 98,
+        "FCP": 745.9141999999999,
+        "LCP": 908.0228999999998,
+        "CLS": 0.0007684438797665958,
+        "TBT": 0,
+        "SpeedIndex": 1269.4599430848266,
+        "transfer": 19378055,
+        "imageBytes": 19285498,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 265
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/index.D-6txv6D.css",
+            "totalBytes": 2626,
+            "wastedMs": 112
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 72
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before-repeat",
+      "page": "work",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:35:10.261Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2417.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 75,
+        "FCP": 1400.46115,
+        "LCP": 57126.61797500008,
+        "CLS": 0.02183042980847944,
+        "TBT": 0,
+        "SpeedIndex": 1400.46115,
+        "transfer": 18985236,
+        "imageBytes": 18897913,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 791
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 159
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before-repeat",
+      "page": "work",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:35:24.468Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2334,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 75,
+        "FCP": 711.8106,
+        "LCP": 11363.290399999954,
+        "CLS": 0.001419034454227816,
+        "TBT": 0,
+        "SpeedIndex": 711.8106,
+        "transfer": 18985236,
+        "imageBytes": 18897913,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 255
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before-repeat",
+      "page": "dazlab",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:35:38.823Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2044.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 71,
+        "FCP": 2643.5795500000004,
+        "LCP": 44497.70559999984,
+        "CLS": 0,
+        "TBT": 0,
+        "SpeedIndex": 2715.018184004388,
+        "transfer": 13594742,
+        "imageBytes": 13506788,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 792
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 182
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before-repeat",
+      "page": "dazlab",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:35:53.932Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2282,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 75,
+        "FCP": 715.39785,
+        "LCP": 7566.548075,
+        "CLS": 0.0009230893548973416,
+        "TBT": 0,
+        "SpeedIndex": 715.39785,
+        "transfer": 13594742,
+        "imageBytes": 13506788,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 243
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before-repeat",
+      "page": "about",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:36:08.272Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2266.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 96,
+        "FCP": 1396.26825,
+        "LCP": 2604.49925,
+        "CLS": 0.05375384521872729,
+        "TBT": 0,
+        "SpeedIndex": 1396.26825,
+        "transfer": 124628,
+        "imageBytes": 37391,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 788
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008,
+            "wastedMs": 158
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "before-repeat",
+      "page": "about",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:36:22.304Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2404.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 99,
+        "FCP": 699.3848499999999,
+        "LCP": 699.3848499999999,
+        "CLS": 0.008697669275018706,
+        "TBT": 0,
+        "SpeedIndex": 699.3848499999999,
+        "transfer": 112430,
+        "imageBytes": 25193,
+        "scriptBytes": 0,
+        "fontBytes": 79833
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap",
+            "totalBytes": 1454,
+            "wastedMs": 239
+          },
+          {
+            "url": "http://127.0.0.1:4323/_astro/about.D7W_at0Z.css",
+            "totalBytes": 2008
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final",
+      "page": "home",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:30:32.018Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2013.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 99,
+        "FCP": 919.2051,
+        "LCP": 2190.51275,
+        "CLS": 0.005134750845364374,
+        "TBT": 33,
+        "SpeedIndex": 919.2051,
+        "transfer": 287063,
+        "imageBytes": 194484,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/index.DdXluy51.css",
+            "totalBytes": 2629,
+            "wastedMs": 306
+          },
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871,
+            "wastedMs": 156
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final",
+      "page": "home",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:30:46.320Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2224,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 341.66524999999996,
+        "LCP": 474.4435,
+        "CLS": 0.0007684438797665958,
+        "TBT": 0,
+        "SpeedIndex": 865.1133445842789,
+        "transfer": 288335,
+        "imageBytes": 195756,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/index.DdXluy51.css",
+            "totalBytes": 2629,
+            "wastedMs": 87
+          },
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final",
+      "page": "work",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:31:00.883Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2200.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 1357.9456500000001,
+        "LCP": 1732.9456500000001,
+        "CLS": 0.022412633335609788,
+        "TBT": 0,
+        "SpeedIndex": 1357.9456500000001,
+        "transfer": 219231,
+        "imageBytes": 131968,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871,
+            "wastedMs": 153
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final",
+      "page": "work",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:31:14.889Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2134.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 333.20195,
+        "LCP": 393.20195,
+        "CLS": 0.001419034454227816,
+        "TBT": 0,
+        "SpeedIndex": 333.20195,
+        "transfer": 219231,
+        "imageBytes": 131968,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final",
+      "page": "dazlab",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:31:28.811Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2348.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 96,
+        "FCP": 1360.7521500000003,
+        "LCP": 2707.1681,
+        "CLS": 0,
+        "TBT": 0,
+        "SpeedIndex": 1360.7521500000003,
+        "transfer": 357980,
+        "imageBytes": 270086,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871,
+            "wastedMs": 154
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final",
+      "page": "dazlab",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:31:42.821Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2246.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 328.71515,
+        "LCP": 705.8100999999999,
+        "CLS": 0.0009230893548973416,
+        "TBT": 0,
+        "SpeedIndex": 328.71515,
+        "transfer": 532352,
+        "imageBytes": 444458,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final",
+      "page": "about",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:31:56.830Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2201,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 99,
+        "FCP": 1356.1873500000002,
+        "LCP": 1431.1873500000002,
+        "CLS": 0.05375384521872729,
+        "TBT": 0,
+        "SpeedIndex": 1356.1873500000002,
+        "transfer": 124242,
+        "imageBytes": 37391,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871,
+            "wastedMs": 152
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final",
+      "page": "about",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:32:10.591Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2318.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 343.17275,
+        "LCP": 343.17275,
+        "CLS": 0.008707988785086059,
+        "TBT": 0,
+        "SpeedIndex": 343.17275,
+        "transfer": 112044,
+        "imageBytes": 25193,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final-repeat",
+      "page": "home",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:32:49.975Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2267.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 99,
+        "FCP": 910.6639,
+        "LCP": 2188.3298750000004,
+        "CLS": 0.005134750845364374,
+        "TBT": 26.668049999999994,
+        "SpeedIndex": 910.6639,
+        "transfer": 287063,
+        "imageBytes": 194484,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/index.DdXluy51.css",
+            "totalBytes": 2629,
+            "wastedMs": 305
+          },
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871,
+            "wastedMs": 155
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final-repeat",
+      "page": "home",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:33:04.475Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2210.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 330.88355,
+        "LCP": 467.25569999999993,
+        "CLS": 0.0007684438797665958,
+        "TBT": 0,
+        "SpeedIndex": 856.2202480814665,
+        "transfer": 288335,
+        "imageBytes": 195756,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/index.DdXluy51.css",
+            "totalBytes": 2629,
+            "wastedMs": 84
+          },
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final-repeat",
+      "page": "work",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:33:18.976Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2390.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 1208.85615,
+        "LCP": 1733.85615,
+        "CLS": 0.022412633335609788,
+        "TBT": 0,
+        "SpeedIndex": 1208.85615,
+        "transfer": 219231,
+        "imageBytes": 131968,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871,
+            "wastedMs": 153
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final-repeat",
+      "page": "work",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:33:33.092Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2289,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 327.04925000000003,
+        "LCP": 387.04925000000003,
+        "CLS": 0.001419034454227816,
+        "TBT": 0,
+        "SpeedIndex": 327.04925000000003,
+        "transfer": 219231,
+        "imageBytes": 131968,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final-repeat",
+      "page": "dazlab",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:33:47.141Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2355.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 96,
+        "FCP": 1357.5519,
+        "LCP": 2705.0346,
+        "CLS": 0,
+        "TBT": 0,
+        "SpeedIndex": 1357.5519,
+        "transfer": 357980,
+        "imageBytes": 270086,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871,
+            "wastedMs": 153
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final-repeat",
+      "page": "dazlab",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:34:01.052Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2258.5,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 326.28815,
+        "LCP": 704.1921,
+        "CLS": 0.0009230893548973416,
+        "TBT": 0,
+        "SpeedIndex": 326.28815,
+        "transfer": 532352,
+        "imageBytes": 444458,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final-repeat",
+      "page": "about",
+      "mode": "mobile",
+      "fetchTime": "2026-10-14T20:34:15.123Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2288,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 99,
+        "FCP": 1358.4121499999999,
+        "LCP": 1433.4121499999999,
+        "CLS": 0.05375384521872729,
+        "TBT": 0,
+        "SpeedIndex": 1358.4121499999999,
+        "transfer": 124242,
+        "imageBytes": 37391,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871,
+            "wastedMs": 153
+          }
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "stage": "final-repeat",
+      "page": "about",
+      "mode": "desktop",
+      "fetchTime": "2026-10-14T20:34:29.079Z",
+      "lighthouseVersion": "13.5.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+        "benchmarkIndex": 2205,
+        "credits": {}
+      },
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance"
+        ],
+        "skipAudits": null
+      },
+      "metrics": {
+        "score": 100,
+        "FCP": 326.6909,
+        "LCP": 326.6909,
+        "CLS": 0.008707988785086059,
+        "TBT": 0,
+        "SpeedIndex": 326.6909,
+        "transfer": 112044,
+        "imageBytes": 25193,
+        "scriptBytes": 0,
+        "fontBytes": 80126
+      },
+      "renderBlocking": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "http://127.0.0.1:4324/_astro/about.B9zZLtB9.css",
+            "totalBytes": 2871
+          }
+        ]
+      },
+      "warnings": []
+    }
+  ]
+}

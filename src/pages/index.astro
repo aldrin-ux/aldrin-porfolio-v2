@@ -6,6 +6,7 @@ import ToolsMarquee from "../components/ToolsMarquee.astro";
 import WorkflowIllustration from "../components/WorkflowIllustration.astro";
 import ExperienceTimeline from "../components/ExperienceTimeline.astro";
 import { projects, services, siteMetadata } from "../content/site";
+import { heroImage } from "../content/imageAssets";
 
 const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).toString();
 const jsonLd = [
@@ -40,7 +41,11 @@ const jsonLd = [
         </div>
         <img
           class="hero-portrait"
-          src="/assets/aldrin-hero.webp"
+          src={heroImage.src}
+          srcset={heroImage.srcset}
+          sizes="(max-width: 900px) min(calc(100vw - 2rem), 520px), (max-width: 1280px) 36vw, 440px"
+          width={heroImage.width}
+          height={heroImage.height}
           alt="Aldrin Camacho designer and developer portrait"
           loading="eager"
           decoding="async"
@@ -274,6 +279,7 @@ const jsonLd = [
 
   .hero-portrait {
     width: min(100%, 520px);
+    height: auto;
     margin-inline: auto;
     transform-origin: center;
     will-change: transform;

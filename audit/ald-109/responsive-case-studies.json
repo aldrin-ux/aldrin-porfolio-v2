@@ -1,0 +1,236 @@
+[
+  {
+    "route": "/work/mortar/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Mortar public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 4.888268156424581
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Handl agency operations SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/work/handl/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Handl public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 6.854748603351955
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Mortar interior-design SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/work/tangilla/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Tangilla public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 3.5977653631284916
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Mortar interior-design SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "route": "/work/mortar/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Mortar public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 4.889945652173913
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Handl agency operations SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "/work/handl/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Handl public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 6.854619565217392
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Mortar interior-design SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "/work/tangilla/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Tangilla public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 3.597826086956522
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Mortar interior-design SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "/work/mortar/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Mortar public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 4.889166666666667
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Handl agency operations SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/work/handl/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Handl public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 6.8533333333333335
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Mortar interior-design SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "/work/tangilla/",
+    "font": "loaded",
+    "images": [
+      {
+        "alt": "Tangilla public marketing website screenshot",
+        "complete": true,
+        "loaded": true,
+        "ratio": 3.5966666666666667
+      },
+      {
+        "alt": "Dazlab SaaS product studio website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      },
+      {
+        "alt": "Mortar interior-design SaaS website showcase",
+        "complete": false,
+        "loaded": false,
+        "ratio": null
+      }
+    ],
+    "overflow": false,
+    "width": 1440
+  }
+]

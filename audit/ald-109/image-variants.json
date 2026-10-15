@@ -1,0 +1,236 @@
+[
+  {
+    "name": "dazlab-card",
+    "original": 4499762,
+    "variants": [
+      {
+        "src": "/assets/optimized/dazlab-card-480.f8e0a51d5a06.webp",
+        "width": 480,
+        "height": 300,
+        "bytes": 13042
+      },
+      {
+        "src": "/assets/optimized/dazlab-card-800.7867b94465a2.webp",
+        "width": 800,
+        "height": 500,
+        "bytes": 27146
+      },
+      {
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 47920
+      }
+    ]
+  },
+  {
+    "name": "dazlab-study",
+    "original": 4499762,
+    "variants": [
+      {
+        "src": "/assets/optimized/dazlab-study-480.578bd5073027.webp",
+        "width": 480,
+        "height": 1469,
+        "bytes": 71500
+      },
+      {
+        "src": "/assets/optimized/dazlab-study-960.0f8d83463d2b.webp",
+        "width": 960,
+        "height": 2938,
+        "bytes": 208768
+      },
+      {
+        "src": "/assets/optimized/dazlab-study-1440.a09708127827.webp",
+        "width": 1440,
+        "height": 4406,
+        "bytes": 383140
+      },
+      {
+        "src": "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp",
+        "width": 1920,
+        "height": 5875,
+        "bytes": 576946
+      }
+    ]
+  },
+  {
+    "name": "mortar-card",
+    "original": 5257272,
+    "variants": [
+      {
+        "src": "/assets/optimized/mortar-card-480.dc27618ff55c.webp",
+        "width": 480,
+        "height": 300,
+        "bytes": 12700
+      },
+      {
+        "src": "/assets/optimized/mortar-card-800.61a8534d06e3.webp",
+        "width": 800,
+        "height": 500,
+        "bytes": 28856
+      },
+      {
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 53236
+      }
+    ]
+  },
+  {
+    "name": "mortar-study",
+    "original": 5257272,
+    "variants": [
+      {
+        "src": "/assets/optimized/mortar-study-480.529adffa34a4.webp",
+        "width": 480,
+        "height": 2347,
+        "bytes": 107612
+      },
+      {
+        "src": "/assets/optimized/mortar-study-960.eb143a0fefda.webp",
+        "width": 960,
+        "height": 4694,
+        "bytes": 315898
+      },
+      {
+        "src": "/assets/optimized/mortar-study-1440.af58212b80c9.webp",
+        "width": 1440,
+        "height": 7041,
+        "bytes": 570078
+      },
+      {
+        "src": "/assets/optimized/mortar-study-1920.93d2059601c4.webp",
+        "width": 1920,
+        "height": 9388,
+        "bytes": 836108
+      }
+    ]
+  },
+  {
+    "name": "handl-card",
+    "original": 3749220,
+    "variants": [
+      {
+        "src": "/assets/optimized/handl-card-480.9fa58475e83f.webp",
+        "width": 480,
+        "height": 300,
+        "bytes": 14462
+      },
+      {
+        "src": "/assets/optimized/handl-card-800.370f720423d5.webp",
+        "width": 800,
+        "height": 500,
+        "bytes": 31930
+      },
+      {
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 56438
+      }
+    ]
+  },
+  {
+    "name": "handl-study",
+    "original": 3749220,
+    "variants": [
+      {
+        "src": "/assets/optimized/handl-study-480.487a860fc402.webp",
+        "width": 480,
+        "height": 3290,
+        "bytes": 117522
+      },
+      {
+        "src": "/assets/optimized/handl-study-960.156aca5d0cab.webp",
+        "width": 960,
+        "height": 6580,
+        "bytes": 353710
+      },
+      {
+        "src": "/assets/optimized/handl-study-1440.625a4c583ff8.webp",
+        "width": 1440,
+        "height": 9869,
+        "bytes": 650366
+      },
+      {
+        "src": "/assets/optimized/handl-study-1920.8c0f81a3cfb9.webp",
+        "width": 1920,
+        "height": 13159,
+        "bytes": 945920
+      }
+    ]
+  },
+  {
+    "name": "tangilla-card",
+    "original": 5390947,
+    "variants": [
+      {
+        "src": "/assets/optimized/tangilla-card-480.019937846dd3.webp",
+        "width": 480,
+        "height": 300,
+        "bytes": 20430
+      },
+      {
+        "src": "/assets/optimized/tangilla-card-800.e9a7c7542fd3.webp",
+        "width": 800,
+        "height": 500,
+        "bytes": 43328
+      },
+      {
+        "src": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp",
+        "width": 1200,
+        "height": 750,
+        "bytes": 84214
+      }
+    ]
+  },
+  {
+    "name": "tangilla-study",
+    "original": 5390947,
+    "variants": [
+      {
+        "src": "/assets/optimized/tangilla-study-480.b3dcbd3cc130.webp",
+        "width": 480,
+        "height": 1727,
+        "bytes": 107578
+      },
+      {
+        "src": "/assets/optimized/tangilla-study-960.2cf9b66838e7.webp",
+        "width": 960,
+        "height": 3454,
+        "bytes": 325854
+      },
+      {
+        "src": "/assets/optimized/tangilla-study-1440.4b16db37c0c4.webp",
+        "width": 1440,
+        "height": 5180,
+        "bytes": 610158
+      },
+      {
+        "src": "/assets/optimized/tangilla-study-1920.201469066898.webp",
+        "width": 1920,
+        "height": 6907,
+        "bytes": 912104
+      }
+    ]
+  },
+  {
+    "name": "aldrin-hero",
+    "original": 383856,
+    "variants": [
+      {
+        "src": "/assets/optimized/aldrin-hero-320.acede31a552c.webp",
+        "width": 320,
+        "height": 308,
+        "bytes": 23828
+      },
+      {
+        "src": "/assets/optimized/aldrin-hero-512.fa3724b4c631.webp",
+        "width": 512,
+        "height": 493,
+        "bytes": 60060
+      }
+    ]
+  }
+]

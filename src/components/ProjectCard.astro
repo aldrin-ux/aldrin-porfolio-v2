@@ -1,4 +1,6 @@
 ---
+import { imageAssets } from "../content/imageAssets";
+
 interface Props {
   project: {
     title: string;
@@ -14,6 +16,7 @@ interface Props {
 
 const { project, headingLevel = "h3" } = Astro.props;
 const HeadingTag = headingLevel;
+const image = imageAssets[project.image]?.card;
 ---
 
 <article class="project-card">
@@ -39,7 +42,16 @@ const HeadingTag = headingLevel;
   </div>
   <p>{project.summary}</p>
   <a class="image-frame" href={project.href} aria-label={`${project.title} case study`}>
-    <img src={project.image} alt={project.alt} loading="lazy" />
+    <img
+      src={image?.src ?? project.image}
+      srcset={image?.srcset}
+      sizes="(max-width: 760px) calc(100vw - 2rem), (max-width: 1280px) calc((100vw - 4rem) / 2), 600px"
+      width={image?.width}
+      height={image?.height}
+      alt={project.alt}
+      loading="lazy"
+      decoding="async"
+    />
   </a>
 </article>
 

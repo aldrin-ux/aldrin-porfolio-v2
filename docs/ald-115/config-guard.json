@@ -1,0 +1,17 @@
+[
+  {
+    "case": "missing",
+    "exitCode": 1,
+    "passed": true
+  },
+  {
+    "case": "wrong",
+    "exitCode": 1,
+    "passed": true
+  },
+  {
+    "case": "correct",
+    "exitCode": 0,
+    "passed": true
+  }
+]

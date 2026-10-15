@@ -1,0 +1,326 @@
+[
+  {
+    "path": "404.html",
+    "same": true
+  },
+  {
+    "path": "about/index.html",
+    "same": true
+  },
+  {
+    "path": "assets/aldrin-about.webp",
+    "same": true
+  },
+  {
+    "path": "assets/aldrin-hero.webp",
+    "same": true
+  },
+  {
+    "path": "assets/dazlab-case.png",
+    "same": true
+  },
+  {
+    "path": "assets/dazlab-case.webp",
+    "same": true
+  },
+  {
+    "path": "assets/dazlab.png",
+    "same": true
+  },
+  {
+    "path": "assets/dazlab.webp",
+    "same": true
+  },
+  {
+    "path": "assets/handl.png",
+    "same": true
+  },
+  {
+    "path": "assets/handl.webp",
+    "same": true
+  },
+  {
+    "path": "assets/mortar.png",
+    "same": true
+  },
+  {
+    "path": "assets/mortar.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/aldrin-hero-320.acede31a552c.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/aldrin-hero-512.fa3724b4c631.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/dazlab-card-1200.3e6596c3008c.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/dazlab-card-480.f8e0a51d5a06.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/dazlab-card-800.7867b94465a2.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/dazlab-study-1440.a09708127827.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/dazlab-study-480.578bd5073027.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/dazlab-study-960.0f8d83463d2b.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/handl-card-1200.8f16ba658298.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/handl-card-480.9fa58475e83f.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/handl-card-800.370f720423d5.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/handl-study-1440.625a4c583ff8.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/handl-study-1920.8c0f81a3cfb9.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/handl-study-480.487a860fc402.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/handl-study-960.156aca5d0cab.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/mortar-card-1200.6ba88ea43555.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/mortar-card-480.dc27618ff55c.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/mortar-card-800.61a8534d06e3.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/mortar-study-1440.af58212b80c9.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/mortar-study-1920.93d2059601c4.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/mortar-study-480.529adffa34a4.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/mortar-study-960.eb143a0fefda.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/tangilla-card-1200.cf2d95f1073b.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/tangilla-card-480.019937846dd3.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/tangilla-card-800.e9a7c7542fd3.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/tangilla-study-1440.4b16db37c0c4.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/tangilla-study-1920.201469066898.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/tangilla-study-480.b3dcbd3cc130.webp",
+    "same": true
+  },
+  {
+    "path": "assets/optimized/tangilla-study-960.2cf9b66838e7.webp",
+    "same": true
+  },
+  {
+    "path": "assets/tangilla.png",
+    "same": true
+  },
+  {
+    "path": "assets/tangilla.webp",
+    "same": true
+  },
+  {
+    "path": "assets/tools/claude.svg",
+    "same": true
+  },
+  {
+    "path": "assets/tools/figma.svg",
+    "same": true
+  },
+  {
+    "path": "assets/tools/make.svg",
+    "same": true
+  },
+  {
+    "path": "assets/tools/n8n.svg",
+    "same": true
+  },
+  {
+    "path": "assets/tools/webflow.svg",
+    "same": true
+  },
+  {
+    "path": "contact/index.html",
+    "same": true
+  },
+  {
+    "path": "contact/success/index.html",
+    "same": true
+  },
+  {
+    "path": "fonts/OFL-inter.txt",
+    "same": true
+  },
+  {
+    "path": "fonts/OFL-jetbrains-mono.txt",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/inter.46dd4cdca58c.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/inter.8db00ff46c67.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/inter.a28eb6d3ccb5.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/inter.a2e2c783ca6f.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/inter.aebf2ab4a4ce.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/inter.c940764593d0.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/inter.fccca918fea4.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/jetbrains-mono.2c32b9b3ee35.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/jetbrains-mono.4995a9a43ac6.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/jetbrains-mono.49c3da6c9a2b.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/jetbrains-mono.9343de2ca5d9.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/jetbrains-mono.9c38cb2d0d2d.woff2",
+    "same": true
+  },
+  {
+    "path": "fonts/optimized/jetbrains-mono.d44eb1936043.woff2",
+    "same": true
+  },
+  {
+    "path": "index.html",
+    "same": true
+  },
+  {
+    "path": "robots.txt",
+    "same": true
+  },
+  {
+    "path": "sitemap.xml",
+    "same": true
+  },
+  {
+    "path": "work/dazlab/index.html",
+    "same": true
+  },
+  {
+    "path": "work/handl/index.html",
+    "same": true
+  },
+  {
+    "path": "work/index.html",
+    "same": true
+  },
+  {
+    "path": "work/mortar/index.html",
+    "same": true
+  },
+  {
+    "path": "work/tangilla/index.html",
+    "same": true
+  },
+  {
+    "path": "_astro/about.B9zZLtB9.css",
+    "same": true
+  },
+  {
+    "path": "_astro/aldrin-standing-studio-portrait.jPEy_BVv_1bE942.webp",
+    "same": true
+  },
+  {
+    "path": "_astro/aldrin-standing-studio-portrait.jPEy_BVv_2hIMdm.webp",
+    "same": true
+  },
+  {
+    "path": "_astro/aldrin-standing-studio-portrait.jPEy_BVv_9K888.webp",
+    "same": true
+  },
+  {
+    "path": "_astro/aldrin-standing-studio-portrait.jPEy_BVv_Z22BjaE.webp",
+    "same": true
+  },
+  {
+    "path": "_astro/index.DdXluy51.css",
+    "same": true
+  },
+  {
+    "path": "__forms.html",
+    "same": true
+  }
+]

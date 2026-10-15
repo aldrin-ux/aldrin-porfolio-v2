@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-v2-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.12" },
+  "scripts": {
+    "dev": "sanity dev --host localhost --port 3333",
+    "build": "sanity build",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@sanity/ui": "4.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "sanity": "6.19.0",
+    "styled-components": "6.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "7.0.2"
+  }
+}

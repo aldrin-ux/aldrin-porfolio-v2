@@ -1,0 +1,208 @@
+{
+  "/assets/aldrin-hero.webp": {
+    "assetId": "image-fixture-0",
+    "originalPath": "/assets/aldrin-hero.webp",
+    "publicPath": "/assets/aldrin-hero.webp",
+    "sourceFile": "public/assets/aldrin-hero.webp",
+    "sha256": "deb04513f49ca6f0668d3f96c82d2e2067bb2e072debdc61d58d64e49d13b840",
+    "hero": {
+      "src": "/assets/optimized/aldrin-hero-512.fa3724b4c631.webp",
+      "width": 512,
+      "height": 493,
+      "srcset": "/assets/optimized/aldrin-hero-320.acede31a552c.webp 320w, /assets/optimized/aldrin-hero-512.fa3724b4c631.webp 512w"
+    },
+    "variantHashes": {
+      "/assets/optimized/aldrin-hero-512.fa3724b4c631.webp": "fa3724b4c63163cd6831f4c3ad5823ec1f5c2550bc5fb0f278d10be8a3f5b9b4",
+      "/assets/optimized/aldrin-hero-320.acede31a552c.webp": "acede31a552c10e28af360cd51e31624e4d1f1e490f84a7b703412b430bc0788"
+    }
+  },
+  "/src/assets/aldrin-standing-studio-portrait.png": {
+    "assetId": "image-fixture-1",
+    "originalPath": "/src/assets/aldrin-standing-studio-portrait.png",
+    "publicPath": "/src/assets/aldrin-standing-studio-portrait.png",
+    "sourceFile": "src/assets/aldrin-standing-studio-portrait.png",
+    "sha256": "1c2517f932b9ca950fdd10cb55123c7a0077a3d18bb5d4cf0a4ae58369c2bf19",
+    "aboutPortrait": true,
+    "variantHashes": {}
+  },
+  "/assets/dazlab.png": {
+    "assetId": "image-fixture-2",
+    "originalPath": "/assets/dazlab.png",
+    "publicPath": "/assets/dazlab.png",
+    "sourceFile": "public/assets/dazlab.png",
+    "sha256": "90bca39dbaef67b0312523fe99aacd003353447c9c45538ed181dadd0827b26e",
+    "card": {
+      "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp",
+      "width": 1200,
+      "height": 750,
+      "srcset": "/assets/optimized/dazlab-card-480.f8e0a51d5a06.webp 480w, /assets/optimized/dazlab-card-800.7867b94465a2.webp 800w, /assets/optimized/dazlab-card-1200.3e6596c3008c.webp 1200w"
+    },
+    "study": {
+      "src": "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp",
+      "width": 1920,
+      "height": 5875,
+      "srcset": "/assets/optimized/dazlab-study-480.578bd5073027.webp 480w, /assets/optimized/dazlab-study-960.0f8d83463d2b.webp 960w, /assets/optimized/dazlab-study-1440.a09708127827.webp 1440w, /assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp 1920w"
+    },
+    "variantHashes": {
+      "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp": "3e6596c3008c42c1f70f8196acb08d0b1176b6b2a7abdc2ed710f69f1842df15",
+      "/assets/optimized/dazlab-card-480.f8e0a51d5a06.webp": "f8e0a51d5a06ce0c09bf7fafc5292ee7a6c550233a88fd4663031e6b557d3a0c",
+      "/assets/optimized/dazlab-card-800.7867b94465a2.webp": "7867b94465a2e27d293fb99129418e5395b903dc7403e62e46452bb89e3366a5",
+      "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp": "2ef6f06c65cc11fc103467f6c6c253af553d10dd5ab70b412f22cbb2610f8691",
+      "/assets/optimized/dazlab-study-480.578bd5073027.webp": "578bd50730273d83ff46dc1236437a3a686d223a82c4c3a71a0a83fb0b4cc0d3",
+      "/assets/optimized/dazlab-study-960.0f8d83463d2b.webp": "0f8d83463d2b833b8c442407e42b615b4fee82eaaf8b0f8dfcb2f5155d178893",
+      "/assets/optimized/dazlab-study-1440.a09708127827.webp": "a09708127827279d1939379455eca83d0142863abb67585b4cb8284707534796"
+    }
+  },
+  "/assets/dazlab-case.png": {
+    "assetId": "image-fixture-3",
+    "originalPath": "/assets/dazlab-case.png",
+    "publicPath": "/assets/dazlab-case.png",
+    "sourceFile": "public/assets/dazlab-case.png",
+    "sha256": "90bca39dbaef67b0312523fe99aacd003353447c9c45538ed181dadd0827b26e",
+    "card": {
+      "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp",
+      "width": 1200,
+      "height": 750,
+      "srcset": "/assets/optimized/dazlab-card-480.f8e0a51d5a06.webp 480w, /assets/optimized/dazlab-card-800.7867b94465a2.webp 800w, /assets/optimized/dazlab-card-1200.3e6596c3008c.webp 1200w"
+    },
+    "study": {
+      "src": "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp",
+      "width": 1920,
+      "height": 5875,
+      "srcset": "/assets/optimized/dazlab-study-480.578bd5073027.webp 480w, /assets/optimized/dazlab-study-960.0f8d83463d2b.webp 960w, /assets/optimized/dazlab-study-1440.a09708127827.webp 1440w, /assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp 1920w"
+    },
+    "variantHashes": {
+      "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp": "3e6596c3008c42c1f70f8196acb08d0b1176b6b2a7abdc2ed710f69f1842df15",
+      "/assets/optimized/dazlab-card-480.f8e0a51d5a06.webp": "f8e0a51d5a06ce0c09bf7fafc5292ee7a6c550233a88fd4663031e6b557d3a0c",
+      "/assets/optimized/dazlab-card-800.7867b94465a2.webp": "7867b94465a2e27d293fb99129418e5395b903dc7403e62e46452bb89e3366a5",
+      "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp": "2ef6f06c65cc11fc103467f6c6c253af553d10dd5ab70b412f22cbb2610f8691",
+      "/assets/optimized/dazlab-study-480.578bd5073027.webp": "578bd50730273d83ff46dc1236437a3a686d223a82c4c3a71a0a83fb0b4cc0d3",
+      "/assets/optimized/dazlab-study-960.0f8d83463d2b.webp": "0f8d83463d2b833b8c442407e42b615b4fee82eaaf8b0f8dfcb2f5155d178893",
+      "/assets/optimized/dazlab-study-1440.a09708127827.webp": "a09708127827279d1939379455eca83d0142863abb67585b4cb8284707534796"
+    }
+  },
+  "/assets/mortar.png": {
+    "assetId": "image-fixture-4",
+    "originalPath": "/assets/mortar.png",
+    "publicPath": "/assets/mortar.png",
+    "sourceFile": "public/assets/mortar.png",
+    "sha256": "fe5b6bfe884211fb023bf26692c8cd7046eb7860069a7683f80943a9be64b936",
+    "card": {
+      "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp",
+      "width": 1200,
+      "height": 750,
+      "srcset": "/assets/optimized/mortar-card-480.dc27618ff55c.webp 480w, /assets/optimized/mortar-card-800.61a8534d06e3.webp 800w, /assets/optimized/mortar-card-1200.6ba88ea43555.webp 1200w"
+    },
+    "study": {
+      "src": "/assets/optimized/mortar-study-1920.93d2059601c4.webp",
+      "width": 1920,
+      "height": 9388,
+      "srcset": "/assets/optimized/mortar-study-480.529adffa34a4.webp 480w, /assets/optimized/mortar-study-960.eb143a0fefda.webp 960w, /assets/optimized/mortar-study-1440.af58212b80c9.webp 1440w, /assets/optimized/mortar-study-1920.93d2059601c4.webp 1920w"
+    },
+    "variantHashes": {
+      "/assets/optimized/mortar-card-1200.6ba88ea43555.webp": "6ba88ea43555b52dd0a600f1a12ce20b9b36542654c295669988dc0b9826d447",
+      "/assets/optimized/mortar-card-480.dc27618ff55c.webp": "dc27618ff55cce788a1499351236f7447b82493bd259e11034171ad428b7baea",
+      "/assets/optimized/mortar-card-800.61a8534d06e3.webp": "61a8534d06e3e0f410d1c399d4f59301da4610eee6ddcd403017427193c3a865",
+      "/assets/optimized/mortar-study-1920.93d2059601c4.webp": "93d2059601c416ff5e621360c18ad1f3eecc6d55b618bcd9c52df77e6713aa0d",
+      "/assets/optimized/mortar-study-480.529adffa34a4.webp": "529adffa34a4c9df0a1fbd9ccd489378a4705ef1e6a53e863ad5520e32718f02",
+      "/assets/optimized/mortar-study-960.eb143a0fefda.webp": "eb143a0fefdab45ce4d413ca1693e477ab2b3ac041060370dcff4bdfdbc6640f",
+      "/assets/optimized/mortar-study-1440.af58212b80c9.webp": "af58212b80c9c3b0224de02ba76f16cfa5b0c176f0e4a4f034a45a30ad3cba1c"
+    }
+  },
+  "/assets/handl.png": {
+    "assetId": "image-fixture-5",
+    "originalPath": "/assets/handl.png",
+    "publicPath": "/assets/handl.png",
+    "sourceFile": "public/assets/handl.png",
+    "sha256": "83ed86cc6a05dd18debe8a64ac6a85904ec36baa7360a9b4fef48e9757b076ae",
+    "card": {
+      "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp",
+      "width": 1200,
+      "height": 750,
+      "srcset": "/assets/optimized/handl-card-480.9fa58475e83f.webp 480w, /assets/optimized/handl-card-800.370f720423d5.webp 800w, /assets/optimized/handl-card-1200.8f16ba658298.webp 1200w"
+    },
+    "study": {
+      "src": "/assets/optimized/handl-study-1920.8c0f81a3cfb9.webp",
+      "width": 1920,
+      "height": 13159,
+      "srcset": "/assets/optimized/handl-study-480.487a860fc402.webp 480w, /assets/optimized/handl-study-960.156aca5d0cab.webp 960w, /assets/optimized/handl-study-1440.625a4c583ff8.webp 1440w, /assets/optimized/handl-study-1920.8c0f81a3cfb9.webp 1920w"
+    },
+    "variantHashes": {
+      "/assets/optimized/handl-card-1200.8f16ba658298.webp": "8f16ba65829815e195f07b7c4e4303a146ab201e24ff74979db78521139b6a16",
+      "/assets/optimized/handl-card-480.9fa58475e83f.webp": "9fa58475e83f366b49e7ba938aa1ba912282ba040c23968a0b14460a85ec8629",
+      "/assets/optimized/handl-card-800.370f720423d5.webp": "370f720423d556e627d7bdd7ec0197885f0d77aea475e9492c89f84d74b61307",
+      "/assets/optimized/handl-study-1920.8c0f81a3cfb9.webp": "8c0f81a3cfb9a4d5e697d15e80bb9e68fc9ff03ac734371fd98199a0e8b33b0a",
+      "/assets/optimized/handl-study-480.487a860fc402.webp": "487a860fc40226ee984c5a20ed3f5b9c583be2ce93f9bab05a02904bb64ed1c2",
+      "/assets/optimized/handl-study-960.156aca5d0cab.webp": "156aca5d0cabf88ee5ee6481b4004a71a5b670d2559c3d4cb41fa8f2026680c6",
+      "/assets/optimized/handl-study-1440.625a4c583ff8.webp": "625a4c583ff8a3432907d4c27195bed15004a2b01399afcaf9f5a6a6f9899906"
+    }
+  },
+  "/assets/tangilla.png": {
+    "assetId": "image-fixture-6",
+    "originalPath": "/assets/tangilla.png",
+    "publicPath": "/assets/tangilla.png",
+    "sourceFile": "public/assets/tangilla.png",
+    "sha256": "c89bf377f6e76876ade3eddc14a029d21409b89fe654ab0e7385a4ecb3c87d3b",
+    "card": {
+      "src": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp",
+      "width": 1200,
+      "height": 750,
+      "srcset": "/assets/optimized/tangilla-card-480.019937846dd3.webp 480w, /assets/optimized/tangilla-card-800.e9a7c7542fd3.webp 800w, /assets/optimized/tangilla-card-1200.cf2d95f1073b.webp 1200w"
+    },
+    "study": {
+      "src": "/assets/optimized/tangilla-study-1920.201469066898.webp",
+      "width": 1920,
+      "height": 6907,
+      "srcset": "/assets/optimized/tangilla-study-480.b3dcbd3cc130.webp 480w, /assets/optimized/tangilla-study-960.2cf9b66838e7.webp 960w, /assets/optimized/tangilla-study-1440.4b16db37c0c4.webp 1440w, /assets/optimized/tangilla-study-1920.201469066898.webp 1920w"
+    },
+    "variantHashes": {
+      "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp": "cf2d95f1073b25b3f5df4ed7a383ac71814b3d2f5b9d4b24cc24373b63cdc634",
+      "/assets/optimized/tangilla-card-480.019937846dd3.webp": "019937846dd3af33aa55805b66aac43280508a8bc2ae9d432ce124aa4b69c857",
+      "/assets/optimized/tangilla-card-800.e9a7c7542fd3.webp": "e9a7c7542fd3e0849f1f36d9664eafc361e811d37935dfe48c09cbda9a085855",
+      "/assets/optimized/tangilla-study-1920.201469066898.webp": "201469066898137cba35bdcf2df6269fe2f56564b4aee3b135546565c44cc300",
+      "/assets/optimized/tangilla-study-480.b3dcbd3cc130.webp": "b3dcbd3cc1308a2ababe7343bb75ff3247b6830e691a3a09498b867a4ad029ef",
+      "/assets/optimized/tangilla-study-960.2cf9b66838e7.webp": "2cf9b66838e73dc4771f0c604f76f906034c1758f59aa40a9a37ee95aa413da0",
+      "/assets/optimized/tangilla-study-1440.4b16db37c0c4.webp": "4b16db37c0c4de840f10ee95d7ba6e85340eb0525e380a1daf0da3a4cd78139f"
+    }
+  },
+  "/assets/tools/figma.svg": {
+    "assetId": "image-fixture-7",
+    "originalPath": "/assets/tools/figma.svg",
+    "publicPath": "/assets/tools/figma.svg",
+    "sourceFile": "public/assets/tools/figma.svg",
+    "sha256": "b9171110637bb953781a04044d9957478ae84f6a7ac597a25c0bfdfb3292a45e",
+    "variantHashes": {}
+  },
+  "/assets/tools/webflow.svg": {
+    "assetId": "image-fixture-8",
+    "originalPath": "/assets/tools/webflow.svg",
+    "publicPath": "/assets/tools/webflow.svg",
+    "sourceFile": "public/assets/tools/webflow.svg",
+    "sha256": "cbd85813c626c03120d3ad66e17ca98a57c1efb3065b567e0054b54bcd2f1943",
+    "variantHashes": {}
+  },
+  "/assets/tools/claude.svg": {
+    "assetId": "image-fixture-9",
+    "originalPath": "/assets/tools/claude.svg",
+    "publicPath": "/assets/tools/claude.svg",
+    "sourceFile": "public/assets/tools/claude.svg",
+    "sha256": "5119ef950a0d648b3fd62865791e73f07f32e18ddab84e4f21160f8c641c0f5f",
+    "variantHashes": {}
+  },
+  "/assets/tools/make.svg": {
+    "assetId": "image-fixture-10",
+    "originalPath": "/assets/tools/make.svg",
+    "publicPath": "/assets/tools/make.svg",
+    "sourceFile": "public/assets/tools/make.svg",
+    "sha256": "454b57e9280a5218d256ac35974408a6a955f089fd6a854c14bb08add3a088c4",
+    "variantHashes": {}
+  },
+  "/assets/tools/n8n.svg": {
+    "assetId": "image-fixture-11",
+    "originalPath": "/assets/tools/n8n.svg",
+    "publicPath": "/assets/tools/n8n.svg",
+    "sourceFile": "public/assets/tools/n8n.svg",
+    "sha256": "2a415d5d2dea1903450d0df1b2b76866948d12a704e13378e54ed6896830c2e9",
+    "variantHashes": {}
+  }
+}

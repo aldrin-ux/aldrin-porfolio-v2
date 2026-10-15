@@ -1,0 +1,54 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const title = "Page Not Found - Aldrin Camacho";
+const description = "The requested page was not found.";
+---
+
+<BaseLayout title={title} description={description} noindex>
+  <section class="section not-found">
+    <div class="container">
+      <span class="eyebrow">404 / Not Found</span>
+      <h1>Page not found<span class="accent">.</span></h1>
+      <p>The page may have moved, or the link may no longer be active.</p>
+      <div>
+        <a class="button" href="/">Return Home</a>
+        <a class="text-link" href="/work/">View Work</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .not-found .container {
+    max-width: 760px;
+  }
+
+  h1 {
+    margin: 0.5rem 0 1rem;
+    font-size: clamp(3.2rem, 8vw, 5.5rem);
+    font-weight: 500;
+    letter-spacing: -0.045em;
+    line-height: 0.98;
+  }
+
+  p {
+    max-width: 560px;
+    margin: 0 0 2rem;
+    color: var(--muted);
+    font-size: 1.1rem;
+  }
+
+  .not-found div div {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+  }
+
+  @media (max-width: 560px) {
+    .not-found div div {
+      align-items: stretch;
+      flex-direction: column;
+    }
+  }
+</style>

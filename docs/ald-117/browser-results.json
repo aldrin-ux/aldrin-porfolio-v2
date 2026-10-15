@@ -1,0 +1,486 @@
+{
+  "browser": "156.0.8078.4",
+  "checks": 57,
+  "results": [
+    {
+      "mode": "static",
+      "route": "/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "designer.",
+      "heroPrepared": false
+    },
+    {
+      "mode": "static",
+      "route": "/about/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Design-minded.Development-focused."
+    },
+    {
+      "mode": "static",
+      "route": "/work/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Work that speaks for itself."
+    },
+    {
+      "mode": "static",
+      "route": "/work/dazlab/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Dazlab - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/mortar/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Mortar - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/handl/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Handl - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/tangilla/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Tangilla - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/contact/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Let's build something better."
+    },
+    {
+      "mode": "static",
+      "route": "/contact/success/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Thanks for reaching out."
+    },
+    {
+      "mode": "static",
+      "route": "/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "designer.",
+      "heroPrepared": false
+    },
+    {
+      "mode": "static",
+      "route": "/about/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Design-minded.Development-focused."
+    },
+    {
+      "mode": "static",
+      "route": "/work/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Work that speaks for itself."
+    },
+    {
+      "mode": "static",
+      "route": "/work/dazlab/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Dazlab - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/mortar/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Mortar - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/handl/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Handl - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/tangilla/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Tangilla - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/contact/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Let's build something better."
+    },
+    {
+      "mode": "static",
+      "route": "/contact/success/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Thanks for reaching out."
+    },
+    {
+      "mode": "static",
+      "route": "/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "designer.",
+      "heroPrepared": false
+    },
+    {
+      "mode": "static",
+      "route": "/about/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Design-minded.Development-focused."
+    },
+    {
+      "mode": "static",
+      "route": "/work/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Work that speaks for itself."
+    },
+    {
+      "mode": "static",
+      "route": "/work/dazlab/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Dazlab - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/mortar/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Mortar - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/handl/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Handl - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/work/tangilla/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Tangilla - Webflow Marketing Website."
+    },
+    {
+      "mode": "static",
+      "route": "/contact/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Let's build something better."
+    },
+    {
+      "mode": "static",
+      "route": "/contact/success/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Thanks for reaching out."
+    },
+    {
+      "mode": "cms",
+      "route": "/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "designer.",
+      "heroPrepared": false
+    },
+    {
+      "mode": "cms",
+      "route": "/about/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Design-minded.Development-focused."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Work that speaks for itself."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/dazlab/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Dazlab - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/mortar/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Mortar - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/handl/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Handl - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/tangilla/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Tangilla - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/contact/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Let's build something better."
+    },
+    {
+      "mode": "cms",
+      "route": "/contact/success/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Thanks for reaching out."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/fixture-five/",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "h1": "Synthetic fifth project - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "designer.",
+      "heroPrepared": false
+    },
+    {
+      "mode": "cms",
+      "route": "/about/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Design-minded.Development-focused."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Work that speaks for itself."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/dazlab/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Dazlab - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/mortar/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Mortar - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/handl/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Handl - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/tangilla/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Tangilla - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/contact/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Let's build something better."
+    },
+    {
+      "mode": "cms",
+      "route": "/contact/success/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Thanks for reaching out."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/fixture-five/",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "h1": "Synthetic fifth project - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "designer.",
+      "heroPrepared": false
+    },
+    {
+      "mode": "cms",
+      "route": "/about/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Design-minded.Development-focused."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Work that speaks for itself."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/dazlab/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Dazlab - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/mortar/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Mortar - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/handl/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Handl - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/tangilla/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Tangilla - Webflow Marketing Website."
+    },
+    {
+      "mode": "cms",
+      "route": "/contact/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Let's build something better."
+    },
+    {
+      "mode": "cms",
+      "route": "/contact/success/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Thanks for reaching out."
+    },
+    {
+      "mode": "cms",
+      "route": "/work/fixture-five/",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "h1": "Synthetic fifth project - Webflow Marketing Website."
+    }
+  ],
+  "screenshotParity": [
+    "hero-390",
+    "hero-768",
+    "hero-1440",
+    "about-390",
+    "about-768",
+    "about-1440",
+    "contact-390",
+    "contact-768",
+    "contact-1440",
+    "work-dazlab-390",
+    "work-dazlab-768",
+    "work-dazlab-1440"
+  ],
+  "normalAnimation": true,
+  "javaScriptDisabled": true,
+  "mobileMenuKeyboard": true,
+  "formsSubmitted": 0
+}

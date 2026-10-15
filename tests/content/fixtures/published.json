@@ -1,0 +1,1745 @@
+{
+  "documents": [
+    {
+      "_id": "siteSettings",
+      "_type": "siteSettings",
+      "_rev": "fixture-siteSettings-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "siteName": "Aldrin Camacho",
+      "language": "en",
+      "defaultSeo": {
+        "_type": "seoMetadata",
+        "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+        "description": "Portfolio of Aldrin Camacho, a Webflow Developer with a background in UX/UI and service design. Featured work covers marketing websites developed under Dazlab.",
+        "indexingRequest": "noindex",
+        "socialImage": {
+          "_type": "mediaUsage",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-fixture-0"
+            }
+          },
+          "alt": "Aldrin Camacho designer and developer portrait",
+          "decorative": false,
+          "cropIntent": "portrait",
+          "legacyAssetPaths": [
+            "/assets/aldrin-hero.webp"
+          ],
+          "rights": {
+            "_type": "usageRights",
+            "status": "approved",
+            "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+          },
+          "reviewFlags": []
+        }
+      },
+      "profile": {
+        "_type": "reference",
+        "_ref": "portfolioProfile"
+      },
+      "primaryNavigation": {
+        "_type": "reference",
+        "_ref": "navigation-primary"
+      },
+      "brand": {
+        "_type": "brand",
+        "shortName": "Aldrin C.",
+        "avatarText": "AC",
+        "avatarLabel": "About Aldrin"
+      },
+      "footerText": "© 2025 Aldrin Camacho. Webflow Developer & Digital Experience Specialist.",
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "portfolioProfile",
+      "_type": "portfolioProfile",
+      "_rev": "fixture-portfolioProfile-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "name": "Aldrin Camacho",
+      "professionalTitle": "Webflow Developer & Digital Experience Specialist",
+      "summaryParagraphs": [
+        "I'm a Webflow Developer & Digital Experience Specialist with a background in UX/UI and service design. My work includes Figma-to-Webflow implementation, responsive development, CMS setup, and technical SEO/AEO where applicable.",
+        "As Dazlab's sole Webflow developer, I worked on marketing websites for Dazlab, Mortar, Handl, and Tangilla. Each featured entry describes my Webflow contribution and credits Dazlab."
+      ],
+      "biographyParagraphs": [
+        "I'm a Webflow Developer & Digital Experience Specialist with a background in UX/UI and service design. My work includes Figma-to-Webflow implementation, responsive development, CMS architecture and setup, and technical SEO/AEO where applicable.",
+        "I was Dazlab's sole Webflow developer in 2025–2026. The featured Dazlab, Mortar, Handl, and Tangilla entries cover marketing websites developed under Dazlab. My earlier experience includes Webflow development, service design, UX/UI, data encoding, and graphic design."
+      ],
+      "profileHeading": "Design-minded. Development-focused.",
+      "socialLinks": [
+        {
+          "_type": "link",
+          "label": "LinkedIn",
+          "kind": "external",
+          "externalUrl": "https://www.linkedin.com/in/drin-camacho/",
+          "newWindow": true,
+          "_key": "item-0"
+        }
+      ],
+      "heroPortrait": {
+        "_type": "mediaUsage",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-fixture-0"
+          }
+        },
+        "alt": "Aldrin Camacho designer and developer portrait",
+        "decorative": false,
+        "cropIntent": "portrait",
+        "legacyAssetPaths": [
+          "/assets/aldrin-hero.webp"
+        ],
+        "rights": {
+          "_type": "usageRights",
+          "status": "approved",
+          "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+        },
+        "reviewFlags": []
+      },
+      "aboutPortrait": {
+        "_type": "mediaUsage",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-fixture-1"
+          }
+        },
+        "alt": "Standing studio portrait of Aldrin Camacho",
+        "decorative": false,
+        "cropIntent": "portrait",
+        "legacyAssetPaths": [
+          "/src/assets/aldrin-standing-studio-portrait.png"
+        ],
+        "rights": {
+          "_type": "usageRights",
+          "status": "approved",
+          "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+        },
+        "reviewFlags": []
+      },
+      "experience": [
+        {
+          "_type": "reference",
+          "_ref": "experience-0",
+          "_key": "item-0"
+        },
+        {
+          "_type": "reference",
+          "_ref": "experience-1",
+          "_key": "item-1"
+        },
+        {
+          "_type": "reference",
+          "_ref": "experience-2",
+          "_key": "item-2"
+        },
+        {
+          "_type": "reference",
+          "_ref": "experience-3",
+          "_key": "item-3"
+        },
+        {
+          "_type": "reference",
+          "_ref": "experience-4",
+          "_key": "item-4"
+        },
+        {
+          "_type": "reference",
+          "_ref": "experience-5",
+          "_key": "item-5"
+        },
+        {
+          "_type": "reference",
+          "_ref": "experience-6",
+          "_key": "item-6"
+        }
+      ],
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "navigation-primary",
+      "_type": "navigation",
+      "_rev": "fixture-navigation-primary-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "Primary navigation",
+      "items": [
+        {
+          "_type": "link",
+          "label": "Work",
+          "kind": "internal",
+          "target": {
+            "_type": "reference",
+            "_ref": "page-work"
+          },
+          "newWindow": false,
+          "_key": "item-0"
+        },
+        {
+          "_type": "link",
+          "label": "Workflow",
+          "kind": "internal",
+          "target": {
+            "_type": "reference",
+            "_ref": "page-home"
+          },
+          "fragment": "workflow",
+          "newWindow": false,
+          "_key": "item-1"
+        },
+        {
+          "_type": "link",
+          "label": "Services",
+          "kind": "internal",
+          "target": {
+            "_type": "reference",
+            "_ref": "page-home"
+          },
+          "fragment": "expertise",
+          "newWindow": false,
+          "_key": "item-2"
+        },
+        {
+          "_type": "link",
+          "label": "About",
+          "kind": "internal",
+          "target": {
+            "_type": "reference",
+            "_ref": "page-about"
+          },
+          "newWindow": false,
+          "_key": "item-3"
+        },
+        {
+          "_type": "link",
+          "label": "Contact",
+          "kind": "internal",
+          "target": {
+            "_type": "reference",
+            "_ref": "page-contact"
+          },
+          "newWindow": false,
+          "_key": "item-4"
+        }
+      ],
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "experience-0",
+      "_type": "professionalExperience",
+      "_rev": "fixture-experience-0-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "company": "Dazlab",
+      "role": "Webflow Developer",
+      "description": "Sole Webflow developer. Figma-to-Webflow implementation, responsive development, CMS architecture and setup, and technical SEO/AEO where applicable.",
+      "startYear": 2025,
+      "endYear": 2026,
+      "datePrecision": "year",
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "experience-1",
+      "_type": "professionalExperience",
+      "_rev": "fixture-experience-1-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "company": "B+ Studio",
+      "role": "Webflow Developer",
+      "description": "Webflow and Shopify website development, including responsive landing pages.",
+      "startYear": 2024,
+      "endYear": 2025,
+      "datePrecision": "year",
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "experience-2",
+      "_type": "professionalExperience",
+      "_rev": "fixture-experience-2-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "company": "MCFLY Industries",
+      "role": "Webflow Developer",
+      "description": "Webflow development, CMS setup, and SEO-ready website structure.",
+      "startYear": 2023,
+      "endYear": 2024,
+      "datePrecision": "year",
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "experience-3",
+      "_type": "professionalExperience",
+      "_rev": "fixture-experience-3-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "company": "Priority Studios",
+      "role": "Webflow Developer & Service Designer",
+      "description": "Webflow website development and service design, including wireframes, service blueprints, and customer journey mapping.",
+      "startYear": 2021,
+      "endYear": 2023,
+      "datePrecision": "year",
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "experience-4",
+      "_type": "professionalExperience",
+      "_rev": "fixture-experience-4-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "company": "Platform Studios",
+      "role": "UX/UI Design",
+      "description": "UX/UI design, wireframes, and interface mockups.",
+      "startYear": 2018,
+      "endYear": 2021,
+      "datePrecision": "year",
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "experience-5",
+      "_type": "professionalExperience",
+      "_rev": "fixture-experience-5-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "company": "Philippines Research & Survey Center",
+      "role": "Data Encoding",
+      "description": "Data encoding for research and survey work.",
+      "startYear": 2013,
+      "endYear": 2017,
+      "datePrecision": "year",
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "experience-6",
+      "_type": "professionalExperience",
+      "_rev": "fixture-experience-6-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "company": "Art Pose Photos",
+      "role": "Graphic Design",
+      "description": "Graphic design work.",
+      "startYear": 2010,
+      "endYear": 2012,
+      "datePrecision": "year",
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "project-dazlab",
+      "_type": "project",
+      "_rev": "fixture-project-dazlab-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "Dazlab",
+      "slug": {
+        "_type": "slug",
+        "current": "dazlab"
+      },
+      "externalUrl": "https://dazlab.digital/",
+      "cardRole": "Webflow development for Dazlab",
+      "tags": [
+        "Product Studio",
+        "Webflow",
+        "Responsive"
+      ],
+      "cardSummary": "Webflow implementation of Dazlab's product-studio marketing website, developed under Dazlab as its sole Webflow developer.",
+      "cardImage": {
+        "_type": "mediaUsage",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-fixture-2"
+          }
+        },
+        "alt": "Dazlab SaaS product studio website showcase",
+        "decorative": false,
+        "cropIntent": "cardTop",
+        "legacyAssetPaths": [
+          "/assets/dazlab.png"
+        ],
+        "rights": {
+          "_type": "usageRights",
+          "status": "approved",
+          "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+        },
+        "reviewFlags": []
+      },
+      "portfolioStatus": "provisional",
+      "migration": {
+        "_type": "migrationMetadata",
+        "sourceSystem": "portfolio-v2",
+        "sourceKey": "portfolio-v2/project/dazlab",
+        "sourceCommit": "88532ad18215c064a14e2824ec9f90b0e513d482",
+        "sourceLocations": [
+          "src/content/site.ts"
+        ],
+        "legacyPath": "/work/dazlab/"
+      },
+      "attribution": {
+        "_type": "projectAttribution",
+        "person": {
+          "_type": "reference",
+          "_ref": "portfolioProfile"
+        },
+        "deliveryCredit": "Dazlab",
+        "role": "Sole Webflow developer",
+        "scope": "marketingWebsite",
+        "contributionSummary": "My role was Webflow implementation and responsive development for the marketing website. My responsibilities at Dazlab included Figma-to-Webflow work, CMS architecture and setup, and technical SEO/AEO where applicable.",
+        "scopeStatement": "Project delivery is credited to Dazlab. This entry describes my Webflow contribution to the marketing website. Product engineering, visual design authorship, and business outcomes are outside its scope. Product claims shown in screenshots are not measured results of my Webflow work."
+      },
+      "caseStudy": {
+        "_type": "caseStudy",
+        "eyebrow": "Case Study / Product Studio",
+        "heading": "Dazlab - Webflow Marketing Website.",
+        "summary": "I implemented Dazlab's marketing website in Webflow as Dazlab's sole Webflow developer. This project was developed under Dazlab.",
+        "heroImage": {
+          "_type": "mediaUsage",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-fixture-3"
+            }
+          },
+          "alt": "Dazlab public marketing website screenshot",
+          "decorative": false,
+          "cropIntent": "fullScreenshot",
+          "legacyAssetPaths": [
+            "/assets/dazlab-case.png"
+          ],
+          "rights": {
+            "_type": "usageRights",
+            "status": "approved",
+            "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+          },
+          "reviewFlags": []
+        },
+        "sections": [
+          {
+            "_type": "narrativeSection",
+            "heading": "Context",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "paragraph",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "text",
+                    "text": "Dazlab is a product studio that builds and launches niche SaaS products. This entry covers its marketing website.",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            "_key": "item-0"
+          }
+        ],
+        "publicNotices": [
+          "This is a provisional portfolio entry. Precise project dates and screenshot reuse rights remain under review; public availability does not establish permission or endorsement."
+        ],
+        "seo": {
+          "_type": "seoMetadata",
+          "title": "Dazlab Case Study - Aldrin Camacho",
+          "description": "Dazlab marketing website: Webflow implementation by Aldrin Camacho as Dazlab's sole Webflow developer. Project developed under Dazlab.",
+          "indexingRequest": "noindex"
+        }
+      },
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "project-mortar",
+      "_type": "project",
+      "_rev": "fixture-project-mortar-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "Mortar",
+      "slug": {
+        "_type": "slug",
+        "current": "mortar"
+      },
+      "externalUrl": "https://mortar.design/",
+      "cardRole": "Webflow development for Dazlab",
+      "tags": [
+        "Interior-design SaaS",
+        "Webflow",
+        "Responsive"
+      ],
+      "cardSummary": "Webflow implementation of Mortar's interior-design software marketing website, developed under Dazlab as its sole Webflow developer.",
+      "cardImage": {
+        "_type": "mediaUsage",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-fixture-4"
+          }
+        },
+        "alt": "Mortar interior-design SaaS website showcase",
+        "decorative": false,
+        "cropIntent": "cardTop",
+        "legacyAssetPaths": [
+          "/assets/mortar.png"
+        ],
+        "rights": {
+          "_type": "usageRights",
+          "status": "approved",
+          "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+        },
+        "reviewFlags": []
+      },
+      "portfolioStatus": "provisional",
+      "migration": {
+        "_type": "migrationMetadata",
+        "sourceSystem": "portfolio-v2",
+        "sourceKey": "portfolio-v2/project/mortar",
+        "sourceCommit": "88532ad18215c064a14e2824ec9f90b0e513d482",
+        "sourceLocations": [
+          "src/content/site.ts"
+        ],
+        "legacyPath": "/work/mortar/"
+      },
+      "attribution": {
+        "_type": "projectAttribution",
+        "person": {
+          "_type": "reference",
+          "_ref": "portfolioProfile"
+        },
+        "deliveryCredit": "Dazlab",
+        "role": "Sole Webflow developer",
+        "scope": "marketingWebsite",
+        "contributionSummary": "My role was Webflow implementation and responsive development for the marketing website. My responsibilities at Dazlab included Figma-to-Webflow work, CMS architecture and setup, and technical SEO/AEO where applicable.",
+        "scopeStatement": "Project delivery is credited to Dazlab. This entry describes my Webflow contribution to the marketing website. Product engineering, visual design authorship, and business outcomes are outside its scope. Product claims shown in screenshots are not measured results of my Webflow work."
+      },
+      "caseStudy": {
+        "_type": "caseStudy",
+        "eyebrow": "Case Study / Interior-design Software",
+        "heading": "Mortar - Webflow Marketing Website.",
+        "summary": "I implemented Mortar's marketing website in Webflow as Dazlab's sole Webflow developer. This project was developed under Dazlab.",
+        "heroImage": {
+          "_type": "mediaUsage",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-fixture-4"
+            }
+          },
+          "alt": "Mortar public marketing website screenshot",
+          "decorative": false,
+          "cropIntent": "fullScreenshot",
+          "legacyAssetPaths": [
+            "/assets/mortar.png"
+          ],
+          "rights": {
+            "_type": "usageRights",
+            "status": "approved",
+            "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+          },
+          "reviewFlags": []
+        },
+        "sections": [
+          {
+            "_type": "narrativeSection",
+            "heading": "Context",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "paragraph",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "text",
+                    "text": "Mortar provides software for interior designers. This entry covers its marketing website.",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            "_key": "item-0"
+          }
+        ],
+        "publicNotices": [
+          "This is a provisional portfolio entry. Precise project dates and screenshot reuse rights remain under review; public availability does not establish permission or endorsement."
+        ],
+        "seo": {
+          "_type": "seoMetadata",
+          "title": "Mortar Case Study - Aldrin Camacho",
+          "description": "Mortar marketing website: Webflow implementation by Aldrin Camacho as Dazlab's sole Webflow developer. Project developed under Dazlab.",
+          "indexingRequest": "noindex"
+        }
+      },
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "project-handl",
+      "_type": "project",
+      "_rev": "fixture-project-handl-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "Handl",
+      "slug": {
+        "_type": "slug",
+        "current": "handl"
+      },
+      "externalUrl": "https://handl.works/",
+      "cardRole": "Webflow development for Dazlab",
+      "tags": [
+        "Agency Billing",
+        "Webflow",
+        "Responsive"
+      ],
+      "cardSummary": "Webflow implementation of Handl's agency billing marketing website, developed under Dazlab as its sole Webflow developer.",
+      "cardImage": {
+        "_type": "mediaUsage",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-fixture-5"
+          }
+        },
+        "alt": "Handl agency operations SaaS website showcase",
+        "decorative": false,
+        "cropIntent": "cardTop",
+        "legacyAssetPaths": [
+          "/assets/handl.png"
+        ],
+        "rights": {
+          "_type": "usageRights",
+          "status": "approved",
+          "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+        },
+        "reviewFlags": []
+      },
+      "portfolioStatus": "provisional",
+      "migration": {
+        "_type": "migrationMetadata",
+        "sourceSystem": "portfolio-v2",
+        "sourceKey": "portfolio-v2/project/handl",
+        "sourceCommit": "88532ad18215c064a14e2824ec9f90b0e513d482",
+        "sourceLocations": [
+          "src/content/site.ts"
+        ],
+        "legacyPath": "/work/handl/"
+      },
+      "attribution": {
+        "_type": "projectAttribution",
+        "person": {
+          "_type": "reference",
+          "_ref": "portfolioProfile"
+        },
+        "deliveryCredit": "Dazlab",
+        "role": "Sole Webflow developer",
+        "scope": "marketingWebsite",
+        "contributionSummary": "My role was Webflow implementation and responsive development for the marketing website. My responsibilities at Dazlab included Figma-to-Webflow work, CMS architecture and setup, and technical SEO/AEO where applicable.",
+        "scopeStatement": "Project delivery is credited to Dazlab. This entry describes my Webflow contribution to the marketing website. Product engineering, visual design authorship, and business outcomes are outside its scope. Product claims shown in screenshots are not measured results of my Webflow work."
+      },
+      "caseStudy": {
+        "_type": "caseStudy",
+        "eyebrow": "Case Study / Agency Billing",
+        "heading": "Handl - Webflow Marketing Website.",
+        "summary": "I implemented Handl's marketing website in Webflow as Dazlab's sole Webflow developer. This project was developed under Dazlab.",
+        "heroImage": {
+          "_type": "mediaUsage",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-fixture-5"
+            }
+          },
+          "alt": "Handl public marketing website screenshot",
+          "decorative": false,
+          "cropIntent": "fullScreenshot",
+          "legacyAssetPaths": [
+            "/assets/handl.png"
+          ],
+          "rights": {
+            "_type": "usageRights",
+            "status": "approved",
+            "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+          },
+          "reviewFlags": []
+        },
+        "sections": [
+          {
+            "_type": "narrativeSection",
+            "heading": "Context",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "paragraph",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "text",
+                    "text": "Handl provides agency billing software. This entry covers its marketing website.",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            "_key": "item-0"
+          }
+        ],
+        "publicNotices": [
+          "This is a provisional portfolio entry. Precise project dates and screenshot reuse rights remain under review; public availability does not establish permission or endorsement."
+        ],
+        "seo": {
+          "_type": "seoMetadata",
+          "title": "Handl Case Study - Aldrin Camacho",
+          "description": "Handl marketing website: Webflow implementation by Aldrin Camacho as Dazlab's sole Webflow developer. Project developed under Dazlab.",
+          "indexingRequest": "noindex"
+        }
+      },
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "project-tangilla",
+      "_type": "project",
+      "_rev": "fixture-project-tangilla-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "Tangilla",
+      "slug": {
+        "_type": "slug",
+        "current": "tangilla"
+      },
+      "externalUrl": "https://tangilla.com/",
+      "cardRole": "Webflow development for Dazlab",
+      "tags": [
+        "Member Management",
+        "Webflow",
+        "Responsive"
+      ],
+      "cardSummary": "Webflow implementation of Tangilla's member-management software marketing website, developed under Dazlab as its sole Webflow developer.",
+      "cardImage": {
+        "_type": "mediaUsage",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-fixture-6"
+          }
+        },
+        "alt": "Tangilla SaaS marketing website showcase",
+        "decorative": false,
+        "cropIntent": "cardTop",
+        "legacyAssetPaths": [
+          "/assets/tangilla.png"
+        ],
+        "rights": {
+          "_type": "usageRights",
+          "status": "approved",
+          "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+        },
+        "reviewFlags": []
+      },
+      "portfolioStatus": "provisional",
+      "migration": {
+        "_type": "migrationMetadata",
+        "sourceSystem": "portfolio-v2",
+        "sourceKey": "portfolio-v2/project/tangilla",
+        "sourceCommit": "88532ad18215c064a14e2824ec9f90b0e513d482",
+        "sourceLocations": [
+          "src/content/site.ts"
+        ],
+        "legacyPath": "/work/tangilla/"
+      },
+      "attribution": {
+        "_type": "projectAttribution",
+        "person": {
+          "_type": "reference",
+          "_ref": "portfolioProfile"
+        },
+        "deliveryCredit": "Dazlab",
+        "role": "Sole Webflow developer",
+        "scope": "marketingWebsite",
+        "contributionSummary": "My role was Webflow implementation and responsive development for the marketing website. My responsibilities at Dazlab included Figma-to-Webflow work, CMS architecture and setup, and technical SEO/AEO where applicable.",
+        "scopeStatement": "Project delivery is credited to Dazlab. This entry describes my Webflow contribution to the marketing website. Product engineering, visual design authorship, and business outcomes are outside its scope. Product claims shown in screenshots are not measured results of my Webflow work."
+      },
+      "caseStudy": {
+        "_type": "caseStudy",
+        "eyebrow": "Case Study / Member Management",
+        "heading": "Tangilla - Webflow Marketing Website.",
+        "summary": "I implemented Tangilla's marketing website in Webflow as Dazlab's sole Webflow developer. This project was developed under Dazlab.",
+        "heroImage": {
+          "_type": "mediaUsage",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-fixture-6"
+            }
+          },
+          "alt": "Tangilla public marketing website screenshot",
+          "decorative": false,
+          "cropIntent": "fullScreenshot",
+          "legacyAssetPaths": [
+            "/assets/tangilla.png"
+          ],
+          "rights": {
+            "_type": "usageRights",
+            "status": "approved",
+            "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+          },
+          "reviewFlags": []
+        },
+        "sections": [
+          {
+            "_type": "narrativeSection",
+            "heading": "Context",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "paragraph",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "text",
+                    "text": "Tangilla provides association and member-management software. This entry covers its marketing website.",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            "_key": "item-0"
+          }
+        ],
+        "publicNotices": [
+          "This is a provisional portfolio entry. Precise project dates and screenshot reuse rights remain under review; public availability does not establish permission or endorsement."
+        ],
+        "seo": {
+          "_type": "seoMetadata",
+          "title": "Tangilla Case Study - Aldrin Camacho",
+          "description": "Tangilla marketing website: Webflow implementation by Aldrin Camacho as Dazlab's sole Webflow developer. Project developed under Dazlab.",
+          "indexingRequest": "noindex"
+        }
+      },
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "page-home",
+      "_type": "page",
+      "_rev": "fixture-page-home-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+      "routeKey": "home",
+      "seo": {
+        "_type": "seoMetadata",
+        "title": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+        "description": "Portfolio of Aldrin Camacho, a Webflow Developer with a background in UX/UI and service design. Featured work covers marketing websites developed under Dazlab.",
+        "indexingRequest": "noindex"
+      },
+      "sections": [
+        {
+          "_type": "heroSection",
+          "heading": "Hero",
+          "introLabel": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+          "leftHeading": "designer",
+          "rightHeading": "developer",
+          "leftText": "I shape structure, visual rhythm, and usability before a site reaches Webflow.",
+          "rightText": "I build responsive Webflow marketing sites with CMS setup and technical SEO foundations.",
+          "leftLink": {
+            "_type": "link",
+            "label": "Explore design work ↗",
+            "kind": "internal",
+            "target": {
+              "_type": "reference",
+              "_ref": "page-home"
+            },
+            "fragment": "work",
+            "newWindow": false
+          },
+          "rightLink": {
+            "_type": "link",
+            "label": "Technical services ↗",
+            "kind": "internal",
+            "target": {
+              "_type": "reference",
+              "_ref": "page-home"
+            },
+            "fragment": "expertise",
+            "newWindow": false
+          },
+          "portrait": {
+            "_type": "mediaUsage",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_type": "reference",
+                "_ref": "image-fixture-0"
+              }
+            },
+            "alt": "Aldrin Camacho designer and developer portrait",
+            "decorative": false,
+            "cropIntent": "portrait",
+            "legacyAssetPaths": [
+              "/assets/aldrin-hero.webp"
+            ],
+            "rights": {
+              "_type": "usageRights",
+              "status": "approved",
+              "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+            },
+            "reviewFlags": []
+          },
+          "actions": [
+            {
+              "_type": "link",
+              "label": "View Selected Work ↗",
+              "kind": "internal",
+              "target": {
+                "_type": "reference",
+                "_ref": "page-home"
+              },
+              "fragment": "work",
+              "newWindow": false,
+              "_key": "item-0"
+            },
+            {
+              "_type": "link",
+              "label": "Get in touch ↗",
+              "kind": "internal",
+              "target": {
+                "_type": "reference",
+                "_ref": "page-contact"
+              },
+              "newWindow": false,
+              "_key": "item-1"
+            }
+          ],
+          "_key": "item-0"
+        },
+        {
+          "_type": "toolsSection",
+          "heading": "Built with",
+          "items": [
+            {
+              "_type": "toolItem",
+              "name": "Figma",
+              "logo": {
+                "_type": "mediaUsage",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_type": "reference",
+                    "_ref": "image-fixture-7"
+                  }
+                },
+                "alt": "Figma logo",
+                "decorative": false,
+                "cropIntent": "fullScreenshot",
+                "legacyAssetPaths": [
+                  "/assets/tools/figma.svg"
+                ],
+                "rights": {
+                  "_type": "usageRights",
+                  "status": "approved",
+                  "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+                },
+                "reviewFlags": []
+              },
+              "_key": "item-0"
+            },
+            {
+              "_type": "toolItem",
+              "name": "Webflow",
+              "logo": {
+                "_type": "mediaUsage",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_type": "reference",
+                    "_ref": "image-fixture-8"
+                  }
+                },
+                "alt": "Webflow logo",
+                "decorative": false,
+                "cropIntent": "fullScreenshot",
+                "legacyAssetPaths": [
+                  "/assets/tools/webflow.svg"
+                ],
+                "rights": {
+                  "_type": "usageRights",
+                  "status": "approved",
+                  "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+                },
+                "reviewFlags": []
+              },
+              "_key": "item-1"
+            },
+            {
+              "_type": "toolItem",
+              "name": "Claude",
+              "logo": {
+                "_type": "mediaUsage",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_type": "reference",
+                    "_ref": "image-fixture-9"
+                  }
+                },
+                "alt": "Claude logo",
+                "decorative": false,
+                "cropIntent": "fullScreenshot",
+                "legacyAssetPaths": [
+                  "/assets/tools/claude.svg"
+                ],
+                "rights": {
+                  "_type": "usageRights",
+                  "status": "approved",
+                  "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+                },
+                "reviewFlags": []
+              },
+              "_key": "item-2"
+            },
+            {
+              "_type": "toolItem",
+              "name": "OpenAI Codex",
+              "wordmark": "OpenAI Codex",
+              "_key": "item-3"
+            },
+            {
+              "_type": "toolItem",
+              "name": "ChatGPT",
+              "wordmark": "ChatGPT",
+              "_key": "item-4"
+            },
+            {
+              "_type": "toolItem",
+              "name": "Make",
+              "logo": {
+                "_type": "mediaUsage",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_type": "reference",
+                    "_ref": "image-fixture-10"
+                  }
+                },
+                "alt": "Make logo",
+                "decorative": false,
+                "cropIntent": "fullScreenshot",
+                "legacyAssetPaths": [
+                  "/assets/tools/make.svg"
+                ],
+                "rights": {
+                  "_type": "usageRights",
+                  "status": "approved",
+                  "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+                },
+                "reviewFlags": []
+              },
+              "_key": "item-5"
+            },
+            {
+              "_type": "toolItem",
+              "name": "n8n",
+              "logo": {
+                "_type": "mediaUsage",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_type": "reference",
+                    "_ref": "image-fixture-11"
+                  }
+                },
+                "alt": "n8n logo",
+                "decorative": false,
+                "cropIntent": "fullScreenshot",
+                "legacyAssetPaths": [
+                  "/assets/tools/n8n.svg"
+                ],
+                "rights": {
+                  "_type": "usageRights",
+                  "status": "approved",
+                  "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+                },
+                "reviewFlags": []
+              },
+              "_key": "item-6"
+            },
+            {
+              "_type": "toolItem",
+              "name": "Relume",
+              "wordmark": "Relume",
+              "_key": "item-7"
+            },
+            {
+              "_type": "toolItem",
+              "name": "Client-First",
+              "wordmark": "Client-First",
+              "_key": "item-8"
+            }
+          ],
+          "_key": "item-1"
+        },
+        {
+          "_type": "projectCollectionSection",
+          "heading": "Selected Work",
+          "anchor": "work",
+          "eyebrow": "02 / Selected Work",
+          "description": "Marketing websites developed under Dazlab, with my Webflow contributions outlined in each entry.",
+          "selection": [
+            {
+              "_type": "reference",
+              "_ref": "project-dazlab",
+              "_key": "item-0"
+            },
+            {
+              "_type": "reference",
+              "_ref": "project-mortar",
+              "_key": "item-1"
+            },
+            {
+              "_type": "reference",
+              "_ref": "project-handl",
+              "_key": "item-2"
+            },
+            {
+              "_type": "reference",
+              "_ref": "project-tangilla",
+              "_key": "item-3"
+            }
+          ],
+          "_key": "item-2"
+        },
+        {
+          "_type": "featureListSection",
+          "heading": "What I Do",
+          "anchor": "expertise",
+          "eyebrow": "03 / What I Do",
+          "items": [
+            {
+              "_type": "featureItem",
+              "title": "Webflow Development",
+              "text": "Figma-to-Webflow builds with responsive structure and reusable page patterns.",
+              "_key": "item-0"
+            },
+            {
+              "_type": "featureItem",
+              "title": "CMS & Structured SEO",
+              "text": "CMS architecture and setup, with technical SEO and AEO implementation where applicable.",
+              "_key": "item-1"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Design-to-Dev Execution",
+              "text": "Careful translation of Figma layouts into polished, production-ready Webflow pages.",
+              "_key": "item-2"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Responsive Implementation",
+              "text": "Responsive Webflow development across desktop, tablet, and mobile layouts.",
+              "_key": "item-3"
+            }
+          ],
+          "_key": "item-3"
+        },
+        {
+          "_type": "featureListSection",
+          "heading": "From Idea to Live Website",
+          "anchor": "workflow",
+          "eyebrow": "04 / Workflow",
+          "items": [
+            {
+              "_type": "featureItem",
+              "title": "Discover & Plan",
+              "text": "Clarify goals, requirements, and site structure.",
+              "_key": "item-0"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Design & Structure",
+              "text": "Plan flows and refine layouts in Figma.",
+              "_key": "item-1"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Build in Webflow",
+              "text": "Build responsive pages with reusable Webflow structure.",
+              "_key": "item-2"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Refine with AI",
+              "text": "Use AI review to support troubleshooting and refinement.",
+              "_key": "item-3"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Test & Launch",
+              "text": "Check responsiveness, forms, SEO, and launch readiness.",
+              "_key": "item-4"
+            }
+          ],
+          "_key": "item-4"
+        },
+        {
+          "_type": "profileSection",
+          "heading": "Design-minded. Development-focused.",
+          "anchor": "about",
+          "eyebrow": "05 / About Me",
+          "profile": {
+            "_type": "reference",
+            "_ref": "portfolioProfile"
+          },
+          "variant": "summary",
+          "_key": "item-5"
+        },
+        {
+          "_type": "experienceSection",
+          "heading": "Where I've Worked",
+          "anchor": "experience",
+          "eyebrow": "06 / Experience",
+          "entries": [
+            {
+              "_type": "reference",
+              "_ref": "experience-0",
+              "_key": "item-0"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-1",
+              "_key": "item-1"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-2",
+              "_key": "item-2"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-3",
+              "_key": "item-3"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-4",
+              "_key": "item-4"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-5",
+              "_key": "item-5"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-6",
+              "_key": "item-6"
+            }
+          ],
+          "_key": "item-6"
+        },
+        {
+          "_type": "ctaSection",
+          "heading": "Let's build something better",
+          "anchor": "contact",
+          "eyebrow": "07 / Contact",
+          "body": "Have a Webflow build, CMS cleanup, or ongoing site need? I’d be glad to talk.",
+          "actions": [
+            {
+              "_type": "link",
+              "label": "Get in Touch ↗",
+              "kind": "internal",
+              "target": {
+                "_type": "reference",
+                "_ref": "page-contact"
+              },
+              "newWindow": false,
+              "_key": "item-0"
+            },
+            {
+              "_type": "link",
+              "label": "LinkedIn ↗",
+              "kind": "external",
+              "externalUrl": "https://www.linkedin.com/in/drin-camacho/",
+              "newWindow": true,
+              "_key": "item-1"
+            }
+          ],
+          "_key": "item-7"
+        }
+      ],
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "page-about",
+      "_type": "page",
+      "_rev": "fixture-page-about-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "About - Aldrin Camacho",
+      "routeKey": "about",
+      "seo": {
+        "_type": "seoMetadata",
+        "title": "About - Aldrin Camacho",
+        "description": "About Aldrin Camacho, a Webflow Developer and Digital Experience Specialist with a background in UX/UI and service design.",
+        "indexingRequest": "noindex"
+      },
+      "sections": [
+        {
+          "_type": "profileSection",
+          "heading": "Design-minded. Development-focused.",
+          "eyebrow": "About / Profile",
+          "profile": {
+            "_type": "reference",
+            "_ref": "portfolioProfile"
+          },
+          "variant": "biography",
+          "portrait": {
+            "_type": "mediaUsage",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_type": "reference",
+                "_ref": "image-fixture-1"
+              }
+            },
+            "alt": "Standing studio portrait of Aldrin Camacho",
+            "decorative": false,
+            "cropIntent": "portrait",
+            "legacyAssetPaths": [
+              "/src/assets/aldrin-standing-studio-portrait.png"
+            ],
+            "rights": {
+              "_type": "usageRights",
+              "status": "approved",
+              "publicNote": "SYNTHETIC TEST APPROVAL ONLY. No real reuse permission asserted."
+            },
+            "reviewFlags": []
+          },
+          "_key": "item-0"
+        },
+        {
+          "_type": "experienceSection",
+          "heading": "Where I've Worked",
+          "eyebrow": "Experience",
+          "entries": [
+            {
+              "_type": "reference",
+              "_ref": "experience-0",
+              "_key": "item-0"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-1",
+              "_key": "item-1"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-2",
+              "_key": "item-2"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-3",
+              "_key": "item-3"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-4",
+              "_key": "item-4"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-5",
+              "_key": "item-5"
+            },
+            {
+              "_type": "reference",
+              "_ref": "experience-6",
+              "_key": "item-6"
+            }
+          ],
+          "_key": "item-1"
+        }
+      ],
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "page-work",
+      "_type": "page",
+      "_rev": "fixture-page-work-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "Selected Work - Aldrin Camacho",
+      "routeKey": "work",
+      "seo": {
+        "_type": "seoMetadata",
+        "title": "Selected Work - Aldrin Camacho",
+        "description": "Marketing websites developed under Dazlab, featuring Aldrin Camacho's Webflow implementation for Dazlab, Mortar, Handl, and Tangilla.",
+        "indexingRequest": "noindex"
+      },
+      "sections": [
+        {
+          "_type": "projectCollectionSection",
+          "heading": "Work that speaks for itself",
+          "eyebrow": "01 / Work Archive",
+          "description": "Marketing websites developed under Dazlab. These provisional entries describe my Webflow contribution.",
+          "selection": [
+            {
+              "_type": "reference",
+              "_ref": "project-dazlab",
+              "_key": "item-0"
+            },
+            {
+              "_type": "reference",
+              "_ref": "project-mortar",
+              "_key": "item-1"
+            },
+            {
+              "_type": "reference",
+              "_ref": "project-handl",
+              "_key": "item-2"
+            },
+            {
+              "_type": "reference",
+              "_ref": "project-tangilla",
+              "_key": "item-3"
+            }
+          ],
+          "labels": [
+            "SaaS",
+            "CMS",
+            "Responsive"
+          ],
+          "_key": "item-0"
+        },
+        {
+          "_type": "ctaSection",
+          "heading": "Want the thinking behind the work?",
+          "actions": [
+            {
+              "_type": "link",
+              "label": "Read About My Approach ↗",
+              "kind": "internal",
+              "target": {
+                "_type": "reference",
+                "_ref": "page-about"
+              },
+              "newWindow": false,
+              "_key": "item-0"
+            }
+          ],
+          "_key": "item-1"
+        }
+      ],
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    },
+    {
+      "_id": "page-contact",
+      "_type": "page",
+      "_rev": "fixture-page-contact-1",
+      "_createdAt": "2026-10-15T00:00:00Z",
+      "_updatedAt": "2026-10-15T00:00:00Z",
+      "title": "Contact - Aldrin Camacho",
+      "routeKey": "contact",
+      "seo": {
+        "_type": "seoMetadata",
+        "title": "Contact - Aldrin Camacho",
+        "description": "Contact Aldrin Camacho about Webflow projects, CMS cleanup, ongoing website support, or remote Webflow development roles.",
+        "indexingRequest": "noindex"
+      },
+      "sections": [
+        {
+          "_type": "textSection",
+          "heading": "Let's build something better",
+          "eyebrow": "Let's Connect",
+          "paragraphs": [
+            "Have a Webflow project, CMS cleanup, or remote role in mind? Send the details and I’ll take a look."
+          ],
+          "_key": "item-0"
+        },
+        {
+          "_type": "featureListSection",
+          "heading": "Two ways to work together",
+          "eyebrow": "Two ways to work together",
+          "items": [
+            {
+              "_type": "featureItem",
+              "title": "Discuss a Website Project",
+              "text": "New marketing site, Figma-to-Webflow build, CMS restructure, or ongoing support for a SaaS product.",
+              "_key": "item-0"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Discuss a Remote Role",
+              "text": "Contract or in-house Webflow development with UI/UX, CMS, and technical implementation experience.",
+              "_key": "item-1"
+            }
+          ],
+          "actions": [
+            {
+              "_type": "link",
+              "label": "Contact on LinkedIn ↗",
+              "kind": "external",
+              "externalUrl": "https://www.linkedin.com/in/drin-camacho/",
+              "newWindow": true,
+              "_key": "item-0"
+            }
+          ],
+          "_key": "item-1"
+        },
+        {
+          "_type": "featureListSection",
+          "heading": "What working together looks like",
+          "items": [
+            {
+              "_type": "featureItem",
+              "title": "Clear Milestones",
+              "text": "Clear timelines, staged reviews, and practical checkpoints from kickoff to launch.",
+              "_key": "item-0"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Clean Webflow Code",
+              "text": "Responsive pages, CMS structure, and Figma-to-Webflow implementation.",
+              "_key": "item-1"
+            },
+            {
+              "_type": "featureItem",
+              "title": "Direct Communication",
+              "text": "Async updates, direct review loops, and clear Figma-to-Webflow handoff.",
+              "_key": "item-2"
+            }
+          ],
+          "_key": "item-2"
+        }
+      ],
+      "editorialReview": {
+        "_type": "editorialReview",
+        "state": "approved"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "_id": "image-fixture-0",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-0.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-1",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-1.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-2",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-2.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-3",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-3.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-4",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-4.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-5",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-5.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-6",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-6.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-7",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-7.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-8",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-8.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-9",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-9.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-10",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-10.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    },
+    {
+      "_id": "image-fixture-11",
+      "_type": "sanity.imageAsset",
+      "_rev": "fixture-asset-1",
+      "url": "https://cdn.sanity.io/images/p9xrr86a/production/image-fixture-11.webp",
+      "metadata": {
+        "dimensions": {
+          "width": 100,
+          "height": 100,
+          "aspectRatio": 1
+        }
+      }
+    }
+  ]
+}

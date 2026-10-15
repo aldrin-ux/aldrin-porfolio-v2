@@ -10,7 +10,7 @@ Base: current main `88532ad18215c064a14e2824ec9f90b0e513d482`, the merged PR #6.
 - Sanity 6.19.0, Sanity UI 4.4.6, React/React DOM 19.3.1, styled-components 6.6.0; TypeScript 7.0.2. Studio requires Node ≥22.12; verification used Node 24.14.0/npm 11.12.0. Astro's existing Node 20 CI/hosting configuration is untouched.
 - Required public configuration: `SANITY_STUDIO_PROJECT_ID=p9xrr86a`, `SANITY_STUDIO_DATASET=production`, in ignored `studio/.env.local`. Studio and CLI share the same checked target.
 - Title: Portfolio V2 CMS. Standard Sanity authentication, no custom provider or bypass.
-- Four informational setup panels and organized schema directories; zero registered content schemas and no fake content/documents. Post-login panel rendering remains pending authentication verification.
+- Four informational setup panels and organized schema directories; zero registered content schemas and no fake content/documents. The user subsequently confirmed successful sign-in and access to the four setup areas.
 - Reviewed lockfile versions are used; Studio automatic updates are explicitly disabled through the supported CLI configuration. This does not publish or register a hosted Studio.
 
 ## Checks performed
@@ -22,7 +22,7 @@ Base: current main `88532ad18215c064a14e2824ec9f90b0e513d482`, the merged PR #6.
 | `npm --prefix studio run build` | Passed after final configuration changes; local `studio/dist/` only. Build reports only the two public identifier variables as exposed environment values. |
 | `npm --prefix studio run dev` | Started at `http://localhost:3333/`, bound to localhost. |
 | Browser | Portfolio V2 CMS standard login screen; Google, GitHub and email/password providers. All login URLs include `projectId=p9xrr86a` and localhost origin. No warning/error console messages observed. |
-| Authentication / dataset access | **Pending user verification.** No successful account sign-in, project role, dataset visibility or credentialed dataset access is claimed. No credentials were requested or supplied. |
+| Authentication / dataset access | **User-confirmed successful sign-in and access to the four setup areas.** Evidence: the user's response “Signed in successfully” to the local sign-in/four-areas verification question. This does not independently audit project roles, dataset visibility or Content Lake read/write permissions. No credentials were requested or supplied. |
 | Configuration guards | Missing variables rejected; wrong project rejected; approved project/dataset accepted. See [config guard evidence](ald-115/config-guard.json). |
 | `npm run build` | Passed: existing Astro public pages, 404 and sitemap generated. |
 | `npm run check` | Passed; existing `https://example.com` placeholder-domain warning retained. |
@@ -31,7 +31,7 @@ Base: current main `88532ad18215c064a14e2824ec9f90b0e513d482`, the merged PR #6.
 | Protected source scope | No diff to `src/`, `public/`, root package/lockfile, Astro config, Netlify config or GitHub workflow. |
 | Git/secret scope | Local environment, generated output, dependencies, `.sanity/` and representative token files excluded by `git check-ignore`. Only the public `.env.example` is eligible for commit. No API tokens or authentication credential files were created or included. |
 
-The local login screenshot is [studio-login.jpg](ald-115/studio-login.jpg). Configuration/build/startup evidence does not establish that the production dataset is accessible to the signed-in account; that requires the user's normal sign-in and project permission check.
+The local login screenshot is [studio-login.jpg](ald-115/studio-login.jpg), captured before the user's successful sign-in confirmation. Authentication and setup-area access are user-confirmed; production dataset read/write permissions, roles and visibility have not been separately tested. No content operation was used to verify access.
 
 ## Dependency security findings
 
@@ -43,7 +43,7 @@ The selected `sanity@6.19.0` was the registry's current stable release at inspec
 
 ## Manual verification and review gates
 
-1. Sign in at localhost with the existing Sanity account; confirm membership of project `p9xrr86a`, dataset `production`, and that the four setup panels open. Do not create/edit/publish documents as part of setup verification.
+1. **Completed by user confirmation:** sign in at localhost with the existing Sanity account and open the four setup areas. Config remains scoped to `p9xrr86a` / `production`. No document creation/editing/publishing was requested for verification.
 2. Review existing dataset visibility, editor roles and exact localhost CORS configuration in Sanity Manage. This PR does not change any of them, invite users or grant access. If sign-in/origin access is blocked, report the error and have the owner review the specific setting; no wildcard or auth bypass.
 3. Review dependency advisories and the setup PR. ALD-115 stays **In Progress** until review; sign-in is not inferred from a successful build.
 4. ALD-109's automatic production deployment remains unresolved. No merge, hosted Studio publishing, production environment/DNS/canonical/noindex change, webhook, schema deployment, migration or contact submission was performed.

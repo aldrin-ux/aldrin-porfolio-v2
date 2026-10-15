@@ -1,12 +1,12 @@
 ---
-import { navItems } from "../content/site";
+import { navItems, footerHtml } from "../content/resolved";
 ---
 
 <footer class="footer">
   <div class="container footer-inner">
-    <p>© 2025 Aldrin Camacho. Webflow Developer & Digital Experience Specialist.</p>
+    <p set:html={footerHtml} />
     <nav aria-label="Footer navigation">
-      {navItems.map((item) => <a href={item.href}>{item.label}</a>)}
+      {navItems.map((item) => <a href={item.href} target={item.newWindow ? "_blank" : undefined} rel={item.newWindow ? "noopener noreferrer" : undefined}>{item.label}</a>)}
     </nav>
   </div>
 </footer>

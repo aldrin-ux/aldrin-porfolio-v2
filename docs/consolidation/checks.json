@@ -1,0 +1,54 @@
+{
+  "baselineMain": "88532ad18215c064a14e2824ec9f90b0e513d482",
+  "sourceHeads": {
+    "pr8": "74df036407c8e19dd23970fb9f9c463369d158b5",
+    "pr9": "c4bd47b60c1956f2eb77f9f68a032d6c7a0c9d64",
+    "pr10": "5f181742dc7a31fae8e0c67b7d13cbddadae9deb",
+    "pr11": "14fbe566d34810ac6a01a8e591e6559a8c02c5f0",
+    "pr12": "da76c4d928a544754186570b2bd11b018dd6a9f9",
+    "excludedPr7": "188533bb8a7327ec431c8ebb1e7dffcf7ef264ea"
+  },
+  "defaultStatic": {
+    "expectedFiles": 81,
+    "actualFiles": 81,
+    "differences": [],
+    "originalPublicRoutes": 9
+  },
+  "offlineChecks": {
+    "contentTests": 48,
+    "studioSchemaTests": 65,
+    "queryTypes": "passed",
+    "groqEvaluation": "passed",
+    "fifthProjectGenerated": true,
+    "sampleRemovedAfterUnpublish": true,
+    "publicDefaultHasNoSample": true
+  },
+  "security": {
+    "root": {
+      "info": 0,
+      "low": 1,
+      "moderate": 0,
+      "high": 1,
+      "critical": 1,
+      "total": 3
+    },
+    "studio": {
+      "info": 0,
+      "low": 0,
+      "moderate": 9,
+      "high": 7,
+      "critical": 0,
+      "total": 16
+    },
+    "dependenciesUpdated": false
+  },
+  "untrackedFilesPreserved": 2,
+  "liveEditingRepeated": false,
+  "browserMatrixRepeated": false,
+  "accountOrContentWrites": false,
+  "credentialPatternScan": {
+    "candidateFiles": 75,
+    "matches": 0,
+    "scope": "Current candidate files; not a historical credential audit"
+  }
+}

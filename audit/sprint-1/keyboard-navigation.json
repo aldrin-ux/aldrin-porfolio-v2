@@ -1,0 +1,18 @@
+{
+  "reverseWrap": "Contact",
+  "forwardWrap": "Close",
+  "escape": {
+    "expanded": "false",
+    "focus": "Open navigation menu",
+    "hidden": true,
+    "outline": "1.99203px"
+  },
+  "navigation": {
+    "hidden": true,
+    "path": "/work/"
+  },
+  "skipLink": {
+    "path": "#main-content",
+    "target": "main-content"
+  }
+}

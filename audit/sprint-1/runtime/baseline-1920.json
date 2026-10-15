@@ -1,0 +1,251 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "reduced": false,
+  "hero": "hero is-complete",
+  "portrait": {
+    "x": 721.5231323242188,
+    "y": 324.2724914550781,
+    "width": 476.93817138671875,
+    "height": 459.2362976074219,
+    "top": 324.2724914550781,
+    "bottom": 783.5087890625,
+    "left": 721.5231323242188,
+    "right": 1198.4613037109375
+  },
+  "portraitTransform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+  "actions": {
+    "x": 360,
+    "y": 790.5,
+    "width": 1200,
+    "height": 48.390625,
+    "top": 790.5,
+    "bottom": 838.890625,
+    "left": 360,
+    "right": 1560
+  },
+  "gap": 6.9912109375,
+  "label": "Aldrin Camacho - Webflow Developer & Digital Experience Specialist",
+  "labelAlign": "start",
+  "panels": [],
+  "supportVisible": true,
+  "activeAnimations": 1,
+  "overflow": false,
+  "brokenImages": [],
+  "fonts": "loaded",
+  "frameCount": 246,
+  "frames": [
+    {
+      "t": 11,
+      "class": "hero",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "t": 333,
+      "class": "hero is-running",
+      "scale": "matrix(0.86, 0, 0, 0.86, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 246.805, 81.2812)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, 0, 0)",
+        "matrix(1, 0, 0, 1, 0, 0)"
+      ]
+    },
+    {
+      "t": 532,
+      "class": "hero is-running",
+      "scale": "matrix(0.86, 0, 0, 0.86, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 246.805, 81.2812)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, 0, 0)",
+        "matrix(1, 0, 0, 1, 0, 0)"
+      ]
+    },
+    {
+      "t": 732,
+      "class": "hero is-running",
+      "scale": "matrix(0.914309, 0, 0, 0.914309, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 246.805, 81.2812)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -1.22109, 0)",
+        "matrix(1, 0, 0, 1, 1.22109, 0)"
+      ]
+    },
+    {
+      "t": 932,
+      "class": "hero is-running",
+      "scale": "matrix(0.991465, 0, 0, 0.991465, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 246.805, 81.2812)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -28.1136, 0)",
+        "matrix(1, 0, 0, 1, 28.1136, 0)"
+      ]
+    },
+    {
+      "t": 1132,
+      "class": "hero is-running",
+      "scale": "matrix(1.03634, 0, 0, 1.03634, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 176.435, 58.1061)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -120.611, 0)",
+        "matrix(1, 0, 0, 1, 120.611, 0)"
+      ]
+    },
+    {
+      "t": 1332,
+      "class": "hero is-running",
+      "scale": "matrix(1.05953, 0, 0, 1.05953, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 75.2484, 24.7819)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -409.548, 0)",
+        "matrix(1, 0, 0, 1, 409.548, 0)"
+      ]
+    },
+    {
+      "t": 1532,
+      "class": "hero is-running",
+      "scale": "matrix(1.07099, 0, 0, 1.07099, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 21.9069, 7.2147)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -755.665, 0)",
+        "matrix(1, 0, 0, 1, 755.665, 0)"
+      ]
+    },
+    {
+      "t": 1732,
+      "class": "hero is-running",
+      "scale": "matrix(1.07646, 0, 0, 1.07646, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 0, 0)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -889.986, 0)",
+        "matrix(1, 0, 0, 1, 889.986, 0)"
+      ]
+    },
+    {
+      "t": 1933,
+      "class": "hero is-running",
+      "scale": "matrix(1.07887, 0, 0, 1.07887, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 0, 0)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -947.506, 0)",
+        "matrix(1, 0, 0, 1, 947.506, 0)"
+      ]
+    },
+    {
+      "t": 2132,
+      "class": "hero is-running",
+      "scale": "matrix(1.07977, 0, 0, 1.07977, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 0, 0)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -969.151, 0)",
+        "matrix(1, 0, 0, 1, 969.151, 0)"
+      ]
+    },
+    {
+      "t": 2332,
+      "class": "hero is-running",
+      "scale": "matrix(1.07999, 0, 0, 1.07999, 0, 0)",
+      "heading": "matrix(1, 0, 0, 1, 0, 0)",
+      "support": "0",
+      "panels": [
+        "matrix(1, 0, 0, 1, -971.525, 0)",
+        "matrix(1, 0, 0, 1, 971.525, 0)"
+      ]
+    },
+    {
+      "t": 2532,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "0",
+      "panels": []
+    },
+    {
+      "t": 2732,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "0.182904",
+      "panels": []
+    },
+    {
+      "t": 2933,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "0.755456",
+      "panels": []
+    },
+    {
+      "t": 3133,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "0.965183",
+      "panels": []
+    },
+    {
+      "t": 3332,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3532,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3732,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3932,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 4132,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 4215,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    }
+  ]
+}

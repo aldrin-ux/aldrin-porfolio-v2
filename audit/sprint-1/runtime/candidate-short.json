@@ -1,0 +1,218 @@
+{
+  "width": 1440,
+  "height": 600,
+  "reduced": false,
+  "hero": "hero is-complete",
+  "portrait": {
+    "x": 481.52313232421875,
+    "y": 179.17874145507812,
+    "width": 476.93817138671875,
+    "height": 459.2362976074219,
+    "top": 179.17874145507812,
+    "bottom": 638.4150390625,
+    "left": 481.52313232421875,
+    "right": 958.4613037109375
+  },
+  "portraitTransform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+  "actions": {
+    "x": 120,
+    "y": 674.40625,
+    "width": 1200,
+    "height": 48.390625,
+    "top": 674.40625,
+    "bottom": 722.796875,
+    "left": 120,
+    "right": 1320
+  },
+  "gap": 35.9912109375,
+  "label": "WEBFLOW DEVELOPER / DIGITAL EXPERIENCE SPECIALIST",
+  "labelAlign": "center",
+  "panels": [],
+  "supportVisible": true,
+  "activeAnimations": 1,
+  "overflow": false,
+  "brokenImages": [],
+  "fonts": "loaded",
+  "frameCount": 245,
+  "frames": [
+    {
+      "t": 14,
+      "class": "hero",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "t": 345,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 545,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 745,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 945,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1145,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1345,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1545,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1745,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1945,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2144,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2344,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2544,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2744,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2945,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3145,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3345,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3544,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3745,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3944,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 4145,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 4211,
+      "class": "hero is-complete",
+      "scale": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    }
+  ]
+}

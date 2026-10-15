@@ -1,0 +1,89 @@
+{
+  "note": "Rejected intermediate measurement, fixed before PR by reserving the narrow label height. Not part of final candidate metrics.",
+  "metrics": {
+    "score": 99,
+    "FCP": 909.9105999999999,
+    "LCP": 2187.38825,
+    "CLS": 0.02785831596953637,
+    "TBT": 0,
+    "SpeedIndex": 909.9105999999999,
+    "transferBytes": 287272,
+    "imageTransferBytes": 194484,
+    "scriptTransferBytes": 0
+  },
+  "layoutShifts": {
+    "id": "layout-shifts",
+    "title": "Avoid large layout shifts",
+    "description": "These are the largest layout shifts observed on the page. Each table item represents a single layout shift, and shows the element that shifted the most. Below each item are possible root causes that led to the layout shift. Some of these layout shifts may not be included in the CLS metric value due to [windowing](https://web.dev/articles/cls#what_is_cls). [Learn how to improve CLS](https://web.dev/articles/optimize-cls)",
+    "score": 1,
+    "scoreDisplayMode": "informative",
+    "displayValue": "1 layout shift found",
+    "metricSavings": {
+      "CLS": 0.028
+    },
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "extra"
+          },
+          "label": "Element"
+        },
+        {
+          "key": "score",
+          "valueType": "numeric",
+          "subItemsHeading": {
+            "key": "cause",
+            "valueType": "text"
+          },
+          "granularity": 0.001,
+          "label": "Layout shift score"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "page-1-DIV",
+            "path": "1,HTML,1,BODY,3,MAIN,0,SECTION,0,DIV,1,DIV",
+            "selector": "main#main-content > section.hero > div.container > div.hero-stage",
+            "boundingRect": {
+              "top": 159,
+              "bottom": 916,
+              "left": 16,
+              "right": 396,
+              "width": 380,
+              "height": 757
+            },
+            "snippet": "<div class=\"hero-stage\" data-astro-cid-j7pv25f6=\"\">",
+            "nodeLabel": "designer.\n\nI shape structure, visual rhythm, and usability before a site reache…"
+          },
+          "score": 0.02785831596953637,
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "extra": {
+                  "type": "url",
+                  "value": "http://127.0.0.1:4332/fonts/optimized/inter.c940764593d0.woff2"
+                },
+                "cause": "Web font loaded"
+              },
+              {
+                "extra": {
+                  "type": "url",
+                  "value": "http://127.0.0.1:4332/fonts/optimized/jetbrains-mono.2c32b9b3ee35.woff2"
+                },
+                "cause": "Web font loaded"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "guidanceLevel": 2
+  }
+}

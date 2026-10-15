@@ -1,0 +1,896 @@
+[
+  {
+    "route": "/",
+    "canonical": "https://example.com/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "designer.",
+    "height": 667,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/aldrin-hero-512.fa3724b4c631.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/figma.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/webflow.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/claude.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/tools/make.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/tools/n8n.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/figma.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/webflow.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/claude.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/tools/make.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/tools/n8n.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/about/",
+    "canonical": "https://example.com/about/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Design-minded.Development-focused.",
+    "height": 667,
+    "images": [
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 374,
+        "src": "/_astro/aldrin-standing-studio-portrait.jPEy_BVv_Z22BjaE.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/work/",
+    "canonical": "https://example.com/work/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Work that speaks for itself.",
+    "height": 667,
+    "images": [
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/work/dazlab/",
+    "canonical": "https://example.com/work/dazlab/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Dazlab - Webflow Marketing Website.",
+    "height": 667,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/work/mortar/",
+    "canonical": "https://example.com/work/mortar/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Mortar - Webflow Marketing Website.",
+    "height": 667,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/mortar-study-1920.93d2059601c4.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/work/handl/",
+    "canonical": "https://example.com/work/handl/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Handl - Webflow Marketing Website.",
+    "height": 667,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/handl-study-1920.8c0f81a3cfb9.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/work/tangilla/",
+    "canonical": "https://example.com/work/tangilla/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Tangilla - Webflow Marketing Website.",
+    "height": 667,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 342,
+        "src": "/assets/optimized/tangilla-study-1920.201469066898.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/contact/",
+    "canonical": "https://example.com/contact/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Let's build something better.",
+    "height": 667,
+    "images": [],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/contact/success/",
+    "canonical": "https://example.com/contact/success/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Thanks for reaching out.",
+    "height": 667,
+    "images": [],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 375
+  },
+  {
+    "route": "/",
+    "canonical": "https://example.com/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "designer.",
+    "height": 1024,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 520,
+        "src": "/assets/optimized/aldrin-hero-512.fa3724b4c631.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/figma.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/webflow.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/claude.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/make.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/n8n.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/figma.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/webflow.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/claude.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/make.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/n8n.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 352,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 352,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/about/",
+    "canonical": "https://example.com/about/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Design-minded.Development-focused.",
+    "height": 1024,
+    "images": [
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 322,
+        "src": "/_astro/aldrin-standing-studio-portrait.jPEy_BVv_Z22BjaE.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/work/",
+    "canonical": "https://example.com/work/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Work that speaks for itself.",
+    "height": 1024,
+    "images": [
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 352,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 352,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 352,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 352,
+        "src": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/work/dazlab/",
+    "canonical": "https://example.com/work/dazlab/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Dazlab - Webflow Marketing Website.",
+    "height": 1024,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 736,
+        "src": "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/work/mortar/",
+    "canonical": "https://example.com/work/mortar/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Mortar - Webflow Marketing Website.",
+    "height": 1024,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 736,
+        "src": "/assets/optimized/mortar-study-1920.93d2059601c4.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/work/handl/",
+    "canonical": "https://example.com/work/handl/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Handl - Webflow Marketing Website.",
+    "height": 1024,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 736,
+        "src": "/assets/optimized/handl-study-1920.8c0f81a3cfb9.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/work/tangilla/",
+    "canonical": "https://example.com/work/tangilla/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Tangilla - Webflow Marketing Website.",
+    "height": 1024,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 736,
+        "src": "/assets/optimized/tangilla-study-1920.201469066898.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/contact/",
+    "canonical": "https://example.com/contact/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Let's build something better.",
+    "height": 1024,
+    "images": [],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/contact/success/",
+    "canonical": "https://example.com/contact/success/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Thanks for reaching out.",
+    "height": 1024,
+    "images": [],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 768
+  },
+  {
+    "route": "/",
+    "canonical": "https://example.com/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "designer.",
+    "height": 900,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 440,
+        "src": "/assets/optimized/aldrin-hero-512.fa3724b4c631.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/figma.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/webflow.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/claude.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/make.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/n8n.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/figma.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/webflow.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/claude.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/make.svg"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 150,
+        "src": "/assets/tools/n8n.svg"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 600,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 600,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  },
+  {
+    "route": "/about/",
+    "canonical": "https://example.com/about/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Design-minded.Development-focused.",
+    "height": 900,
+    "images": [
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 604,
+        "src": "/_astro/aldrin-standing-studio-portrait.jPEy_BVv_Z22BjaE.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  },
+  {
+    "route": "/work/",
+    "canonical": "https://example.com/work/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Work that speaks for itself.",
+    "height": 900,
+    "images": [
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 600,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 600,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 600,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      },
+      {
+        "complete": true,
+        "loading": "lazy",
+        "naturalWidth": 600,
+        "src": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  },
+  {
+    "route": "/work/dazlab/",
+    "canonical": "https://example.com/work/dazlab/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Dazlab - Webflow Marketing Website.",
+    "height": 900,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 1200,
+        "src": "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  },
+  {
+    "route": "/work/mortar/",
+    "canonical": "https://example.com/work/mortar/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Mortar - Webflow Marketing Website.",
+    "height": 900,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 1200,
+        "src": "/assets/optimized/mortar-study-1920.93d2059601c4.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/handl-card-1200.8f16ba658298.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  },
+  {
+    "route": "/work/handl/",
+    "canonical": "https://example.com/work/handl/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Handl - Webflow Marketing Website.",
+    "height": 900,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 1200,
+        "src": "/assets/optimized/handl-study-1920.8c0f81a3cfb9.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  },
+  {
+    "route": "/work/tangilla/",
+    "canonical": "https://example.com/work/tangilla/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Tangilla - Webflow Marketing Website.",
+    "height": 900,
+    "images": [
+      {
+        "complete": true,
+        "loading": "eager",
+        "naturalWidth": 1200,
+        "src": "/assets/optimized/tangilla-study-1920.201469066898.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp"
+      },
+      {
+        "complete": false,
+        "loading": "lazy",
+        "naturalWidth": 0,
+        "src": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp"
+      }
+    ],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  },
+  {
+    "route": "/contact/",
+    "canonical": "https://example.com/contact/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Let's build something better.",
+    "height": 900,
+    "images": [],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  },
+  {
+    "route": "/contact/success/",
+    "canonical": "https://example.com/contact/success/",
+    "font": "Inter, system-ui, sans-serif",
+    "h1": "Thanks for reaching out.",
+    "height": 900,
+    "images": [],
+    "overflow": false,
+    "robots": "noindex, nofollow",
+    "width": 1440
+  }
+]

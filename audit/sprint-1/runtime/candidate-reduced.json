@@ -1,0 +1,210 @@
+{
+  "width": 1440,
+  "height": 900,
+  "reduced": true,
+  "hero": "hero is-complete",
+  "portrait": {
+    "x": 499.1875,
+    "y": 261.28125,
+    "width": 441.609375,
+    "height": 425.21875,
+    "top": 261.28125,
+    "bottom": 686.5,
+    "left": 499.1875,
+    "right": 940.796875
+  },
+  "portraitTransform": "none",
+  "actions": {
+    "x": 120,
+    "y": 722.5,
+    "width": 1200,
+    "height": 48.390625,
+    "top": 722.5,
+    "bottom": 770.890625,
+    "left": 120,
+    "right": 1320
+  },
+  "gap": 36,
+  "label": "WEBFLOW DEVELOPER / DIGITAL EXPERIENCE SPECIALIST",
+  "labelAlign": "center",
+  "panels": [],
+  "supportVisible": true,
+  "activeAnimations": 0,
+  "overflow": false,
+  "brokenImages": [],
+  "fonts": "loaded",
+  "frameCount": 241,
+  "frames": [
+    {
+      "t": 9,
+      "class": "hero",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "t": 404,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 604,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 804,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1003,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1204,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1404,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1603,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 1804,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2004,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2204,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2404,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2603,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 2804,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3004,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3203,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3403,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3603,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 3803,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 4003,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    },
+    {
+      "t": 4204,
+      "class": "hero is-complete",
+      "scale": "none",
+      "heading": "none",
+      "support": "1",
+      "panels": []
+    }
+  ]
+}

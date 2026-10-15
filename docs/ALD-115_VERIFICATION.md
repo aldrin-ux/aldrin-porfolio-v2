@@ -2,6 +2,8 @@
 
 Date: 15 October 2026 (UTC+8). Branch: `ald-115-sanity-studio-setup`.
 
+**Latest security follow-up:** [Detailed review](ALD-115_SECURITY_REVIEW.md) supersedes the historical 17-entry snapshots below. Two scoped same-major parser updates clear eight distinct advisory causes. Current Studio audit: **16 affected entries (7 high, 9 moderate, 0 critical)** from three advisory families. Actual-caller parser tests, Studio check/build, source-map review and Astro build/check/test passed; all 81 public output files still match main byte-for-byte. See [latest evidence](ald-115/security-review.json) and [after audit](ald-115/studio-audit-after-compatible-fixes.json). Account checks remain **Pending manual verification**. No merge or deployment; ALD-115 remains In Progress.
+
 Base: current main `88532ad18215c064a14e2824ec9f90b0e513d482`, the merged PR #6. PR #7 was verified open and unmerged at `188533bb8a7327ec431c8ebb1e7dffcf7ef264ea`; none of its changes are included. Pre-existing untracked `audit/ald-106/` is preserved and excluded.
 
 ## Implementation

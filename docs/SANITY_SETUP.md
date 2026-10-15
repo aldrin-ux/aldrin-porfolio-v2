@@ -41,6 +41,7 @@ Other local checks:
 
 ```powershell
 npm --prefix studio run check
+npm --prefix studio test
 npm --prefix studio run build
 npm run build
 npm run check
@@ -82,6 +83,8 @@ Implement schemas only after ALD-114's model/mapping is approved. Add document d
 Do not add placeholder portfolio claims, invented dates, metrics, testimonials or image permissions. No creation, migration, publishing or deletion of Content Lake documents is part of this PR.
 
 ## Security and limitations
+
+Latest dependency review: [ALD-115_SECURITY_REVIEW.md](ALD-115_SECURITY_REVIEW.md). Scoped same-major overrides patch the framework CLI's YAML/TOML parsers; the actual-caller regression test guards compatibility. Remove these overrides once upstream supplies compatible patched versions, then rerun tests/build/audit. Remaining Studio audit: 16 affected entries (7 high, 9 moderate), from three root advisory families. Existing independent Astro findings are unchanged. These remain review blockers.
 
 - `.env` and `.env.*` are ignored at all directory levels, with `.env.example` explicitly allowed. Local credentials belong in ignored `secrets/` or `local-secrets/` if ever needed.
 - `.sanity/`, common Sanity token filenames, `*.token` and `tokens.json` are ignored; generated `dist/`, dependencies and caches are ignored. Sanity CLI authentication, if the user later uses it, belongs in its normal user-profile storage, not the repository.

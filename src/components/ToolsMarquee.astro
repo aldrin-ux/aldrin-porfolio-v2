@@ -17,16 +17,17 @@ const tools: Tool[] = [
   { name: "Client-First", wordmark: "Client-First" },
 ];
 
-const marqueeTools = [...tools, ...tools];
+const { items = tools, heading = "Built with", accessibleLabel = "Tools and technologies used in Aldrin's work" } = Astro.props;
+const marqueeTools = [...items, ...items];
 ---
 
 <section class="tools-section" aria-labelledby="tools-heading">
   <div class="container tools-inner">
     <div class="tools-copy">
-      <h2 id="tools-heading">Built with<span class="accent">.</span></h2>
+      <h2 id="tools-heading">{heading}<span class="accent">.</span></h2>
     </div>
 
-    <div class="marquee" tabindex="0" role="region" aria-label="Tools and technologies used in Aldrin's work">
+    <div class="marquee" tabindex="0" role="region" aria-label={accessibleLabel}>
       <div class="marquee-track" aria-hidden="true">
         {marqueeTools.map((tool, index) => (
           <div class="tool-logo">

@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "node scripts/validate-release.mjs",
-    "test": "npm run check"
+    "test": "npm run check && npm run test:content",
+    "test:content": "node --test tests/content/*.test.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0"

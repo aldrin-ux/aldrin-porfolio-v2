@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2022", "module": "ESNext", "moduleResolution": "Bundler",
+    "allowJs": true, "checkJs": false, "noEmit": true, "skipLibCheck": true,
+    "strict": true, "types": [], "lib": ["ES2022", "DOM"]
+  },
+  "include": ["query-types.ts", "../../src/lib/sanity/types.d.ts", "../../src/lib/sanity/schema.types.d.ts"]
+}

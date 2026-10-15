@@ -1,15 +1,15 @@
 ---
-import { navItems } from "../content/site";
+import { navItems, brand } from "../content/resolved";
 
 const current = Astro.url.pathname;
 ---
 
 <header class="site-header">
   <div class="container header-inner">
-    <a class="brand" href="/">Aldrin C.</a>
+    <a class="brand" href="/">{brand.shortName}</a>
     <nav class="desktop-nav" aria-label="Primary navigation">
       {navItems.map((item) => (
-        <a class:list={{ active: current === item.href, navlink: true }} href={item.href}>{item.label}</a>
+        <a class:list={{ active: current === item.href, navlink: true }} href={item.href} target={item.newWindow ? "_blank" : undefined} rel={item.newWindow ? "noopener noreferrer" : undefined}>{item.label}</a>
       ))}
     </nav>
     <button
@@ -23,18 +23,18 @@ const current = Astro.url.pathname;
       <span></span>
       <span></span>
     </button>
-    <a class="avatar" href="/about/" aria-label="About Aldrin">AC</a>
+    <a class="avatar" href="/about/" aria-label={brand.avatarLabel}>{brand.avatarText}</a>
   </div>
   <div class="mobile-menu" id="mobile-menu" hidden>
     <button class="mobile-backdrop" type="button" aria-label="Close navigation menu" tabindex="-1"></button>
     <div class="mobile-menu__panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
       <div class="mobile-menu__top">
-        <span>Aldrin C.</span>
+        <span>{brand.shortName}</span>
         <button class="menu-close" type="button" aria-label="Close navigation menu">Close</button>
       </div>
       <nav aria-label="Mobile navigation">
         {navItems.map((item) => (
-          <a class:list={{ active: current === item.href, "mobile-link": true }} href={item.href}>{item.label}</a>
+          <a class:list={{ active: current === item.href, "mobile-link": true }} href={item.href} target={item.newWindow ? "_blank" : undefined} rel={item.newWindow ? "noopener noreferrer" : undefined}>{item.label}</a>
         ))}
       </nav>
     </div>

@@ -2,7 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SectionHeading from "../../components/SectionHeading.astro";
 import ProjectCard from "../../components/ProjectCard.astro";
-import { projects, siteMetadata } from "../../content/site";
+import { projects, siteMetadata } from "../../content/resolved";
 
 const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).toString();
 const title = "Selected Work - Aldrin Camacho";

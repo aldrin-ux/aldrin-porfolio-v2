@@ -10,13 +10,14 @@ interface Props {
     summary: string;
     image: string;
     alt: string;
+    imageVariant?: { src: string; srcset: string; width: number; height: number };
   };
   headingLevel?: "h2" | "h3";
 }
 
 const { project, headingLevel = "h3" } = Astro.props;
 const HeadingTag = headingLevel;
-const image = imageAssets[project.image]?.card;
+const image = project.imageVariant ?? imageAssets[project.image]?.card;
 ---
 
 <article class="project-card">

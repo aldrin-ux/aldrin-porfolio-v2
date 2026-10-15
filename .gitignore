@@ -15,6 +15,11 @@ dist/
 *.pfx
 secrets/
 local-secrets/
+.sanity/
+.sanity-token*
+sanity-token*
+*.token
+tokens.json
 
 # Logs and temporary files
 *.log

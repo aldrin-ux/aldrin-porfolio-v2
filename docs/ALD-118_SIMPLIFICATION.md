@@ -28,11 +28,11 @@ These were **real Content Lake operations through the authenticated CLI/client**
 
 Synthetic asset: `image-9f907712663df782486ce1c1b7239d835be4ba44-640x400-png`. No writes were issued to production. Local lifecycle helper files and content caches are ignored under `.cache/ald-118/`; no credentials are stored in them or committed.
 
-## Studio UI limitation and exact manual action
+## Studio UI verification
 
 Local Studio started at **http://localhost:3333**. Existing CORS already permits that origin with credentials; no CORS change was needed. The prior local Studio process from this repository was restarted with process-scoped test dataset variables, leaving saved env files unchanged. Its isolated title and login screen were verified.
 
-The available browser has no Sanity session. **Studio UI create/publish/edit/unpublish has not been verified.** Sign in directly at localhost:3333 (never paste credentials into chat), confirm the isolated Studio title, and open the existing synthetic draft. To finish the UI-specific check, publish that draft, edit its title, republish and rebuild, then unpublish and rebuild again. Reuse this draft; do not create another project. No new permission/token/CORS approval is currently indicated.
+After the user signed in directly, the existing synthetic draft was opened in the isolated Studio. Through the actual UI, its title was reset to **Synthetic sample project** and published; the next Astro build showed it. The title was then edited to **Synthetic sample project — Studio edited** and republished; the next build and browser showed that exact title/H1. Studio's Published view → Unpublish → Unpublish now removed the published version. The next build removed the route, listing, sitemap entry and PNG; browser showed 404. Initial creation/media upload used the CLI, then the same single document completed the UI editing lifecycle. No second project was created. **No remaining blocker or manual action is required for this test.**
 
 ## Local commands
 
@@ -60,4 +60,5 @@ Open http://localhost:4323/work/sample-project/ when published. It currently ret
 - KEEP Studio/project schema, routes/rendering, published-only retrieval, basic validation and static rollback. SIMPLIFY the local workflow as above. DEFER page builders, reusable client frameworks, approval ledgers, complex media verification, browser matrices and enterprise release governance.
 - Future production CMS adoption needs separate approval, production schema/content/media review and a separately reviewed hosting/release path. This test configuration cannot target production and does not unblock ALD-109.
 
-No Netlify settings, account permissions, token inventory, existing dataset visibility or CORS changes; no client import, contact submission, merge or production deploy. Pre-existing untracked `audit/ald-106/` is preserved. The remaining blocker is browser sign-in for Studio UI verification, not Content Lake access.
+No Netlify settings, account permissions, token inventory, existing dataset visibility or CORS changes; no client import, contact submission, merge or production deploy. Pre-existing untracked `audit/ald-106/` is preserved. Studio sign-in and the UI editing lifecycle are now verified; no test blocker remains.
+

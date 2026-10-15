@@ -1,3 +1,3 @@
-# Future reusable objects
+# Shared and portfolio objects
 
-Reserve this directory for reviewed reusable fields and nested content objects. Add types only as part of the approved content model, then register them in `../index.ts`.
+`models.ts` contains SEO, links, media/rights, attribution, embedded case studies and supporting objects. `sections.ts` contains the eight bounded section types. Shared entities use references; document-owned content stays embedded. No arbitrary HTML, styling controls, performance claims or private permission evidence fields are modeled. Field helpers explicitly preserve shared validators when field-level required rules would otherwise replace type validation.

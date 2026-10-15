@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-15T10:51:12.643Z",
+  "baseStudio": "74df036407c8e19dd23970fb9f9c463369d158b5",
+  "architecture": "c4bd47b60c1956f2eb77f9f68a032d6c7a0c9d64",
+  "astroBaseline": "88532ad18215c064a14e2824ec9f90b0e513d482",
+  "astroFiles": 81,
+  "astroDifferences": [],
+  "protectedDiff": "",
+  "studioLockfileDiff": "",
+  "userFilesDifferences": [],
+  "badLinks": [],
+  "schemaExtracted": true,
+  "typesGenerated": true
+}

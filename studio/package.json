@@ -8,7 +8,9 @@
     "dev": "sanity dev --host localhost --port 3333",
     "build": "sanity build",
     "check": "tsc --noEmit",
-    "test": "node scripts/check-config-parsers.mjs"
+    "schema:extract": "sanity schemas extract --path .sanity/schema.json --enforce-required-fields --force",
+    "typegen": "sanity typegen generate",
+    "test": "node scripts/check-config-parsers.mjs && node --experimental-strip-types --test tests/schema.test.mjs"
   },
   "dependencies": {
     "@sanity/ui": "4.4.6",

@@ -23,5 +23,14 @@ test('offline local builds: zero, one, multiple, then unpublish; drafts excluded
       }
     }
     for (const slug of ['dazlab', 'mortar', 'handl', 'tangilla']) assert.ok(fs.existsSync(new URL(`work/${slug}/index.html`, output)));
+    if (count) {
+      const html = read('work/sample-project/index.html');
+      assert.match(html, /<title>Synthetic case-study SEO<\/title>/);
+      assert.match(html, /<h1[^>]*>Synthetic narrative heading<\/h1>/);
+      assert.match(html, /<strong>Persistent rich narrative &amp; evidence\.<\/strong>/);
+      assert.match(html, /Synthetic screenshot caption\./);
+      assert.match(html, /name="description" content="Synthetic meta description\."/);
+      assert.ok(fs.existsSync(new URL('assets/ald118-sample-project-social.png', output)));
+    } else assert.ok(!fs.existsSync(new URL('assets/ald118-sample-project-social.png', output)));
   }
 });

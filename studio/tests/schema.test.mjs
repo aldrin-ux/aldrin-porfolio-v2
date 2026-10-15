@@ -4,7 +4,7 @@ import { createSchema, validateDocument } from "sanity";
 import { getFallbackLocaleSource } from "@sanity/validation/_internal";
 import { parse, evaluate } from "groq-js";
 import { from } from "rxjs";
-import { schemaTypes } from "../schemaTypes/index.ts";
+import { schemaTypes, localSchemaTypes } from "../schemaTypes/index.ts";
 import { projects, caseStudies, experience } from "../../src/content/site.ts";
 
 // In-memory validation fixtures only. No document, permission claim or asset is sent to Sanity.
@@ -56,7 +56,7 @@ function mockClient(dataset = [], fail = false) {
 async function validate(document, options = {}) {
   const client = mockClient(options.dataset ?? [], options.fail ?? false);
   const markers = await validateDocument({ document: clone(document), environment: "studio",
-    workspace: { schema: compiled, getClient: () => client, i18n: getFallbackLocaleSource() },
+    workspace: { schema: options.schema ?? compiled, getClient: () => client, i18n: getFallbackLocaleSource() },
     getDocumentExists: async ({ id }) => !(options.missing ?? []).includes(id),
   });
   const result = { markers };
@@ -224,4 +224,22 @@ test("nested media, paragraph and attribution rules hold in every usage", async 
   const h = home(); h.sections[0].portrait.rights.status = "unreviewed"; await rejects(h, /rights/i);
   h.sections[0].portrait = media(); h.seo.socialImage = media(); h.seo.socialImage.rights.status = "rejected"; await rejects(h, /rights/i);
   const p = project(); p.attribution.capabilities = [{ _type: "capability", _key: "c", name: "Synthetic capability", applicability: "invented" }]; await rejects(p, /listed|allowed/i);
+});
+
+test('local editor reuses the embedded narrative/SEO and has no profile dependency', async () => {
+  const local = createSchema({ name: 'local-editor-validation', types: localSchemaTypes });
+  assert.deepEqual(local._validation?.filter(group => group.problems.some(p => p.severity === 'error')), [], JSON.stringify(local._validation));
+  const definition = localSchemaTypes.find(type => type.name === 'project');
+  assert.deepEqual(definition.groups.map(group => group.title), ['Project Details', 'Case Study Content', 'Media', 'SEO']);
+  assert.ok(definition.fields.some(field => field.name === 'caseStudy'));
+  assert.ok(definition.fields.some(field => field.name === 'screenshots'));
+  assert.ok(!definition.fields.some(field => field.name === 'attribution'));
+  const doc = { _id: 'drafts.local-editor-fixture', _type: 'project', title: 'Synthetic editor test', slug: { _type: 'slug', current: 'editor-test' },
+    cardSummary: 'Synthetic card summary.', cardImage: media(), cardRole: 'Developer', tags: ['Webflow'],
+    caseStudy: { _type: 'caseStudy', summary: 'Synthetic overview.', sections: [{ _key: 'contribution', _type: 'narrativeSection', heading: 'My Contribution', body: body('Synthetic contribution.') }],
+      seo: { _type: 'seoMetadata', title: 'Synthetic SEO' } }, screenshots: [{ ...media(), _key: 'shot' }] };
+  await accepts(doc, { schema: local });
+  delete doc.caseStudy; delete doc.screenshots; await accepts(doc, { schema: local });
+  doc.caseStudy = { _type: 'caseStudy', sections: [{ _key: 'invalid', _type: 'narrativeSection', heading: 'The Challenge', body: [] }] };
+  await rejects(doc, /body|paragraph|required/i, { schema: local });
 });

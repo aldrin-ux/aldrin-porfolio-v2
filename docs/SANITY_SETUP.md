@@ -24,7 +24,7 @@ $env:SANITY_STUDIO_DATASET='ald118-test'
 npm --prefix studio run dev
 ```
 
-Open http://localhost:3333 and sign in directly. Confirm **ALD-118 — ISOLATED SYNTHETIC TEST** before editing. The isolated view reuses the project title, stable slug, summary and image fields; it requires no portfolio profile or page documents. The ordinary full schema set remains available for the configured production target, but these editable forms do not grant permission to write there. Existing ignored local env files are not overwritten by this guide.
+Open http://localhost:3333 and sign in directly. Confirm **ALD-118 — ISOLATED SYNTHETIC TEST** before editing. The isolated view groups existing fields into Project Details, Case Study Content, Media and SEO; it requires no portfolio profile or page documents. Project Overview reuses `caseStudy.summary`; add named narrative sections with paragraph bodies for Challenge, Contribution, Approach and Outcome. Bold and emphasis are supported; pasted Markdown is not automatically converted. Optional screenshots reuse the existing media object. See [field mapping and manual editing instructions](ALD-118_CASE_STUDY_EDITOR.md). The ordinary full schema set remains available for the configured production target, but these editable forms do not grant permission to write there. Existing ignored local env files are not overwritten by this guide.
 
 The approved private test dataset already exists. The original single-project Studio publish/edit/unpublish proof passed in PR #12; local mode now supports multiple published projects. It never creates or changes datasets, documents, assets, credentials or account settings. Existing localhost CORS is sufficient; no new origin or permission is needed.
 

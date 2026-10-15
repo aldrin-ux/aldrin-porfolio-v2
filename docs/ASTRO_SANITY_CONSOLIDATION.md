@@ -1,6 +1,6 @@
 # Astro + Sanity consolidation — ALD-118
 
-Follow-up: [multiple local projects](ALD-118_MULTIPLE_PROJECTS.md) extends the original consolidation below. The PR now includes a focused local adapter fix and 51 passing content tests; single-project limits and the earlier runtime-identical-to-#12 statement apply only to the original consolidation commit.
+Follow-ups: [multiple local projects](ALD-118_MULTIPLE_PROJECTS.md) and [local case-study editing](ALD-118_CASE_STUDY_EDITOR.md) extend the original consolidation below. Current checks pass 53 content tests and 66 Studio schema tests. Single-project limits, older test counts and the earlier runtime-identical-to-#12 statement below apply to the original consolidation commit.
 
 15 October 2026. **Review-only; ALD-118 In Progress.** Read latest ALD-114–118 and ALD-109 before changes. Branch `ald-118-cms-consolidation` starts at fetched current main `88532ad18215c064a14e2824ec9f90b0e513d482`. No PR was merged or closed.
 

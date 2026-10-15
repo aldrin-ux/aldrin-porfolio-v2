@@ -7,7 +7,7 @@ Review-only consolidation of PRs #8, #10, #11 and #12. Static Astro is the defau
 | Mode | Entry point | Content and boundaries |
 | --- | --- | --- |
 | Default static | `npm run build` | Existing source content, four case studies, nine public routes; no Sanity request or credential required. |
-| Isolated local sample | `astro.local.config.mjs` | Exactly `p9xrr86a/ald118-test`, one published synthetic project; static globals and existing projects retained. Rejects hosting/CI and production. |
+| Isolated local projects | `astro.local.config.mjs` | Published projects from exactly `p9xrr86a/ald118-test`; static globals and existing projects retained. Rejects hosting/CI and production. |
 | Full-site CMS adapter | `CONTENT_SOURCE=sanity` | Existing published-only snapshot adapter and dynamic routes retained, but public config has no publication/media policy and fails before live reads. Not activation-ready; no ledger is added here. |
 
 An unavailable/invalid CMS read fails the selected CMS build; it does not silently replace CMS content with static content. Static mode remains an explicit, separate choice.
@@ -26,7 +26,7 @@ npm --prefix studio run dev
 
 Open http://localhost:3333 and sign in directly. Confirm **ALD-118 — ISOLATED SYNTHETIC TEST** before editing. The isolated view reuses the project title, stable slug, summary and image fields; it requires no portfolio profile or page documents. The ordinary full schema set remains available for the configured production target, but these editable forms do not grant permission to write there. Existing ignored local env files are not overwritten by this guide.
 
-The previously approved private test dataset exists; its one synthetic sample is unpublished and its original synthetic PNG remains. The real Studio publish/edit/unpublish proof already passed in PR #12. Consolidation does not rerun it or create datasets, content, assets, credentials or account settings. Use only the approved test target for any later separately authorized live test. Existing localhost CORS was sufficient for the proof; no new origin or permission is needed by this consolidation.
+The approved private test dataset already exists. The original single-project Studio publish/edit/unpublish proof passed in PR #12; local mode now supports multiple published projects. It never creates or changes datasets, documents, assets, credentials or account settings. Existing localhost CORS is sufficient; no new origin or permission is needed.
 
 ## Local published-content build
 
@@ -41,9 +41,9 @@ npm run build -- --config astro.local.config.mjs
 npm run preview -- --config astro.local.config.mjs --host localhost --port 4323
 ```
 
-Output goes to ignored `test-results/ald-118-live/`. `/work/sample-project/` exists only when the sample is published; it currently returns 404. A fresh build drops unpublished routes, Work listing entries, sitemap entries and the copied PNG. Draft changes remain excluded until publication. Close dedicated terminals afterward so their test flags do not carry into normal commands.
+Output goes to ignored `test-results/ald-118-live/`. Every valid published project gets `/work/{slug}/`, a Work listing entry, a sitemap entry and its own local image file. A fresh build drops unpublished routes, listing/sitemap entries and stale image files. Draft changes remain excluded until publication. Duplicate slugs, reserved/unsafe slugs and collisions with the four static project routes fail the build with project-specific field errors; incomplete published projects fail validation rather than being silently omitted. Close dedicated terminals afterward so their test flags do not carry into normal commands.
 
-CLI authentication stays in its normal user-profile storage and is consumed only by the explicit local build configuration. Never put tokens in `SANITY_STUDIO_*`, public documents, browser code, Git or chat. Only public identifiers belong in Studio variables. Local env files, dependencies, caches and output remain ignored. The isolated media path accepts a PNG from the exact test dataset, with alt text, rights status and dimensions; delivery stays local without changing the site's CSP.
+CLI authentication stays in its normal user-profile storage and is consumed only by the explicit local build configuration. Never put tokens in `SANITY_STUDIO_*`, public documents, browser code, Git or chat. Only public identifiers belong in Studio variables. Local env files, dependencies, caches and output remain ignored. Images may be PNG, JPEG or WebP from the exact test dataset, with approved rights and dimensions of 1–4096 pixels per side; existing 2 MB delivery limit remains. Informative images require plain-text alt text; explicitly decorative images render with empty alt text. Media type and file signatures are checked, and per-project image paths prevent overwrites. Delivery stays local without changing the site's CSP.
 
 ## Essential content contract from PR #9
 

@@ -1,0 +1,568 @@
+{
+  "testedAt": "2026-10-15T04:37:28.130Z",
+  "baselineCommit": "88532ad18215c064a14e2824ec9f90b0e513d482",
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    },
+    {
+      "route": "/about/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    },
+    {
+      "route": "/work/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    },
+    {
+      "route": "/work/dazlab/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    },
+    {
+      "route": "/work/mortar/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    },
+    {
+      "route": "/work/handl/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    },
+    {
+      "route": "/work/tangilla/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    },
+    {
+      "route": "/contact/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    },
+    {
+      "route": "/contact/success/",
+      "status": 200,
+      "metadataIdentical": true,
+      "approvedTextIdenticalExceptHeroLabel": true
+    }
+  ],
+  "assets": [
+    {
+      "asset": "/_astro/about.B9zZLtB9.css",
+      "status": 200
+    },
+    {
+      "asset": "/_astro/index.D_1b8wRD.css",
+      "status": 200
+    },
+    {
+      "asset": "/",
+      "status": 200
+    },
+    {
+      "asset": "/work/",
+      "status": 200
+    },
+    {
+      "asset": "/about/",
+      "status": 200
+    },
+    {
+      "asset": "/contact/",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/aldrin-hero-512.fa3724b4c631.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/tools/figma.svg",
+      "status": 200
+    },
+    {
+      "asset": "/assets/tools/webflow.svg",
+      "status": 200
+    },
+    {
+      "asset": "/assets/tools/claude.svg",
+      "status": 200
+    },
+    {
+      "asset": "/assets/tools/make.svg",
+      "status": 200
+    },
+    {
+      "asset": "/assets/tools/n8n.svg",
+      "status": 200
+    },
+    {
+      "asset": "/work/dazlab/",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/dazlab-card-1200.3e6596c3008c.webp",
+      "status": 200
+    },
+    {
+      "asset": "/work/mortar/",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/mortar-card-1200.6ba88ea43555.webp",
+      "status": 200
+    },
+    {
+      "asset": "/work/handl/",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/handl-card-1200.8f16ba658298.webp",
+      "status": 200
+    },
+    {
+      "asset": "/work/tangilla/",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/tangilla-card-1200.cf2d95f1073b.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/aldrin-hero-320.acede31a552c.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/dazlab-card-480.f8e0a51d5a06.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/dazlab-card-800.7867b94465a2.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/mortar-card-480.dc27618ff55c.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/mortar-card-800.61a8534d06e3.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/handl-card-480.9fa58475e83f.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/handl-card-800.370f720423d5.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/tangilla-card-480.019937846dd3.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/tangilla-card-800.e9a7c7542fd3.webp",
+      "status": 200
+    },
+    {
+      "asset": "/_astro/aldrin-standing-studio-portrait.jPEy_BVv_Z22BjaE.webp",
+      "status": 200
+    },
+    {
+      "asset": "/_astro/aldrin-standing-studio-portrait.jPEy_BVv_1bE942.webp",
+      "status": 200
+    },
+    {
+      "asset": "/_astro/aldrin-standing-studio-portrait.jPEy_BVv_9K888.webp",
+      "status": 200
+    },
+    {
+      "asset": "/_astro/aldrin-standing-studio-portrait.jPEy_BVv_2hIMdm.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/dazlab-study-480.578bd5073027.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/dazlab-study-960.0f8d83463d2b.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/dazlab-study-1440.a09708127827.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/mortar-study-1920.93d2059601c4.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/mortar-study-480.529adffa34a4.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/mortar-study-960.eb143a0fefda.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/mortar-study-1440.af58212b80c9.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/handl-study-1920.8c0f81a3cfb9.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/handl-study-480.487a860fc402.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/handl-study-960.156aca5d0cab.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/handl-study-1440.625a4c583ff8.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/tangilla-study-1920.201469066898.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/tangilla-study-480.b3dcbd3cc130.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/tangilla-study-960.2cf9b66838e7.webp",
+      "status": 200
+    },
+    {
+      "asset": "/assets/optimized/tangilla-study-1440.4b16db37c0c4.webp",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/inter.fccca918fea4.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/inter.aebf2ab4a4ce.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/inter.a2e2c783ca6f.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/inter.46dd4cdca58c.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/inter.8db00ff46c67.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/inter.a28eb6d3ccb5.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/inter.c940764593d0.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/jetbrains-mono.9343de2ca5d9.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/jetbrains-mono.4995a9a43ac6.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/jetbrains-mono.49c3da6c9a2b.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/jetbrains-mono.d44eb1936043.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/jetbrains-mono.9c38cb2d0d2d.woff2",
+      "status": 200
+    },
+    {
+      "asset": "/fonts/optimized/jetbrains-mono.2c32b9b3ee35.woff2",
+      "status": 200
+    }
+  ],
+  "preservedAssets": [
+    {
+      "file": "assets/aldrin-about.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/aldrin-hero.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/dazlab-case.png",
+      "unchanged": true
+    },
+    {
+      "file": "assets/dazlab-case.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/dazlab.png",
+      "unchanged": true
+    },
+    {
+      "file": "assets/dazlab.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/handl.png",
+      "unchanged": true
+    },
+    {
+      "file": "assets/handl.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/mortar.png",
+      "unchanged": true
+    },
+    {
+      "file": "assets/mortar.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/aldrin-hero-320.acede31a552c.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/aldrin-hero-512.fa3724b4c631.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/dazlab-card-1200.3e6596c3008c.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/dazlab-card-480.f8e0a51d5a06.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/dazlab-card-800.7867b94465a2.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/dazlab-study-1440.a09708127827.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/dazlab-study-1920.2ef6f06c65cc.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/dazlab-study-480.578bd5073027.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/dazlab-study-960.0f8d83463d2b.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/handl-card-1200.8f16ba658298.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/handl-card-480.9fa58475e83f.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/handl-card-800.370f720423d5.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/handl-study-1440.625a4c583ff8.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/handl-study-1920.8c0f81a3cfb9.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/handl-study-480.487a860fc402.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/handl-study-960.156aca5d0cab.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/mortar-card-1200.6ba88ea43555.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/mortar-card-480.dc27618ff55c.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/mortar-card-800.61a8534d06e3.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/mortar-study-1440.af58212b80c9.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/mortar-study-1920.93d2059601c4.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/mortar-study-480.529adffa34a4.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/mortar-study-960.eb143a0fefda.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/tangilla-card-1200.cf2d95f1073b.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/tangilla-card-480.019937846dd3.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/tangilla-card-800.e9a7c7542fd3.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/tangilla-study-1440.4b16db37c0c4.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/tangilla-study-1920.201469066898.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/tangilla-study-480.b3dcbd3cc130.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/optimized/tangilla-study-960.2cf9b66838e7.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/tangilla.png",
+      "unchanged": true
+    },
+    {
+      "file": "assets/tangilla.webp",
+      "unchanged": true
+    },
+    {
+      "file": "assets/tools/claude.svg",
+      "unchanged": true
+    },
+    {
+      "file": "assets/tools/figma.svg",
+      "unchanged": true
+    },
+    {
+      "file": "assets/tools/make.svg",
+      "unchanged": true
+    },
+    {
+      "file": "assets/tools/n8n.svg",
+      "unchanged": true
+    },
+    {
+      "file": "assets/tools/webflow.svg",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/inter.46dd4cdca58c.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/inter.8db00ff46c67.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/inter.a28eb6d3ccb5.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/inter.a2e2c783ca6f.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/inter.aebf2ab4a4ce.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/inter.c940764593d0.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/inter.fccca918fea4.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/jetbrains-mono.2c32b9b3ee35.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/jetbrains-mono.4995a9a43ac6.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/jetbrains-mono.49c3da6c9a2b.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/jetbrains-mono.9343de2ca5d9.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/jetbrains-mono.9c38cb2d0d2d.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "fonts/optimized/jetbrains-mono.d44eb1936043.woff2",
+      "unchanged": true
+    },
+    {
+      "file": "_astro/aldrin-standing-studio-portrait.jPEy_BVv_1bE942.webp",
+      "unchanged": true
+    },
+    {
+      "file": "_astro/aldrin-standing-studio-portrait.jPEy_BVv_2hIMdm.webp",
+      "unchanged": true
+    },
+    {
+      "file": "_astro/aldrin-standing-studio-portrait.jPEy_BVv_9K888.webp",
+      "unchanged": true
+    },
+    {
+      "file": "_astro/aldrin-standing-studio-portrait.jPEy_BVv_Z22BjaE.webp",
+      "unchanged": true
+    }
+  ]
+}

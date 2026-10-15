@@ -1,0 +1,74 @@
+[
+  {
+    "actionTop": 910.7507934570312,
+    "font": "Inter, system-ui, sans-serif",
+    "gap": 244.77093505859375,
+    "height": 667,
+    "heroBottom": 1079.4945259094238,
+    "label": "WEBFLOW DEVELOPER / DIGITAL EXPERIENCE SPECIALIST",
+    "labelAlign": "center",
+    "labelCenterDelta": 0,
+    "overflow": false,
+    "portrait": {
+      "bottom": 665.9798583984375,
+      "height": 324.42108154296875,
+      "width": 336.92730712890625
+    },
+    "stageGap": 35.99980163574219,
+    "width": 375
+  },
+  {
+    "actionTop": 925.3299560546876,
+    "font": "Inter, system-ui, sans-serif",
+    "gap": 244.77093505859375,
+    "height": 844,
+    "heroBottom": 1094.07368850708,
+    "label": "WEBFLOW DEVELOPER / DIGITAL EXPERIENCE SPECIALIST",
+    "labelAlign": "center",
+    "labelCenterDelta": 0,
+    "overflow": false,
+    "portrait": {
+      "bottom": 680.5590209960938,
+      "height": 339.000244140625,
+      "width": 352.0667419433594
+    },
+    "stageGap": 35.99974060058594,
+    "width": 390
+  },
+  {
+    "actionTop": 1121.296142578125,
+    "font": "Inter, system-ui, sans-serif",
+    "gap": 257.0966491699219,
+    "height": 1024,
+    "heroBottom": 1250.0747604370115,
+    "label": "WEBFLOW DEVELOPER / DIGITAL EXPERIENCE SPECIALIST",
+    "labelAlign": "center",
+    "labelCenterDelta": -0.0000057220458984375,
+    "overflow": false,
+    "portrait": {
+      "bottom": 864.1994934082031,
+      "height": 500.6972351074219,
+      "width": 519.9950561523438
+    },
+    "stageGap": 35.99981689453125,
+    "width": 768
+  },
+  {
+    "actionTop": 731.1130981445312,
+    "font": "Inter, system-ui, sans-serif",
+    "gap": 35.998016357421875,
+    "height": 900,
+    "heroBottom": 900.790641784668,
+    "label": "WEBFLOW DEVELOPER / DIGITAL EXPERIENCE SPECIALIST",
+    "labelAlign": "center",
+    "labelCenterDelta": 0.00312042236328125,
+    "overflow": false,
+    "portrait": {
+      "bottom": 695.1150817871094,
+      "height": 459.2353515625,
+      "width": 476.9372253417969
+    },
+    "stageGap": 53.006744384765625,
+    "width": 1440
+  }
+]

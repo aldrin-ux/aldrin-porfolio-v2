@@ -32,7 +32,7 @@ const jsonLd = [
 <BaseLayout title={siteMetadata.title} description={siteMetadata.description} jsonLd={jsonLd}>
   <section class="hero" data-hero-split>
     <div class="container">
-      <span class="eyebrow hero-support">Aldrin Camacho - Webflow Developer & Digital Experience Specialist</span>
+      <span class="eyebrow hero-intro hero-support">WEBFLOW DEVELOPER / DIGITAL EXPERIENCE SPECIALIST</span>
       <div class="hero-stage">
         <div class="hero-copy left">
           <h1>designer<span class="accent">.</span></h1>
@@ -66,6 +66,19 @@ const jsonLd = [
     <div class="hero-panel hero-panel--right" aria-hidden="true"></div>
     <span class="hero-slash" aria-hidden="true">/</span>
   </section>
+
+  <noscript>
+    <style is:inline>
+      [data-hero-split] .hero-panel,
+      [data-hero-split] .hero-slash { display: none; }
+      @media (min-width: 901px) {
+        [data-hero-split] .hero-portrait { transform: scale(1.08); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        [data-hero-split] .hero-portrait { transform: none; }
+      }
+    </style>
+  </noscript>
 
   <ToolsMarquee />
 
@@ -249,6 +262,7 @@ const jsonLd = [
 <style>
   .hero {
     --hero-header-height: 72px;
+    --hero-stage-gap: clamp(1.5rem, 4vw, 3rem);
     position: relative;
     isolation: isolate;
     overflow: hidden;
@@ -269,11 +283,21 @@ const jsonLd = [
     z-index: 3;
   }
 
+  .hero.is-prep > .container,
+  .hero.is-running > .container {
+    /* Let the headings' z-index sit above the split panels during the reveal. */
+    z-index: auto;
+  }
+
+  .hero-intro {
+    text-align: center;
+  }
+
   .hero-stage {
     display: grid;
     grid-template-columns: minmax(220px, 0.75fr) minmax(260px, 1fr) minmax(220px, 0.75fr);
     align-items: center;
-    gap: clamp(1.5rem, 4vw, 3rem);
+    gap: var(--hero-stage-gap);
     margin-top: clamp(2rem, 5vw, 3rem);
   }
 
@@ -317,7 +341,19 @@ const jsonLd = [
     justify-content: center;
     align-items: center;
     gap: 1.25rem;
-    margin-top: 1.5rem;
+    margin-top: 36px;
+  }
+
+  @media (min-width: 901px) {
+    .hero {
+      padding-bottom: 4rem;
+    }
+
+    .hero-actions {
+      /* Reserve the final scale's lower overhang without changing layout during reveal:
+         center column = 40% of available grid width; 493/512 aspect; 4% per edge. */
+      margin-top: calc(36px + (100% - 2 * var(--hero-stage-gap)) * 0.01540625);
+    }
   }
 
   .hero-support {
@@ -577,7 +613,20 @@ const jsonLd = [
     }
   }
 
+  @media (max-width: 440px) {
+    .hero-intro {
+      /* Reserve the wrapped label's two lines before the local font swaps in. */
+      min-height: 2.4rem;
+      display: grid;
+      align-items: center;
+    }
+  }
+
   @media (prefers-reduced-motion: reduce) {
+    .hero-actions {
+      margin-top: 36px;
+    }
+
     .hero-support,
     .hero-portrait,
     .hero-panel,

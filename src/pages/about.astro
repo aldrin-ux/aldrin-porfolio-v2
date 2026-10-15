@@ -32,7 +32,7 @@ const jsonLd = {
           src={standingPortrait}
           alt="Standing studio portrait of Aldrin Camacho"
           widths={[420, 640, 820]}
-          sizes="(max-width: 760px) 100vw, 42vw"
+          sizes="(max-width: 760px) 100vw, (max-width: 1000px) 520px, 42vw"
           quality={88}
         />
       </figure>
@@ -103,6 +103,17 @@ const jsonLd = {
     margin: 0;
     color: var(--muted);
     font-size: 1.05rem;
+  }
+
+  @media (max-width: 1000px) {
+    .intro {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+
+    figure {
+      justify-self: center;
+    }
   }
 
   @media (max-width: 760px) {

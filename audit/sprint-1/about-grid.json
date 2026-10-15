@@ -1,0 +1,42 @@
+[
+  {
+    "fonts": "loaded",
+    "gridColumns": "336.927px",
+    "headingClientWidth": 337,
+    "headingScrollWidth": 339,
+    "height": 667,
+    "image": "http://127.0.0.1:4332/_astro/aldrin-standing-studio-portrait.jPEy_BVv_2hIMdm.webp",
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "fonts": "loaded",
+    "gridColumns": "716.073px",
+    "headingClientWidth": 716,
+    "headingScrollWidth": 716,
+    "height": 1024,
+    "image": "http://127.0.0.1:4332/_astro/aldrin-standing-studio-portrait.jPEy_BVv_2hIMdm.webp",
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "fonts": "loaded",
+    "gridColumns": "502.926px 372.161px",
+    "headingClientWidth": 503,
+    "headingScrollWidth": 503,
+    "height": 900,
+    "image": "http://127.0.0.1:4332/_astro/aldrin-standing-studio-portrait.jPEy_BVv_2hIMdm.webp",
+    "overflow": false,
+    "width": 1001
+  },
+  {
+    "fonts": "loaded",
+    "gridColumns": "643.682px 476.326px",
+    "headingClientWidth": 644,
+    "headingScrollWidth": 644,
+    "height": 900,
+    "image": "http://127.0.0.1:4332/_astro/aldrin-standing-studio-portrait.jPEy_BVv_2hIMdm.webp",
+    "overflow": false,
+    "width": 1440
+  }
+]

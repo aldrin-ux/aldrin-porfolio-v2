@@ -1,0 +1,74 @@
+[
+  {
+    "projectColumns": "336.927px",
+    "redundantExperienceSubtitle": false,
+    "sectionHeadingDescription": [
+      {
+        "description": "Marketing websites developed under Dazlab, with my Webflow contributions outlined in each entry.",
+        "title": "Selected Work."
+      },
+      {
+        "description": null,
+        "title": "What I Do."
+      },
+      {
+        "description": null,
+        "title": "From Idea to Live Website."
+      },
+      {
+        "description": null,
+        "title": "Where I've Worked."
+      }
+    ],
+    "timelineColumns": "303.337px",
+    "width": 375
+  },
+  {
+    "projectColumns": "348.438px 348.438px",
+    "redundantExperienceSubtitle": false,
+    "sectionHeadingDescription": [
+      {
+        "description": "Marketing websites developed under Dazlab, with my Webflow contributions outlined in each entry.",
+        "title": "Selected Work."
+      },
+      {
+        "description": null,
+        "title": "What I Do."
+      },
+      {
+        "description": null,
+        "title": "From Idea to Live Website."
+      },
+      {
+        "description": null,
+        "title": "Where I've Worked."
+      }
+    ],
+    "timelineColumns": "219.995px 179.999px 268.084px",
+    "width": 768
+  },
+  {
+    "projectColumns": "588.004px 588.004px",
+    "redundantExperienceSubtitle": false,
+    "sectionHeadingDescription": [
+      {
+        "description": "Marketing websites developed under Dazlab, with my Webflow contributions outlined in each entry.",
+        "title": "Selected Work."
+      },
+      {
+        "description": null,
+        "title": "What I Do."
+      },
+      {
+        "description": null,
+        "title": "From Idea to Live Website."
+      },
+      {
+        "description": null,
+        "title": "Where I've Worked."
+      }
+    ],
+    "timelineColumns": "219.995px 289.243px 642.766px",
+    "width": 1440
+  }
+]

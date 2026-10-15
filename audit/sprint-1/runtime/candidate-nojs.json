@@ -1,0 +1,51 @@
+{
+  "width": 1440,
+  "height": 900,
+  "reduced": false,
+  "hero": "hero",
+  "portrait": {
+    "x": 481.52313232421875,
+    "y": 235.77249145507812,
+    "width": 476.93817138671875,
+    "height": 459.2362976074219,
+    "top": 235.77249145507812,
+    "bottom": 695.0087890625,
+    "left": 481.52313232421875,
+    "right": 958.4613037109375
+  },
+  "portraitTransform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+  "actions": {
+    "x": 120,
+    "y": 731,
+    "width": 1200,
+    "height": 48.390625,
+    "top": 731,
+    "bottom": 779.390625,
+    "left": 120,
+    "right": 1320
+  },
+  "gap": 35.9912109375,
+  "label": "WEBFLOW DEVELOPER / DIGITAL EXPERIENCE SPECIALIST",
+  "labelAlign": "center",
+  "panels": [
+    {
+      "display": "none",
+      "background": "rgb(255, 255, 255)"
+    },
+    {
+      "display": "none",
+      "background": "rgb(255, 255, 255)"
+    },
+    {
+      "display": "none",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "supportVisible": true,
+  "activeAnimations": 1,
+  "overflow": false,
+  "brokenImages": [],
+  "fonts": "loaded",
+  "frameCount": 0,
+  "frames": []
+}

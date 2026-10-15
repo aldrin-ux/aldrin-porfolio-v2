@@ -22,7 +22,7 @@ const portfolioProfile = defineType({
   name: "portfolioProfile", title: "Portfolio profile", type: "document", groups,
   description: "Public professional profile only; no private resume details. Changes to professional claims need owner review.",
   validation: r => r.custom(v => singletonValidation("portfolioProfile", v)),
-  fields: [text("name", "Name"), text("professionalTitle", "Professional title"), strings("summaryParagraphs", "Homepage profile paragraphs"), strings("biographyParagraphs", "About-page biography paragraphs"),
+  fields: [text("name", "Name"), text("professionalTitle", "Professional title"), strings("summaryParagraphs", "Homepage profile paragraphs", true, true), strings("biographyParagraphs", "About-page biography paragraphs", true, true),
     text("profileHeading", "Profile heading"), objects("socialLinks", "Professional social links", ["link"]), object("heroPortrait", "Home portrait", "mediaUsage"), object("aboutPortrait", "About portrait", "mediaUsage"),
     references("experience", "Professional history in display order", ["professionalExperience"]), ...envelope()],
   preview: { select: { title: "name", subtitle: "professionalTitle", media: "heroPortrait.image" } },

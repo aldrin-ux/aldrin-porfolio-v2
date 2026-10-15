@@ -24,8 +24,8 @@ export const object = (name: string, title: string, type: string, required = tru
     return sharedChecks[type] ? requiredRule.custom(sharedChecks[type]).error() : requiredRule.error();
   },
 });
-export const strings = (name: string, title: string, required = true) => defineField({
-  name, title, type: "array", of: [defineArrayMember({ type: "string", validation: rule => rule.custom(plainText) })],
+export const strings = (name: string, title: string, required = true, multiline = false) => defineField({
+  name, title, type: "array", of: [defineArrayMember({ type: multiline ? "text" : "string", validation: rule => rule.custom(plainText) })],
   validation: rule => required ? rule.required().min(1).unique() : rule.unique(),
 });
 export const objects = (name: string, title: string, types: string[], required = true) => defineField({

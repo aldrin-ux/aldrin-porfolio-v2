@@ -101,6 +101,8 @@ test("field contracts and editor groups preserve ALD-114 names and boundaries", 
       assert.ok(definition.groups.filter(g => g.name === "seo").every(() => definition.fields.some(f => f.group === "seo")));
     }
   }
+  for (const [type, field] of [["portfolioProfile", "summaryParagraphs"], ["portfolioProfile", "biographyParagraphs"], ["caseStudy", "publicNotices"], ["textSection", "paragraphs"]])
+    assert.equal(schemaTypes.find(s => s.name === type).fields.find(f => f.name === field).of[0].type, "text", `${type}.${field} must provide multiline text items`);
 });
 for (const p of projects) test(`accepts actual ${p.title} contribution copy with synthetic approved media`, () => accepts(project(p.slug)));
 test("accepts all documented Home nested section shapes", () => accepts(home()));

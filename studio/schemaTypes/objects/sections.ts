@@ -7,7 +7,7 @@ export const sectionTypes = [
     text("introLabel", "Introduction label"), text("leftHeading", "Designer heading"), text("rightHeading", "Developer heading"),
     text("leftText", "Designer description", true, true), text("rightText", "Developer description", true, true),
     object("leftLink", "Designer link", "link"), object("rightLink", "Developer link", "link"), object("portrait", "Portrait", "mediaUsage"), objects("actions", "Main links", ["link"])], preview: { select: { title: "introLabel" } } }),
-  defineType({ name: "textSection", title: "Text section", type: "object", fields: [...sectionFields(), strings("paragraphs", "Plain-text paragraphs", false), object("body", "Rich text (alternative)", "portableText", false)],
+  defineType({ name: "textSection", title: "Text section", type: "object", fields: [...sectionFields(), strings("paragraphs", "Plain-text paragraphs", false, true), object("body", "Rich text (alternative)", "portableText", false)],
     validation: r => r.custom(v => {
       if (v === undefined) return true;
       const s = record(v), paragraphs = Array.isArray(s.paragraphs) && !!s.paragraphs.length, body = Array.isArray(s.body) && !!s.body.length;

@@ -78,7 +78,7 @@ const caseStudy = defineType({
   description: "This describes the marketing website. Product engineering, product ownership and business outcomes are outside the contribution scope.",
   fields: [text("eyebrow", "Small label"), text("heading", "Case-study heading"), text("summary", "Case-study summary", true, true),
     object("heroImage", "Case-study image", "mediaUsage"), objects("sections", "Context narrative", ["narrativeSection"]),
-    strings("publicNotices", "Public provisional-entry notices", false), object("seo", "Search and sharing", "seoMetadata")],
+    strings("publicNotices", "Public provisional-entry notices", false, true), object("seo", "Search and sharing", "seoMetadata")],
 });
 const featureItem = defineType({ name: "featureItem", title: "Service or workflow item", type: "object", fields: [text("title", "Title"), text("text", "Description", true, true)], preview: { select: { title: "title", subtitle: "text" } } });
 const toolItem = defineType({ name: "toolItem", title: "Tool", type: "object", fields: [text("name", "Tool name"), object("logo", "Reviewed logo", "mediaUsage", false), text("wordmark", "Text wordmark", false)],

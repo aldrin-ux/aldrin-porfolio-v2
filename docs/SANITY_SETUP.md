@@ -73,6 +73,8 @@ Normal interactive Studio sign-in uses the user's Sanity session; **no API token
 
 Authentication verification is recorded in `docs/ALD-115_VERIFICATION.md`. A working local server or successful build alone does not prove successful account login, dataset access or correct user roles.
 
+Current ALD-115 evidence includes the user's confirmed successful sign-in and access to the four setup areas. No repeat login or browser interaction is requested while the user operates remotely. Detailed roles, dataset visibility, Content Lake permissions and CORS credential policy are **Pending manual verification**; automated checks and security findings are recorded separately in the verification report.
+
 ## Adding future schemas
 
 Implement schemas only after ALD-114's model/mapping is approved. Add document definitions under `schemaTypes/documents/`, reusable nested definitions under `objects/`, and blocks under `blocks/`. Use Sanity's `defineType`/`defineField`, export each reviewed type through `schemaTypes/index.ts`, and replace the corresponding read-only navigation panel in `structure.tsx` with the approved document/list view. Ordinary documents should receive Sanity-generated IDs; singleton behavior and IDs must be designed explicitly.

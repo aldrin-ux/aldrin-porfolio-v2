@@ -1,3 +1,4 @@
+import { content } from "../content/resolved";
 const routes = [
   "/",
   "/work/",
@@ -7,6 +8,7 @@ const routes = [
   "/work/tangilla/",
   "/about/",
   "/contact/",
+  ...(content.localProjectSlugs ?? []).map(slug => `/work/${slug}/`),
 ];
 
 export function GET({ site }: { site?: URL }) {

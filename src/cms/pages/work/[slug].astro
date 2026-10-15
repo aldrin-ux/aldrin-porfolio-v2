@@ -5,8 +5,9 @@ import ProjectCard from "../../../components/ProjectCard.astro";
 import { caseStudies, projects, siteMetadata } from "../../../content/resolved";
 
 export async function getStaticPaths() {
-  const { projects } = await import("../../../content/resolved");
-  return projects.map(project => ({ params: { slug: project.slug } }));
+  const { projects, content } = await import("../../../content/resolved");
+  return projects.filter(project => !content.localProjectSlugs || content.localProjectSlugs.includes(project.slug))
+    .map(project => ({ params: { slug: project.slug } }));
 }
 const { slug } = Astro.params;
 const caseStudy = caseStudies[slug!];

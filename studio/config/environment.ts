@@ -7,8 +7,8 @@ function readEnvironment() {
     throw new Error("Missing Studio public identifiers. Copy studio/.env.example to studio/.env.local.");
   }
 
-  if (projectId !== "p9xrr86a" || dataset !== "production") {
-    throw new Error("This Studio setup is scoped to Sanity project p9xrr86a and dataset production.");
+  if (projectId !== "p9xrr86a" || !["production", "ald118-test"].includes(dataset)) {
+    throw new Error("This Studio setup accepts only p9xrr86a production or the isolated ald118-test dataset.");
   }
 
   return { projectId, dataset };
